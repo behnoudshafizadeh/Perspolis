@@ -1,0 +1,463 @@
+source,target,value
+New York,New York City,652169
+New York City,Acer,88739
+New York City,Quercus,82867
+New York City,Fraxinus,19981
+New York City,Platanus,87014
+New York City,Gleditsia,64264
+New York City,Lagerstroemia,442
+New York City,Prunus,41653
+New York City,Pyrus,58931
+New York City,Tilia,51267
+New York City,Ulmus,14915
+New York City,Pinus,702
+New York City,Liquidambar,10657
+New York City,Magnolia,1000
+New York City,Washingtonia,0
+New York City,Celtis,2382
+New York City,Malus,3527
+New York City,Zelkova,29258
+New York City,Eucalyptus,0
+New York City,Ginkgo,21024
+New York City,Ficus,0
+New York,Buffalo,76953
+Buffalo,Acer,25596
+Buffalo,Quercus,3763
+Buffalo,Fraxinus,1468
+Buffalo,Platanus,2017
+Buffalo,Gleditsia,4485
+Buffalo,Lagerstroemia,0
+Buffalo,Prunus,2164
+Buffalo,Pyrus,1509
+Buffalo,Tilia,11110
+Buffalo,Ulmus,4013
+Buffalo,Pinus,1040
+Buffalo,Liquidambar,219
+Buffalo,Magnolia,80
+Buffalo,Washingtonia,0
+Buffalo,Celtis,830
+Buffalo,Malus,2806
+Buffalo,Zelkova,722
+Buffalo,Eucalyptus,0
+Buffalo,Ginkgo,680
+Buffalo,Ficus,0
+Minnesota,Minneapolis,176834
+Minneapolis,Acer,47055
+Minneapolis,Quercus,8501
+Minneapolis,Fraxinus,29432
+Minneapolis,Platanus,13
+Minneapolis,Gleditsia,12676
+Minneapolis,Lagerstroemia,0
+Minneapolis,Prunus,204
+Minneapolis,Pyrus,315
+Minneapolis,Tilia,26830
+Minneapolis,Ulmus,20977
+Minneapolis,Pinus,1175
+Minneapolis,Liquidambar,0
+Minneapolis,Magnolia,12
+Minneapolis,Washingtonia,0
+Minneapolis,Celtis,12736
+Minneapolis,Malus,3215
+Minneapolis,Zelkova,0
+Minneapolis,Eucalyptus,0
+Minneapolis,Ginkgo,3592
+Minneapolis,Ficus,0
+District of Columbia,Washington DC,175847
+Washington DC,Acer,26489
+Washington DC,Quercus,39917
+Washington DC,Fraxinus,340
+Washington DC,Platanus,7478
+Washington DC,Gleditsia,2635
+Washington DC,Lagerstroemia,4353
+Washington DC,Prunus,11104
+Washington DC,Pyrus,963
+Washington DC,Tilia,5582
+Washington DC,Ulmus,15656
+Washington DC,Pinus,7748
+Washington DC,Liquidambar,4185
+Washington DC,Magnolia,2170
+Washington DC,Washingtonia,0
+Washington DC,Celtis,2549
+Washington DC,Malus,1455
+Washington DC,Zelkova,6366
+Washington DC,Eucalyptus,0
+Washington DC,Ginkgo,4743
+Washington DC,Ficus,0
+Ohio,Columbus,151350
+Columbus,Acer,35911
+Columbus,Quercus,11459
+Columbus,Fraxinus,17476
+Columbus,Platanus,4388
+Columbus,Gleditsia,7090
+Columbus,Lagerstroemia,0
+Columbus,Prunus,4772
+Columbus,Pyrus,9401
+Columbus,Tilia,6754
+Columbus,Ulmus,4552
+Columbus,Pinus,2201
+Columbus,Liquidambar,1679
+Columbus,Magnolia,841
+Columbus,Washingtonia,0
+Columbus,Celtis,2048
+Columbus,Malus,7028
+Columbus,Zelkova,962
+Columbus,Eucalyptus,0
+Columbus,Ginkgo,856
+Columbus,Ficus,0
+Wisconsin,Madison,96006
+Madison,Acer,29090
+Madison,Quercus,1797
+Madison,Fraxinus,21439
+Madison,Platanus,119
+Madison,Gleditsia,13536
+Madison,Lagerstroemia,0
+Madison,Prunus,297
+Madison,Pyrus,778
+Madison,Tilia,11799
+Madison,Ulmus,3892
+Madison,Pinus,519
+Madison,Liquidambar,1
+Madison,Magnolia,20
+Madison,Washingtonia,0
+Madison,Celtis,2667
+Madison,Malus,2608
+Madison,Zelkova,0
+Madison,Eucalyptus,0
+Madison,Ginkgo,547
+Madison,Ficus,0
+Wisconsin,Milwaukee,32066
+Milwaukee,Acer,6751
+Milwaukee,Quercus,2841
+Milwaukee,Fraxinus,5110
+Milwaukee,Platanus,113
+Milwaukee,Gleditsia,2778
+Milwaukee,Lagerstroemia,0
+Milwaukee,Prunus,217
+Milwaukee,Pyrus,653
+Milwaukee,Tilia,2192
+Milwaukee,Ulmus,610
+Milwaukee,Pinus,1043
+Milwaukee,Liquidambar,2
+Milwaukee,Magnolia,11
+Milwaukee,Washingtonia,0
+Milwaukee,Celtis,1576
+Milwaukee,Malus,1542
+Milwaukee,Zelkova,0
+Milwaukee,Eucalyptus,0
+Milwaukee,Ginkgo,94
+Milwaukee,Ficus,0
+Indiana,Indianapolis,97227
+Indianapolis,Acer,15882
+Indianapolis,Quercus,5055
+Indianapolis,Fraxinus,10955
+Indianapolis,Platanus,1724
+Indianapolis,Gleditsia,1931
+Indianapolis,Lagerstroemia,0
+Indianapolis,Prunus,4016
+Indianapolis,Pyrus,2032
+Indianapolis,Tilia,1643
+Indianapolis,Ulmus,6499
+Indianapolis,Pinus,5557
+Indianapolis,Liquidambar,1478
+Indianapolis,Magnolia,316
+Indianapolis,Washingtonia,0
+Indianapolis,Celtis,5940
+Indianapolis,Malus,5803
+Indianapolis,Zelkova,51
+Indianapolis,Eucalyptus,0
+Indianapolis,Ginkgo,540
+Indianapolis,Ficus,0
+California,Los Angeles,582913
+Los Angeles,Acer,1993
+Los Angeles,Quercus,14597
+Los Angeles,Fraxinus,18647
+Los Angeles,Platanus,22149
+Los Angeles,Gleditsia,8778
+Los Angeles,Lagerstroemia,35829
+Los Angeles,Prunus,11777
+Los Angeles,Pyrus,17285
+Los Angeles,Tilia,2
+Los Angeles,Ulmus,20563
+Los Angeles,Pinus,23667
+Los Angeles,Liquidambar,30302
+Los Angeles,Magnolia,31360
+Los Angeles,Washingtonia,40738
+Los Angeles,Celtis,337
+Los Angeles,Malus,378
+Los Angeles,Zelkova,940
+Los Angeles,Eucalyptus,19486
+Los Angeles,Ginkgo,1077
+Los Angeles,Ficus,37642
+California,San Jose,264805
+San Jose,Acer,8908
+San Jose,Quercus,18261
+San Jose,Fraxinus,12911
+San Jose,Platanus,27218
+San Jose,Gleditsia,4037
+San Jose,Lagerstroemia,21692
+San Jose,Prunus,12973
+San Jose,Pyrus,11557
+San Jose,Tilia,537
+San Jose,Ulmus,3898
+San Jose,Pinus,3611
+San Jose,Liquidambar,14677
+San Jose,Magnolia,7337
+San Jose,Washingtonia,6885
+San Jose,Celtis,3125
+San Jose,Malus,1116
+San Jose,Zelkova,7669
+San Jose,Eucalyptus,3309
+San Jose,Ginkgo,5207
+San Jose,Ficus,306
+California,San Diego,212304
+San Diego,Acer,89
+San Diego,Quercus,1392
+San Diego,Fraxinus,3151
+San Diego,Platanus,9237
+San Diego,Gleditsia,0
+San Diego,Lagerstroemia,2207
+San Diego,Prunus,3149
+San Diego,Pyrus,4196
+San Diego,Tilia,0
+San Diego,Ulmus,1797
+San Diego,Pinus,13564
+San Diego,Liquidambar,10323
+San Diego,Magnolia,3463
+San Diego,Washingtonia,18168
+San Diego,Celtis,0
+San Diego,Malus,0
+San Diego,Zelkova,0
+San Diego,Eucalyptus,13510
+San Diego,Ginkgo,113
+San Diego,Ficus,5164
+California,San Francisco,175272
+San Francisco,Acer,2101
+San Francisco,Quercus,1161
+San Francisco,Fraxinus,1447
+San Francisco,Platanus,12002
+San Francisco,Gleditsia,117
+San Francisco,Lagerstroemia,104
+San Francisco,Prunus,15128
+San Francisco,Pyrus,6040
+San Francisco,Tilia,150
+San Francisco,Ulmus,3453
+San Francisco,Pinus,3300
+San Francisco,Liquidambar,1684
+San Francisco,Magnolia,8277
+San Francisco,Washingtonia,1061
+San Francisco,Celtis,275
+San Francisco,Malus,289
+San Francisco,Zelkova,54
+San Francisco,Eucalyptus,3271
+San Francisco,Ginkgo,3349
+San Francisco,Ficus,9889
+California,Stockton,97707
+Stockton,Acer,2518
+Stockton,Quercus,6177
+Stockton,Fraxinus,10587
+Stockton,Platanus,7639
+Stockton,Gleditsia,324
+Stockton,Lagerstroemia,7368
+Stockton,Prunus,2409
+Stockton,Pyrus,6334
+Stockton,Tilia,899
+Stockton,Ulmus,812
+Stockton,Pinus,1306
+Stockton,Liquidambar,4371
+Stockton,Magnolia,3936
+Stockton,Washingtonia,1059
+Stockton,Celtis,7732
+Stockton,Malus,207
+Stockton,Zelkova,3379
+Stockton,Eucalyptus,237
+Stockton,Ginkgo,786
+Stockton,Ficus,23
+California,Sacramento,87191
+Sacramento,Acer,4086
+Sacramento,Quercus,10489
+Sacramento,Fraxinus,3143
+Sacramento,Platanus,14111
+Sacramento,Gleditsia,0
+Sacramento,Lagerstroemia,4146
+Sacramento,Prunus,2177
+Sacramento,Pyrus,4631
+Sacramento,Tilia,1021
+Sacramento,Ulmus,4047
+Sacramento,Pinus,1715
+Sacramento,Liquidambar,1949
+Sacramento,Magnolia,1341
+Sacramento,Washingtonia,2467
+Sacramento,Celtis,2167
+Sacramento,Malus,422
+Sacramento,Zelkova,3861
+Sacramento,Eucalyptus,585
+Sacramento,Ginkgo,1175
+Sacramento,Ficus,46
+Colorado,Denver,284354
+Denver,Acer,41254
+Denver,Quercus,22505
+Denver,Fraxinus,37800
+Denver,Platanus,2049
+Denver,Gleditsia,24178
+Denver,Lagerstroemia,0
+Denver,Prunus,6833
+Denver,Pyrus,7410
+Denver,Tilia,18650
+Denver,Ulmus,19142
+Denver,Pinus,20316
+Denver,Liquidambar,84
+Denver,Magnolia,190
+Denver,Washingtonia,0
+Denver,Celtis,9477
+Denver,Malus,12264
+Denver,Zelkova,525
+Denver,Eucalyptus,0
+Denver,Ginkgo,765
+Denver,Ficus,0
+Colorado,Aurora CO,57360
+Aurora CO,Acer,9517
+Aurora CO,Quercus,2468
+Aurora CO,Fraxinus,6363
+Aurora CO,Platanus,9
+Aurora CO,Gleditsia,10428
+Aurora CO,Lagerstroemia,0
+Aurora CO,Prunus,318
+Aurora CO,Pyrus,1537
+Aurora CO,Tilia,8098
+Aurora CO,Ulmus,2405
+Aurora CO,Pinus,3282
+Aurora CO,Liquidambar,0
+Aurora CO,Magnolia,6
+Aurora CO,Washingtonia,0
+Aurora CO,Celtis,2493
+Aurora CO,Malus,1536
+Aurora CO,Zelkova,3
+Aurora CO,Eucalyptus,0
+Aurora CO,Ginkgo,9
+Aurora CO,Ficus,0
+Oregon,Portland,216751
+Portland,Acer,57813
+Portland,Quercus,7281
+Portland,Fraxinus,9293
+Portland,Platanus,1300
+Portland,Gleditsia,1412
+Portland,Lagerstroemia,852
+Portland,Prunus,25816
+Portland,Pyrus,11700
+Portland,Tilia,5490
+Portland,Ulmus,3356
+Portland,Pinus,3471
+Portland,Liquidambar,3703
+Portland,Magnolia,3507
+Portland,Washingtonia,0
+Portland,Celtis,334
+Portland,Malus,8694
+Portland,Zelkova,1911
+Portland,Eucalyptus,92
+Portland,Ginkgo,2023
+Portland,Ficus,465
+Texas,Houston,213387
+Houston,Acer,1733
+Houston,Quercus,66689
+Houston,Fraxinus,6030
+Houston,Platanus,2864
+Houston,Gleditsia,69
+Houston,Lagerstroemia,44356
+Houston,Prunus,2315
+Houston,Pyrus,2835
+Houston,Tilia,2
+Houston,Ulmus,9063
+Houston,Pinus,10038
+Houston,Liquidambar,1352
+Houston,Magnolia,4598
+Houston,Washingtonia,5476
+Houston,Celtis,13025
+Houston,Malus,123
+Houston,Zelkova,0
+Houston,Eucalyptus,12
+Houston,Ginkgo,19
+Houston,Ficus,117
+Texas,Plano,28290
+Plano,Acer,105
+Plano,Quercus,5182
+Plano,Fraxinus,1208
+Plano,Platanus,145
+Plano,Gleditsia,70
+Plano,Lagerstroemia,2779
+Plano,Prunus,86
+Plano,Pyrus,815
+Plano,Tilia,0
+Plano,Ulmus,4367
+Plano,Pinus,299
+Plano,Liquidambar,143
+Plano,Magnolia,132
+Plano,Washingtonia,0
+Plano,Celtis,3279
+Plano,Malus,5
+Plano,Zelkova,0
+Plano,Eucalyptus,0
+Plano,Ginkgo,9
+Plano,Ficus,0
+Florida,Orlando,68211
+Orlando,Acer,1821
+Orlando,Quercus,29619
+Orlando,Fraxinus,11
+Orlando,Platanus,284
+Orlando,Gleditsia,1
+Orlando,Lagerstroemia,14988
+Orlando,Prunus,708
+Orlando,Pyrus,115
+Orlando,Tilia,0
+Orlando,Ulmus,2674
+Orlando,Pinus,1184
+Orlando,Liquidambar,374
+Orlando,Magnolia,1964
+Orlando,Washingtonia,1388
+Orlando,Celtis,8
+Orlando,Malus,2
+Orlando,Zelkova,0
+Orlando,Eucalyptus,11
+Orlando,Ginkgo,1
+Orlando,Ficus,117
+Florida,Cape Coral,34021
+Cape Coral,Acer,138
+Cape Coral,Quercus,7061
+Cape Coral,Fraxinus,0
+Cape Coral,Platanus,7
+Cape Coral,Gleditsia,0
+Cape Coral,Lagerstroemia,503
+Cape Coral,Prunus,1
+Cape Coral,Pyrus,0
+Cape Coral,Tilia,0
+Cape Coral,Ulmus,59
+Cape Coral,Pinus,3298
+Cape Coral,Liquidambar,39
+Cape Coral,Magnolia,123
+Cape Coral,Washingtonia,0
+Cape Coral,Celtis,0
+Cape Coral,Malus,0
+Cape Coral,Zelkova,0
+Cape Coral,Eucalyptus,210
+Cape Coral,Ginkgo,0
+Cape Coral,Ficus,188
+Maryland,Baltimore,121290
+Baltimore,Acer,26076
+Baltimore,Quercus,15716
+Baltimore,Fraxinus,3482
+Baltimore,Platanus,6787
+Baltimore,Gleditsia,3295
+Baltimore,Lagerstroemia,1590
+Baltimore,Prunus,6739
+Baltimore,Pyrus,4792
+Baltimore,Tilia,8084
+Baltimore,Ulmus,6250
+Baltimore,Pinus,1823
+Baltimore,Liquidambar,2517
+Baltimore,Magnolia,671
+Baltimore,Washingtonia,0
+Baltimore,Celtis,1040
+Baltimore,Malus,917
+Baltimore,Zelkova,6767
+Baltimore,Eucalyptus,0
+Baltimore,Ginkgo,1628
+Baltimore,Ficus,30

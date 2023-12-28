@@ -1,0 +1,3469 @@
+state,longitude,latitude,scientific_name,count
+California,-122.8,38.5,Others,72
+California,-122.8,38.5,Platanus acerifolia,22
+California,-122.8,38.5,Prunus,1
+California,-122.7,38.5,Others,1031
+California,-122.7,38.5,Liquidambar styraciflua,1
+California,-122.7,38.5,Platanus acerifolia,65
+California,-122.7,38.5,Prunus,21
+California,-122.5,37.7,Others,19752
+California,-122.5,37.7,Acer rubrum,45
+California,-122.5,37.7,Gleditsia triacanthos,7
+California,-122.5,37.7,Lagerstroemia indica,23
+California,-122.5,37.7,Liquidambar styraciflua,157
+California,-122.5,37.7,Platanus acerifolia,370
+California,-122.5,37.7,Prunus,33
+California,-122.5,37.7,Pyrus calleryana,283
+California,-122.5,37.7,Tilia cordata,2
+California,-122.5,37.8,Others,24727
+California,-122.5,37.8,Acer platanoides,1
+California,-122.5,37.8,Acer rubrum,26
+California,-122.5,37.8,Gleditsia triacanthos,12
+California,-122.5,37.8,Lagerstroemia indica,5
+California,-122.5,37.8,Liquidambar styraciflua,200
+California,-122.5,37.8,Platanus acerifolia,1106
+California,-122.5,37.8,Prunus,33
+California,-122.5,37.8,Pyrus calleryana,357
+California,-122.5,37.8,Tilia cordata,14
+California,-122.4,37.5,Platanus acerifolia,1
+California,-122.4,37.7,Others,40133
+California,-122.4,37.7,Acer rubrum,254
+California,-122.4,37.7,Gleditsia triacanthos,35
+California,-122.4,37.7,Lagerstroemia indica,28
+California,-122.4,37.7,Liquidambar styraciflua,219
+California,-122.4,37.7,Platanus acerifolia,1018
+California,-122.4,37.7,Prunus,40
+California,-122.4,37.7,Pyrus calleryana,1068
+California,-122.4,37.7,Tilia cordata,10
+California,-122.4,37.8,Others,70090
+California,-122.4,37.8,Acer platanoides,1
+California,-122.4,37.8,Acer rubrum,643
+California,-122.4,37.8,Gleditsia triacanthos,63
+California,-122.4,37.8,Lagerstroemia indica,46
+California,-122.4,37.8,Liquidambar styraciflua,985
+California,-122.4,37.8,Platanus acerifolia,9381
+California,-122.4,37.8,Prunus,94
+California,-122.4,37.8,Pyrus calleryana,2321
+California,-122.4,37.8,Tilia cordata,105
+California,-122.3,37.8,Others,7601
+California,-122.3,37.8,Gleditsia triacanthos,158
+California,-122.3,37.8,Lagerstroemia indica,665
+California,-122.3,37.8,Liquidambar styraciflua,900
+California,-122.3,37.8,Platanus acerifolia,1872
+California,-122.3,37.8,Prunus,1015
+California,-122.3,37.8,Pyrus calleryana,928
+California,-122.3,37.9,Others,286
+California,-122.3,37.9,Gleditsia triacanthos,30
+California,-122.3,37.9,Lagerstroemia indica,18
+California,-122.3,37.9,Liquidambar styraciflua,102
+California,-122.3,37.9,Platanus acerifolia,71
+California,-122.3,37.9,Prunus,67
+California,-122.3,37.9,Pyrus calleryana,6
+California,-122.2,37.7,Others,984
+California,-122.2,37.7,Acer rubrum,15
+California,-122.2,37.7,Lagerstroemia indica,71
+California,-122.2,37.7,Liquidambar styraciflua,198
+California,-122.2,37.7,Platanus acerifolia,289
+California,-122.2,37.7,Prunus,98
+California,-122.2,37.7,Pyrus calleryana,115
+California,-122.2,37.8,Others,10787
+California,-122.2,37.8,Acer rubrum,61
+California,-122.2,37.8,Gleditsia triacanthos,33
+California,-122.2,37.8,Lagerstroemia indica,1109
+California,-122.2,37.8,Liquidambar styraciflua,1845
+California,-122.2,37.8,Platanus acerifolia,1458
+California,-122.2,37.8,Prunus,1588
+California,-122.2,37.8,Pyrus calleryana,1577
+California,-122.2,37.9,Others,171
+California,-122.2,37.9,Liquidambar styraciflua,6
+California,-122.2,37.9,Platanus acerifolia,28
+California,-122.2,37.9,Prunus,24
+California,-122.2,37.9,Pyrus calleryana,1
+California,-122.1,37.7,Others,113
+California,-122.1,37.7,Lagerstroemia indica,34
+California,-122.1,37.7,Liquidambar styraciflua,149
+California,-122.1,37.7,Platanus acerifolia,55
+California,-122.1,37.7,Prunus,15
+California,-122.1,37.8,Others,199
+California,-122.1,37.8,Lagerstroemia indica,18
+California,-122.1,37.8,Liquidambar styraciflua,76
+California,-122.1,37.8,Prunus,20
+California,-122.1,37.8,Pyrus calleryana,2
+California,-122.0,37.2,Others,20
+California,-122.0,37.2,Lagerstroemia indica,4
+California,-122.0,37.2,Liquidambar styraciflua,2
+California,-122.0,37.3,Others,16427
+California,-122.0,37.3,Acer platanoides,714
+California,-122.0,37.3,Acer rubrum,205
+California,-122.0,37.3,Gleditsia triacanthos,133
+California,-122.0,37.3,Lagerstroemia indica,1545
+California,-122.0,37.3,Liquidambar styraciflua,2592
+California,-122.0,37.3,Platanus acerifolia,713
+California,-122.0,37.3,Prunus,51
+California,-122.0,37.3,Pyrus calleryana,415
+California,-122.0,37.3,Tilia cordata,1
+California,-122.0,37.4,Others,865
+California,-122.0,37.4,Lagerstroemia indica,66
+California,-122.0,37.4,Platanus acerifolia,192
+California,-122.0,37.4,Pyrus calleryana,283
+California,-122.0,37.4,Tilia cordata,1
+California,-121.9,37.2,Others,17556
+California,-121.9,37.2,Acer platanoides,145
+California,-121.9,37.2,Acer rubrum,80
+California,-121.9,37.2,Gleditsia triacanthos,345
+California,-121.9,37.2,Lagerstroemia indica,2366
+California,-121.9,37.2,Liquidambar styraciflua,1243
+California,-121.9,37.2,Platanus acerifolia,710
+California,-121.9,37.2,Prunus,89
+California,-121.9,37.2,Pyrus calleryana,540
+California,-121.9,37.2,Tilia cordata,16
+California,-121.9,37.3,Others,47699
+California,-121.9,37.3,Acer platanoides,1439
+California,-121.9,37.3,Acer rubrum,414
+California,-121.9,37.3,Gleditsia triacanthos,615
+California,-121.9,37.3,Lagerstroemia indica,7836
+California,-121.9,37.3,Liquidambar styraciflua,7353
+California,-121.9,37.3,Platanus acerifolia,14157
+California,-121.9,37.3,Prunus,282
+California,-121.9,37.3,Pyrus calleryana,2787
+California,-121.9,37.3,Tilia cordata,55
+California,-121.9,37.4,Others,21165
+California,-121.9,37.4,Acer platanoides,164
+California,-121.9,37.4,Acer rubrum,253
+California,-121.9,37.4,Fraxinus pennsylvanica,1
+California,-121.9,37.4,Gleditsia triacanthos,774
+California,-121.9,37.4,Lagerstroemia indica,1895
+California,-121.9,37.4,Liquidambar styraciflua,963
+California,-121.9,37.4,Platanus acerifolia,3286
+California,-121.9,37.4,Prunus,38
+California,-121.9,37.4,Pyrus calleryana,2126
+California,-121.9,37.4,Tilia cordata,166
+California,-121.9,37.5,Platanus acerifolia,1
+California,-121.8,37.2,Others,17872
+California,-121.8,37.2,Acer platanoides,84
+California,-121.8,37.2,Acer rubrum,100
+California,-121.8,37.2,Fraxinus pennsylvanica,23
+California,-121.8,37.2,Gleditsia triacanthos,916
+California,-121.8,37.2,Lagerstroemia indica,1982
+California,-121.8,37.2,Liquidambar styraciflua,647
+California,-121.8,37.2,Platanus acerifolia,1137
+California,-121.8,37.2,Prunus,34
+California,-121.8,37.2,Pyrus calleryana,651
+California,-121.8,37.2,Tilia cordata,40
+California,-121.8,37.3,Others,50756
+California,-121.8,37.3,Acer platanoides,220
+California,-121.8,37.3,Acer rubrum,164
+California,-121.8,37.3,Fraxinus pennsylvanica,7
+California,-121.8,37.3,Gleditsia triacanthos,1033
+California,-121.8,37.3,Lagerstroemia indica,4889
+California,-121.8,37.3,Liquidambar styraciflua,1439
+California,-121.8,37.3,Platanus acerifolia,5150
+California,-121.8,37.3,Prunus,243
+California,-121.8,37.3,Pyrus calleryana,2340
+California,-121.8,37.3,Tilia cordata,73
+California,-121.8,37.4,Others,9027
+California,-121.8,37.4,Acer platanoides,102
+California,-121.8,37.4,Acer rubrum,63
+California,-121.8,37.4,Gleditsia triacanthos,221
+California,-121.8,37.4,Lagerstroemia indica,945
+California,-121.8,37.4,Liquidambar styraciflua,398
+California,-121.8,37.4,Platanus acerifolia,864
+California,-121.8,37.4,Prunus,39
+California,-121.8,37.4,Pyrus calleryana,401
+California,-121.8,37.4,Tilia cordata,5
+California,-121.7,37.2,Others,354
+California,-121.7,37.2,Pyrus calleryana,28
+California,-121.7,37.3,Others,1510
+California,-121.7,37.3,Acer rubrum,3
+California,-121.7,37.3,Lagerstroemia indica,108
+California,-121.7,37.3,Liquidambar styraciflua,7
+California,-121.7,37.3,Platanus acerifolia,81
+California,-121.7,37.3,Pyrus calleryana,60
+California,-121.7,37.3,Tilia cordata,1
+California,-121.6,38.2,Others,67
+California,-121.6,38.2,Acer rubrum,3
+California,-121.6,38.2,Lagerstroemia indica,3
+California,-121.6,38.2,Liquidambar styraciflua,7
+California,-121.6,38.2,Platanus acerifolia,38
+California,-121.6,38.2,Pyrus calleryana,9
+California,-121.6,38.4,Lagerstroemia indica,12
+California,-121.6,38.5,Others,105
+California,-121.6,38.5,Acer rubrum,2
+California,-121.6,38.5,Lagerstroemia indica,25
+California,-121.6,38.5,Liquidambar styraciflua,11
+California,-121.6,38.5,Platanus acerifolia,16
+California,-121.6,38.5,Pyrus calleryana,47
+California,-121.6,38.6,Acer rubrum,26
+California,-121.6,38.6,Others,37
+California,-121.6,38.6,Lagerstroemia indica,14
+California,-121.6,38.7,Acer rubrum,7
+California,-121.6,38.7,Others,114
+California,-121.6,38.7,Lagerstroemia indica,8
+California,-121.6,38.7,Platanus acerifolia,17
+California,-121.6,38.7,Pyrus calleryana,30
+California,-121.5,38.4,Others,349
+California,-121.5,38.4,Acer rubrum,3
+California,-121.5,38.4,Lagerstroemia indica,38
+California,-121.5,38.4,Platanus acerifolia,142
+California,-121.5,38.4,Pyrus calleryana,118
+California,-121.5,38.5,Others,9711
+California,-121.5,38.5,Acer platanoides,39
+California,-121.5,38.5,Acer rubrum,253
+California,-121.5,38.5,Lagerstroemia indica,847
+California,-121.5,38.5,Liquidambar styraciflua,265
+California,-121.5,38.5,Platanus acerifolia,1995
+California,-121.5,38.5,Prunus,118
+California,-121.5,38.5,Pyrus calleryana,759
+California,-121.5,38.6,Others,25446
+California,-121.5,38.6,Acer platanoides,24
+California,-121.5,38.6,Acer rubrum,856
+California,-121.5,38.6,Lagerstroemia indica,1660
+California,-121.5,38.6,Liquidambar styraciflua,1044
+California,-121.5,38.6,Platanus acerifolia,7829
+California,-121.5,38.6,Prunus,161
+California,-121.5,38.6,Pyrus calleryana,1327
+California,-121.5,38.7,Others,6202
+California,-121.5,38.7,Acer platanoides,8
+California,-121.5,38.7,Acer rubrum,385
+California,-121.5,38.7,Lagerstroemia indica,259
+California,-121.5,38.7,Liquidambar styraciflua,11
+California,-121.5,38.7,Platanus acerifolia,1603
+California,-121.5,38.7,Prunus,10
+California,-121.5,38.7,Pyrus calleryana,1059
+California,-121.4,37.9,Others,5
+California,-121.4,37.9,Liquidambar styraciflua,1
+California,-121.4,37.9,Pyrus calleryana,5
+California,-121.4,38.0,Others,3729
+California,-121.4,38.0,Acer rubrum,121
+California,-121.4,38.0,Gleditsia triacanthos,2
+California,-121.4,38.0,Lagerstroemia indica,505
+California,-121.4,38.0,Liquidambar styraciflua,282
+California,-121.4,38.0,Platanus acerifolia,829
+California,-121.4,38.0,Prunus,9
+California,-121.4,38.0,Pyrus calleryana,314
+California,-121.4,38.0,Tilia cordata,147
+California,-121.4,38.1,Others,1756
+California,-121.4,38.1,Acer rubrum,33
+California,-121.4,38.1,Lagerstroemia indica,309
+California,-121.4,38.1,Liquidambar styraciflua,35
+California,-121.4,38.1,Platanus acerifolia,360
+California,-121.4,38.1,Pyrus calleryana,208
+California,-121.4,38.1,Tilia cordata,8
+California,-121.4,38.3,Acer rubrum,19
+California,-121.4,38.3,Others,237
+California,-121.4,38.3,Lagerstroemia indica,13
+California,-121.4,38.3,Platanus acerifolia,69
+California,-121.4,38.3,Pyrus calleryana,12
+California,-121.4,38.4,Others,1318
+California,-121.4,38.4,Acer platanoides,2
+California,-121.4,38.4,Acer rubrum,70
+California,-121.4,38.4,Lagerstroemia indica,151
+California,-121.4,38.4,Liquidambar styraciflua,5
+California,-121.4,38.4,Platanus acerifolia,276
+California,-121.4,38.4,Prunus,3
+California,-121.4,38.4,Pyrus calleryana,58
+California,-121.4,38.5,Others,4950
+California,-121.4,38.5,Acer platanoides,2
+California,-121.4,38.5,Acer rubrum,144
+California,-121.4,38.5,Lagerstroemia indica,556
+California,-121.4,38.5,Liquidambar styraciflua,332
+California,-121.4,38.5,Platanus acerifolia,879
+California,-121.4,38.5,Prunus,31
+California,-121.4,38.5,Pyrus calleryana,329
+California,-121.4,38.6,Others,7737
+California,-121.4,38.6,Acer platanoides,4
+California,-121.4,38.6,Acer rubrum,144
+California,-121.4,38.6,Lagerstroemia indica,512
+California,-121.4,38.6,Liquidambar styraciflua,199
+California,-121.4,38.6,Platanus acerifolia,1081
+California,-121.4,38.6,Prunus,204
+California,-121.4,38.6,Pyrus calleryana,453
+California,-121.4,38.7,Others,376
+California,-121.4,38.7,Lagerstroemia indica,8
+California,-121.4,38.7,Platanus acerifolia,2
+California,-121.4,38.7,Prunus,1
+California,-121.4,38.7,Pyrus calleryana,22
+California,-121.3,37.9,Others,7888
+California,-121.3,37.9,Acer platanoides,18
+California,-121.3,37.9,Acer rubrum,116
+California,-121.3,37.9,Fraxinus pennsylvanica,2
+California,-121.3,37.9,Gleditsia triacanthos,12
+California,-121.3,37.9,Lagerstroemia indica,657
+California,-121.3,37.9,Liquidambar styraciflua,152
+California,-121.3,37.9,Platanus acerifolia,732
+California,-121.3,37.9,Prunus,11
+California,-121.3,37.9,Pyrus calleryana,509
+California,-121.3,37.9,Tilia cordata,70
+California,-121.3,38.0,Others,36262
+California,-121.3,38.0,Acer platanoides,90
+California,-121.3,38.0,Acer rubrum,655
+California,-121.3,38.0,Fraxinus pennsylvanica,15
+California,-121.3,38.0,Gleditsia triacanthos,247
+California,-121.3,38.0,Lagerstroemia indica,3504
+California,-121.3,38.0,Liquidambar styraciflua,2633
+California,-121.3,38.0,Platanus acerifolia,3569
+California,-121.3,38.0,Prunus,37
+California,-121.3,38.0,Pyrus calleryana,2133
+California,-121.3,38.0,Tilia cordata,387
+California,-121.3,38.1,Others,1067
+California,-121.3,38.1,Acer rubrum,112
+California,-121.3,38.1,Lagerstroemia indica,54
+California,-121.3,38.1,Platanus acerifolia,49
+California,-121.3,38.1,Pyrus calleryana,78
+California,-121.3,38.1,Tilia cordata,2
+California,-121.3,38.2,Others,65
+California,-121.3,38.2,Acer rubrum,1
+California,-121.3,38.2,Lagerstroemia indica,11
+California,-121.3,38.2,Liquidambar styraciflua,13
+California,-121.3,38.2,Platanus acerifolia,45
+California,-121.3,38.2,Pyrus calleryana,12
+California,-121.3,38.3,Others,99
+California,-121.3,38.3,Lagerstroemia indica,3
+California,-121.3,38.3,Liquidambar styraciflua,16
+California,-121.3,38.3,Platanus acerifolia,23
+California,-121.3,38.3,Pyrus calleryana,7
+California,-121.3,38.6,Others,1
+California,-121.3,38.6,Platanus acerifolia,19
+California,-121.2,37.9,Others,907
+California,-121.2,37.9,Acer rubrum,34
+California,-121.2,37.9,Lagerstroemia indica,86
+California,-121.2,37.9,Liquidambar styraciflua,86
+California,-121.2,37.9,Platanus acerifolia,26
+California,-121.2,37.9,Pyrus calleryana,37
+California,-121.2,38.0,Others,322
+California,-121.2,38.0,Acer rubrum,5
+California,-121.2,38.0,Lagerstroemia indica,39
+California,-121.2,38.0,Liquidambar styraciflua,4
+California,-121.2,38.0,Platanus acerifolia,6
+California,-121.2,38.0,Pyrus calleryana,9
+California,-121.2,38.0,Tilia cordata,1
+California,-121.2,38.7,Others,244
+California,-121.2,38.7,Acer rubrum,7
+California,-121.2,38.7,Lagerstroemia indica,17
+California,-121.2,38.7,Liquidambar styraciflua,30
+California,-121.2,38.7,Platanus acerifolia,42
+California,-121.2,38.7,Pyrus calleryana,13
+California,-121.0,35.5,Others,85
+California,-121.0,35.5,Platanus acerifolia,34
+California,-121.0,35.5,Pyrus calleryana,4
+California,-120.8,35.3,Acer rubrum,2
+California,-120.8,35.3,Others,12
+California,-120.8,35.3,Gleditsia triacanthos,1
+California,-120.8,35.3,Lagerstroemia indica,3
+California,-120.8,35.3,Liquidambar styraciflua,2
+California,-120.8,35.3,Pyrus calleryana,3
+California,-120.8,35.3,Tilia cordata,1
+California,-120.7,35.3,Others,29
+California,-120.7,35.3,Lagerstroemia indica,1
+California,-120.7,35.3,Platanus acerifolia,2
+California,-120.6,35.1,Others,41
+California,-120.6,35.1,Lagerstroemia indica,1
+California,-120.6,35.1,Liquidambar styraciflua,1
+California,-120.6,35.1,Tilia cordata,1
+California,-120.6,35.4,Others,591
+California,-120.6,35.4,Lagerstroemia indica,51
+California,-120.6,35.4,Liquidambar styraciflua,67
+California,-120.6,35.4,Platanus acerifolia,1
+California,-120.6,35.4,Pyrus calleryana,19
+California,-120.5,34.9,Lagerstroemia indica,1
+California,-120.5,34.9,Others,13
+California,-120.5,35.4,Others,1803
+California,-120.5,35.4,Acer platanoides,10
+California,-120.5,35.4,Acer rubrum,6
+California,-120.5,35.4,Gleditsia triacanthos,1
+California,-120.5,35.4,Lagerstroemia indica,420
+California,-120.5,35.4,Liquidambar styraciflua,26
+California,-120.5,35.4,Platanus acerifolia,373
+California,-120.5,35.4,Pyrus calleryana,142
+California,-120.5,35.4,Tilia cordata,22
+California,-120.4,34.9,Others,3750
+California,-120.4,34.9,Acer platanoides,1
+California,-120.4,34.9,Acer rubrum,124
+California,-120.4,34.9,Gleditsia triacanthos,14
+California,-120.4,34.9,Lagerstroemia indica,225
+California,-120.4,34.9,Liquidambar styraciflua,246
+California,-120.4,34.9,Platanus acerifolia,280
+California,-120.4,34.9,Prunus,17
+California,-120.4,34.9,Pyrus calleryana,504
+California,-120.4,34.9,Tilia cordata,122
+California,-120.4,35.3,Others,166
+California,-120.4,35.3,Acer platanoides,1
+California,-120.4,35.3,Acer rubrum,4
+California,-120.4,35.3,Fraxinus pennsylvanica,1
+California,-120.4,35.3,Lagerstroemia indica,16
+California,-120.4,35.3,Liquidambar styraciflua,2
+California,-120.4,35.3,Platanus acerifolia,30
+California,-120.4,35.3,Pyrus calleryana,23
+California,-120.4,35.3,Tilia cordata,4
+California,-120.4,36.1,Others,2
+California,-120.3,35.3,Acer rubrum,2
+California,-120.3,35.3,Others,71
+California,-120.3,35.3,Lagerstroemia indica,1
+California,-120.3,35.3,Liquidambar styraciflua,25
+California,-120.3,35.3,Platanus acerifolia,8
+California,-120.3,35.3,Pyrus calleryana,24
+California,-120.3,35.4,Others,9
+California,-120.3,35.4,Platanus acerifolia,13
+California,-120.2,35.4,Pyrus calleryana,2
+California,-120.2,35.4,Others,4
+California,-120.0,35.3,Acer rubrum,6
+California,-120.0,35.3,Others,103
+California,-120.0,35.3,Lagerstroemia indica,14
+California,-120.0,35.3,Pyrus calleryana,59
+California,-120.0,35.4,Others,68
+California,-120.0,35.4,Lagerstroemia indica,4
+California,-120.0,35.4,Liquidambar styraciflua,7
+California,-120.0,35.4,Platanus acerifolia,9
+California,-120.0,35.4,Pyrus calleryana,34
+California,-119.9,35.3,Others,271
+California,-119.9,35.3,Acer rubrum,1
+California,-119.9,35.3,Gleditsia triacanthos,1
+California,-119.9,35.3,Lagerstroemia indica,27
+California,-119.9,35.3,Liquidambar styraciflua,3
+California,-119.9,35.3,Platanus acerifolia,49
+California,-119.9,35.3,Prunus,1
+California,-119.9,35.3,Pyrus calleryana,44
+California,-119.9,35.3,Tilia cordata,1
+California,-119.9,36.3,Others,31
+California,-119.9,36.3,Lagerstroemia indica,7
+California,-119.9,36.3,Pyrus calleryana,11
+California,-119.8,36.3,Others,11
+California,-119.8,36.3,Prunus,2
+California,-119.7,36.3,Others,68
+California,-119.7,36.3,Lagerstroemia indica,16
+California,-119.7,36.3,Pyrus calleryana,3
+California,-119.6,36.3,Acer rubrum,1
+California,-119.6,36.3,Others,763
+California,-119.6,36.3,Fraxinus pennsylvanica,1
+California,-119.6,36.3,Gleditsia triacanthos,5
+California,-119.6,36.3,Lagerstroemia indica,13
+California,-119.6,36.3,Liquidambar styraciflua,45
+California,-119.6,36.3,Platanus acerifolia,9
+California,-119.6,36.3,Prunus,2
+California,-119.6,36.3,Pyrus calleryana,14
+California,-119.5,35.4,Others,33
+California,-119.5,35.4,Lagerstroemia indica,1
+California,-119.5,36.1,Others,4
+California,-119.3,35.6,Others,6
+California,-119.3,35.6,Liquidambar styraciflua,2
+California,-119.3,36.3,Pyrus calleryana,2
+California,-118.8,34.2,Others,21
+California,-118.7,34.2,Others,245
+California,-118.7,34.2,Gleditsia triacanthos,20
+California,-118.7,34.2,Lagerstroemia indica,14
+California,-118.7,34.2,Platanus acerifolia,9
+California,-118.7,34.2,Pyrus calleryana,13
+California,-118.7,35.9,Others,181
+California,-118.7,35.9,Lagerstroemia indica,5
+California,-118.7,35.9,Liquidambar styraciflua,5
+California,-118.7,35.9,Platanus acerifolia,1
+California,-118.7,35.9,Pyrus calleryana,18
+California,-118.7,35.9,Tilia cordata,1
+California,-118.6,34.0,Others,1077
+California,-118.6,34.0,Gleditsia triacanthos,16
+California,-118.6,34.0,Liquidambar styraciflua,8
+California,-118.6,34.0,Platanus acerifolia,3
+California,-118.6,34.1,Others,2052
+California,-118.6,34.1,Gleditsia triacanthos,34
+California,-118.6,34.1,Lagerstroemia indica,83
+California,-118.6,34.1,Liquidambar styraciflua,17
+California,-118.6,34.1,Platanus acerifolia,13
+California,-118.6,34.1,Pyrus calleryana,1
+California,-118.6,34.2,Others,22370
+California,-118.6,34.2,Gleditsia triacanthos,956
+California,-118.6,34.2,Lagerstroemia indica,4383
+California,-118.6,34.2,Liquidambar styraciflua,1113
+California,-118.6,34.2,Platanus acerifolia,148
+California,-118.6,34.2,Pyrus calleryana,630
+California,-118.6,34.3,Others,4881
+California,-118.6,34.3,Gleditsia triacanthos,163
+California,-118.6,34.3,Lagerstroemia indica,1203
+California,-118.6,34.3,Liquidambar styraciflua,153
+California,-118.6,34.3,Platanus acerifolia,113
+California,-118.6,34.3,Prunus,1
+California,-118.6,34.3,Pyrus calleryana,252
+California,-118.6,34.5,Others,757
+California,-118.6,35.1,Others,2
+California,-118.6,35.1,Platanus acerifolia,9
+California,-118.6,35.9,Others,251
+California,-118.6,35.9,Acer platanoides,1
+California,-118.6,35.9,Acer rubrum,1
+California,-118.6,35.9,Lagerstroemia indica,30
+California,-118.6,35.9,Liquidambar styraciflua,73
+California,-118.6,35.9,Platanus acerifolia,50
+California,-118.6,35.9,Prunus,4
+California,-118.6,35.9,Pyrus calleryana,14
+California,-118.6,35.9,Tilia cordata,1
+California,-118.5,34.0,Others,12471
+California,-118.5,34.0,Acer platanoides,1
+California,-118.5,34.0,Gleditsia triacanthos,105
+California,-118.5,34.0,Lagerstroemia indica,53
+California,-118.5,34.0,Liquidambar styraciflua,325
+California,-118.5,34.0,Platanus acerifolia,146
+California,-118.5,34.0,Pyrus calleryana,31
+California,-118.5,34.1,Others,18342
+California,-118.5,34.1,Acer platanoides,2
+California,-118.5,34.1,Acer rubrum,4
+California,-118.5,34.1,Gleditsia triacanthos,243
+California,-118.5,34.1,Lagerstroemia indica,267
+California,-118.5,34.1,Liquidambar styraciflua,693
+California,-118.5,34.1,Platanus acerifolia,186
+California,-118.5,34.1,Pyrus calleryana,64
+California,-118.5,34.2,Others,23522
+California,-118.5,34.2,Acer rubrum,2
+California,-118.5,34.2,Gleditsia triacanthos,832
+California,-118.5,34.2,Lagerstroemia indica,5007
+California,-118.5,34.2,Liquidambar styraciflua,3585
+California,-118.5,34.2,Platanus acerifolia,245
+California,-118.5,34.2,Pyrus calleryana,515
+California,-118.5,34.3,Others,14881
+California,-118.5,34.3,Gleditsia triacanthos,512
+California,-118.5,34.3,Lagerstroemia indica,4019
+California,-118.5,34.3,Liquidambar styraciflua,1860
+California,-118.5,34.3,Platanus acerifolia,136
+California,-118.5,34.3,Pyrus calleryana,403
+California,-118.5,35.4,Others,8
+California,-118.5,35.4,Lagerstroemia indica,2
+California,-118.4,33.9,Others,193
+California,-118.4,33.9,Liquidambar styraciflua,2
+California,-118.4,33.9,Pyrus calleryana,4
+California,-118.4,34.0,Others,31064
+California,-118.4,34.0,Acer platanoides,2
+California,-118.4,34.0,Gleditsia triacanthos,126
+California,-118.4,34.0,Lagerstroemia indica,317
+California,-118.4,34.0,Liquidambar styraciflua,2364
+California,-118.4,34.0,Platanus acerifolia,820
+California,-118.4,34.0,Prunus,10
+California,-118.4,34.0,Pyrus calleryana,182
+California,-118.4,34.1,Others,41036
+California,-118.4,34.1,Acer rubrum,5
+California,-118.4,34.1,Gleditsia triacanthos,563
+California,-118.4,34.1,Lagerstroemia indica,785
+California,-118.4,34.1,Liquidambar styraciflua,1581
+California,-118.4,34.1,Platanus acerifolia,2100
+California,-118.4,34.1,Prunus,3
+California,-118.4,34.1,Pyrus calleryana,200
+California,-118.4,34.2,Others,40377
+California,-118.4,34.2,Acer rubrum,3
+California,-118.4,34.2,Gleditsia triacanthos,1134
+California,-118.4,34.2,Lagerstroemia indica,6324
+California,-118.4,34.2,Liquidambar styraciflua,8922
+California,-118.4,34.2,Platanus acerifolia,981
+California,-118.4,34.2,Prunus,26
+California,-118.4,34.2,Pyrus calleryana,964
+California,-118.4,34.3,Others,7435
+California,-118.4,34.3,Gleditsia triacanthos,481
+California,-118.4,34.3,Lagerstroemia indica,1027
+California,-118.4,34.3,Liquidambar styraciflua,828
+California,-118.4,34.3,Platanus acerifolia,76
+California,-118.4,34.3,Pyrus calleryana,173
+California,-118.3,33.7,Others,2609
+California,-118.3,33.7,Gleditsia triacanthos,33
+California,-118.3,33.7,Lagerstroemia indica,13
+California,-118.3,33.7,Liquidambar styraciflua,37
+California,-118.3,33.7,Platanus acerifolia,13
+California,-118.3,33.7,Prunus,2
+California,-118.3,33.7,Pyrus calleryana,54
+California,-118.3,33.8,Others,5254
+California,-118.3,33.8,Gleditsia triacanthos,30
+California,-118.3,33.8,Lagerstroemia indica,52
+California,-118.3,33.8,Liquidambar styraciflua,71
+California,-118.3,33.8,Platanus acerifolia,143
+California,-118.3,33.8,Prunus,2
+California,-118.3,33.8,Pyrus calleryana,48
+California,-118.3,33.9,Others,1183
+California,-118.3,33.9,Gleditsia triacanthos,8
+California,-118.3,33.9,Lagerstroemia indica,9
+California,-118.3,33.9,Liquidambar styraciflua,256
+California,-118.3,33.9,Platanus acerifolia,24
+California,-118.3,33.9,Prunus,2
+California,-118.3,33.9,Pyrus calleryana,7
+California,-118.3,34.0,Others,17674
+California,-118.3,34.0,Gleditsia triacanthos,76
+California,-118.3,34.0,Lagerstroemia indica,270
+California,-118.3,34.0,Liquidambar styraciflua,185
+California,-118.3,34.0,Platanus acerifolia,802
+California,-118.3,34.0,Prunus,2
+California,-118.3,34.0,Pyrus calleryana,106
+California,-118.3,34.1,Others,38180
+California,-118.3,34.1,Acer rubrum,1
+California,-118.3,34.1,Gleditsia triacanthos,715
+California,-118.3,34.1,Lagerstroemia indica,1343
+California,-118.3,34.1,Liquidambar styraciflua,795
+California,-118.3,34.1,Platanus acerifolia,1237
+California,-118.3,34.1,Prunus,1
+California,-118.3,34.1,Pyrus calleryana,354
+California,-118.3,34.2,Others,1016
+California,-118.3,34.2,Gleditsia triacanthos,26
+California,-118.3,34.2,Lagerstroemia indica,113
+California,-118.3,34.2,Liquidambar styraciflua,577
+California,-118.3,34.2,Platanus acerifolia,18
+California,-118.3,34.2,Pyrus calleryana,24
+California,-118.3,34.3,Others,3185
+California,-118.3,34.3,Gleditsia triacanthos,84
+California,-118.3,34.3,Lagerstroemia indica,384
+California,-118.3,34.3,Liquidambar styraciflua,399
+California,-118.3,34.3,Platanus acerifolia,24
+California,-118.3,34.3,Pyrus calleryana,44
+California,-118.3,35.3,Others,1902
+California,-118.3,35.3,Acer rubrum,225
+California,-118.3,35.3,Lagerstroemia indica,247
+California,-118.3,35.3,Liquidambar styraciflua,47
+California,-118.3,35.3,Platanus acerifolia,401
+California,-118.3,35.3,Prunus,11
+California,-118.3,35.3,Pyrus calleryana,321
+California,-118.3,35.3,Tilia cordata,60
+California,-118.2,33.8,Others,203
+California,-118.2,33.8,Lagerstroemia indica,4
+California,-118.2,33.8,Prunus,2
+California,-118.2,33.9,Others,402
+California,-118.2,33.9,Lagerstroemia indica,1
+California,-118.2,33.9,Liquidambar styraciflua,1
+California,-118.2,33.9,Pyrus calleryana,12
+California,-118.2,34.0,Others,2952
+California,-118.2,34.0,Gleditsia triacanthos,38
+California,-118.2,34.0,Lagerstroemia indica,168
+California,-118.2,34.0,Liquidambar styraciflua,10
+California,-118.2,34.0,Platanus acerifolia,126
+California,-118.2,34.0,Prunus,3
+California,-118.2,34.0,Pyrus calleryana,67
+California,-118.2,34.1,Others,27489
+California,-118.2,34.1,Gleditsia triacanthos,471
+California,-118.2,34.1,Lagerstroemia indica,2346
+California,-118.2,34.1,Liquidambar styraciflua,1152
+California,-118.2,34.1,Platanus acerifolia,707
+California,-118.2,34.1,Prunus,32
+California,-118.2,34.1,Pyrus calleryana,612
+California,-118.2,35.7,Others,3
+California,-118.1,33.7,Others,1923
+California,-118.1,33.7,Gleditsia triacanthos,483
+California,-118.1,33.7,Lagerstroemia indica,42
+California,-118.1,33.7,Liquidambar styraciflua,1
+California,-118.1,33.7,Platanus acerifolia,4
+California,-118.1,33.7,Pyrus calleryana,33
+California,-118.1,34.7,Others,11
+California,-118.1,34.7,Tilia cordata,1
+California,-118.0,33.6,Others,1324
+California,-118.0,33.6,Gleditsia triacanthos,342
+California,-118.0,33.6,Lagerstroemia indica,218
+California,-118.0,33.6,Liquidambar styraciflua,20
+California,-118.0,33.6,Pyrus calleryana,6
+California,-118.0,33.7,Others,34798
+California,-118.0,33.7,Acer rubrum,12
+California,-118.0,33.7,Gleditsia triacanthos,9024
+California,-118.0,33.7,Lagerstroemia indica,3329
+California,-118.0,33.7,Liquidambar styraciflua,147
+California,-118.0,33.7,Platanus acerifolia,560
+California,-118.0,33.7,Prunus,3
+California,-118.0,33.7,Pyrus calleryana,1159
+California,-118.0,33.8,Others,17697
+California,-118.0,33.8,Acer rubrum,5
+California,-118.0,33.8,Gleditsia triacanthos,6613
+California,-118.0,33.8,Lagerstroemia indica,2145
+California,-118.0,33.8,Liquidambar styraciflua,274
+California,-118.0,33.8,Platanus acerifolia,225
+California,-118.0,33.8,Prunus,3
+California,-118.0,33.8,Pyrus calleryana,339
+California,-118.0,33.9,Others,510
+California,-118.0,33.9,Gleditsia triacanthos,435
+California,-118.0,33.9,Lagerstroemia indica,67
+California,-118.0,33.9,Liquidambar styraciflua,32
+California,-118.0,33.9,Platanus acerifolia,68
+California,-118.0,33.9,Pyrus calleryana,76
+California,-118.0,35.1,Others,2629
+California,-118.0,35.1,Acer rubrum,43
+California,-118.0,35.1,Fraxinus pennsylvanica,2
+California,-118.0,35.1,Gleditsia triacanthos,15
+California,-118.0,35.1,Lagerstroemia indica,415
+California,-118.0,35.1,Liquidambar styraciflua,76
+California,-118.0,35.1,Platanus acerifolia,164
+California,-118.0,35.1,Prunus,2
+California,-118.0,35.1,Pyrus calleryana,187
+California,-118.0,35.1,Tilia cordata,19
+California,-117.9,33.7,Others,990
+California,-117.9,33.7,Fraxinus pennsylvanica,1
+California,-117.9,33.7,Gleditsia triacanthos,306
+California,-117.9,33.7,Lagerstroemia indica,135
+California,-117.9,33.7,Platanus acerifolia,9
+California,-117.9,33.7,Pyrus calleryana,27
+California,-117.9,33.8,Others,29002
+California,-117.9,33.8,Gleditsia triacanthos,11796
+California,-117.9,33.8,Lagerstroemia indica,2996
+California,-117.9,33.8,Liquidambar styraciflua,597
+California,-117.9,33.8,Platanus acerifolia,1017
+California,-117.9,33.8,Prunus,2
+California,-117.9,33.8,Pyrus calleryana,261
+California,-117.9,33.8,Tilia cordata,3
+California,-117.9,33.9,Others,2350
+California,-117.9,33.9,Gleditsia triacanthos,1350
+California,-117.9,33.9,Lagerstroemia indica,207
+California,-117.9,33.9,Liquidambar styraciflua,111
+California,-117.9,33.9,Platanus acerifolia,7
+California,-117.9,35.1,Others,150
+California,-117.9,35.1,Gleditsia triacanthos,1
+California,-117.9,35.1,Lagerstroemia indica,9
+California,-117.9,35.1,Liquidambar styraciflua,4
+California,-117.9,35.1,Platanus acerifolia,2
+California,-117.9,35.1,Pyrus calleryana,85
+California,-117.9,35.2,Others,7
+California,-117.9,35.2,Liquidambar styraciflua,2
+California,-117.9,35.2,Platanus acerifolia,1
+California,-117.8,33.8,Others,1542
+California,-117.8,33.8,Gleditsia triacanthos,647
+California,-117.8,33.8,Lagerstroemia indica,68
+California,-117.8,33.8,Liquidambar styraciflua,368
+California,-117.8,33.8,Platanus acerifolia,117
+California,-117.8,33.8,Pyrus calleryana,1
+California,-117.8,33.9,Others,5319
+California,-117.8,33.9,Gleditsia triacanthos,1979
+California,-117.8,33.9,Lagerstroemia indica,394
+California,-117.8,33.9,Liquidambar styraciflua,369
+California,-117.8,33.9,Platanus acerifolia,146
+California,-117.8,33.9,Pyrus calleryana,38
+California,-117.8,35.2,Others,460
+California,-117.8,35.2,Gleditsia triacanthos,10
+California,-117.8,35.2,Lagerstroemia indica,3
+California,-117.8,35.2,Liquidambar styraciflua,4
+California,-117.8,35.2,Platanus acerifolia,8
+California,-117.8,35.2,Prunus,5
+California,-117.8,35.2,Tilia cordata,1
+California,-117.7,33.8,Acer rubrum,13
+California,-117.7,33.8,Others,199
+California,-117.7,33.8,Gleditsia triacanthos,52
+California,-117.7,33.8,Lagerstroemia indica,11
+California,-117.7,33.8,Liquidambar styraciflua,24
+California,-117.7,33.8,Platanus acerifolia,15
+California,-117.7,33.9,Others,511
+California,-117.7,33.9,Gleditsia triacanthos,137
+California,-117.7,33.9,Lagerstroemia indica,45
+California,-117.7,33.9,Liquidambar styraciflua,47
+California,-117.7,33.9,Platanus acerifolia,94
+California,-117.7,33.9,Pyrus calleryana,40
+California,-117.7,34.0,Others,4518
+California,-117.7,34.0,Gleditsia triacanthos,23
+California,-117.7,34.0,Lagerstroemia indica,449
+California,-117.7,34.0,Liquidambar styraciflua,235
+California,-117.7,34.0,Platanus acerifolia,332
+California,-117.7,34.0,Pyrus calleryana,161
+California,-117.7,34.1,Others,9977
+California,-117.7,34.1,Acer rubrum,1
+California,-117.7,34.1,Gleditsia triacanthos,18
+California,-117.7,34.1,Lagerstroemia indica,1272
+California,-117.7,34.1,Liquidambar styraciflua,1523
+California,-117.7,34.1,Platanus acerifolia,450
+California,-117.7,34.1,Pyrus calleryana,644
+California,-117.6,33.9,Others,3
+California,-117.6,34.0,Others,11596
+California,-117.6,34.0,Gleditsia triacanthos,51
+California,-117.6,34.0,Lagerstroemia indica,973
+California,-117.6,34.0,Liquidambar styraciflua,463
+California,-117.6,34.0,Platanus acerifolia,932
+California,-117.6,34.0,Pyrus calleryana,403
+California,-117.6,34.1,Others,43392
+California,-117.6,34.1,Acer platanoides,3
+California,-117.6,34.1,Acer rubrum,16
+California,-117.6,34.1,Gleditsia triacanthos,61
+California,-117.6,34.1,Lagerstroemia indica,9532
+California,-117.6,34.1,Liquidambar styraciflua,4161
+California,-117.6,34.1,Platanus acerifolia,5088
+California,-117.6,34.1,Pyrus calleryana,3201
+California,-117.6,34.2,Others,4323
+California,-117.6,34.2,Acer rubrum,3
+California,-117.6,34.2,Gleditsia triacanthos,5
+California,-117.6,34.2,Lagerstroemia indica,1154
+California,-117.6,34.2,Liquidambar styraciflua,426
+California,-117.6,34.2,Platanus acerifolia,261
+California,-117.6,34.2,Pyrus calleryana,208
+California,-117.6,35.4,Others,26
+California,-117.6,35.4,Liquidambar styraciflua,16
+California,-117.5,34.0,Others,799
+California,-117.5,34.0,Lagerstroemia indica,37
+California,-117.5,34.0,Liquidambar styraciflua,10
+California,-117.5,34.0,Platanus acerifolia,107
+California,-117.5,34.0,Pyrus calleryana,168
+California,-117.5,34.1,Others,18023
+California,-117.5,34.1,Acer rubrum,2
+California,-117.5,34.1,Gleditsia triacanthos,12
+California,-117.5,34.1,Lagerstroemia indica,3287
+California,-117.5,34.1,Liquidambar styraciflua,1194
+California,-117.5,34.1,Platanus acerifolia,1297
+California,-117.5,34.1,Prunus,8
+California,-117.5,34.1,Pyrus calleryana,2433
+California,-117.5,34.2,Others,2417
+California,-117.5,34.2,Lagerstroemia indica,781
+California,-117.5,34.2,Liquidambar styraciflua,35
+California,-117.5,34.2,Platanus acerifolia,502
+California,-117.5,34.2,Pyrus calleryana,490
+California,-117.4,34.2,Others,5
+California,-117.3,32.7,Others,1605
+California,-117.3,32.7,Lagerstroemia indica,2
+California,-117.3,32.7,Liquidambar styraciflua,44
+California,-117.3,32.7,Pyrus calleryana,14
+California,-117.3,32.8,Others,9776
+California,-117.3,32.8,Lagerstroemia indica,32
+California,-117.3,32.8,Liquidambar styraciflua,178
+California,-117.3,32.8,Pyrus calleryana,3
+California,-117.3,32.9,Others,1073
+California,-117.3,32.9,Liquidambar styraciflua,24
+California,-117.3,33.0,Others,282
+California,-117.3,33.0,Liquidambar styraciflua,11
+California,-117.2,32.7,Others,19385
+California,-117.2,32.7,Lagerstroemia indica,60
+California,-117.2,32.7,Liquidambar styraciflua,928
+California,-117.2,32.7,Platanus acerifolia,22
+California,-117.2,32.7,Pyrus calleryana,46
+California,-117.2,32.8,Others,30429
+California,-117.2,32.8,Lagerstroemia indica,98
+California,-117.2,32.8,Liquidambar styraciflua,1375
+California,-117.2,32.8,Platanus acerifolia,31
+California,-117.2,32.8,Pyrus calleryana,99
+California,-117.2,32.9,Others,18617
+California,-117.2,32.9,Lagerstroemia indica,83
+California,-117.2,32.9,Liquidambar styraciflua,1415
+California,-117.2,32.9,Platanus acerifolia,146
+California,-117.2,32.9,Pyrus calleryana,380
+California,-117.2,33.0,Others,4837
+California,-117.2,33.0,Lagerstroemia indica,3
+California,-117.2,33.0,Liquidambar styraciflua,1086
+California,-117.2,33.0,Platanus acerifolia,668
+California,-117.2,33.0,Pyrus calleryana,9
+California,-117.1,32.5,Others,479
+California,-117.1,32.5,Liquidambar styraciflua,19
+California,-117.1,32.5,Pyrus calleryana,160
+California,-117.1,32.6,Others,6458
+California,-117.1,32.6,Lagerstroemia indica,14
+California,-117.1,32.6,Liquidambar styraciflua,240
+California,-117.1,32.6,Pyrus calleryana,9
+California,-117.1,32.7,Others,27837
+California,-117.1,32.7,Lagerstroemia indica,640
+California,-117.1,32.7,Liquidambar styraciflua,808
+California,-117.1,32.7,Platanus acerifolia,13
+California,-117.1,32.7,Pyrus calleryana,414
+California,-117.1,32.8,Others,29047
+California,-117.1,32.8,Lagerstroemia indica,432
+California,-117.1,32.8,Liquidambar styraciflua,1666
+California,-117.1,32.8,Platanus acerifolia,1
+California,-117.1,32.8,Pyrus calleryana,128
+California,-117.1,32.9,Others,16160
+California,-117.1,32.9,Lagerstroemia indica,599
+California,-117.1,32.9,Liquidambar styraciflua,876
+California,-117.1,32.9,Platanus acerifolia,128
+California,-117.1,32.9,Pyrus calleryana,393
+California,-117.1,33.0,Others,13958
+California,-117.1,33.0,Lagerstroemia indica,84
+California,-117.1,33.0,Liquidambar styraciflua,736
+California,-117.1,33.0,Platanus acerifolia,897
+California,-117.1,33.0,Pyrus calleryana,127
+California,-117.1,33.1,Others,120
+California,-117.1,33.1,Liquidambar styraciflua,1
+California,-117.0,32.5,Others,578
+California,-117.0,32.5,Liquidambar styraciflua,27
+California,-117.0,32.5,Pyrus calleryana,5
+California,-117.0,32.6,Others,5418
+California,-117.0,32.6,Lagerstroemia indica,1
+California,-117.0,32.6,Liquidambar styraciflua,186
+California,-117.0,32.6,Pyrus calleryana,154
+California,-117.0,32.7,Others,4679
+California,-117.0,32.7,Lagerstroemia indica,79
+California,-117.0,32.7,Liquidambar styraciflua,208
+California,-117.0,32.7,Platanus acerifolia,1
+California,-117.0,32.7,Pyrus calleryana,24
+California,-117.0,32.8,Others,3507
+California,-117.0,32.8,Lagerstroemia indica,89
+California,-117.0,32.8,Liquidambar styraciflua,417
+California,-117.0,32.8,Pyrus calleryana,1
+California,-117.0,33.0,Others,260
+California,-117.0,33.0,Liquidambar styraciflua,16
+California,-117.0,33.1,Others,19
+California,-116.9,32.6,Others,1366
+California,-116.9,32.6,Liquidambar styraciflua,69
+California,-116.9,32.6,Pyrus calleryana,20
+California,-116.0,34.8,Others,1
+California,-116.0,34.8,Lagerstroemia indica,1
+Colorado,-105.6,39.7,Others,46
+Colorado,-105.4,39.7,Others,516
+Colorado,-105.3,39.5,Others,1
+Colorado,-105.3,39.6,Others,779
+Colorado,-105.3,39.7,Others,1572
+Colorado,-105.3,39.7,Prunus,1
+Colorado,-105.2,39.7,Others,716
+Colorado,-105.2,39.7,Fraxinus pennsylvanica,4
+Colorado,-105.2,39.7,Gleditsia triacanthos,13
+Colorado,-105.2,39.7,Prunus,10
+Colorado,-105.2,39.7,Pyrus calleryana,1
+Colorado,-105.1,39.6,Others,2124
+Colorado,-105.1,39.6,Acer platanoides,144
+Colorado,-105.1,39.6,Acer rubrum,123
+Colorado,-105.1,39.6,Fraxinus pennsylvanica,696
+Colorado,-105.1,39.6,Gleditsia triacanthos,183
+Colorado,-105.1,39.6,Platanus acerifolia,10
+Colorado,-105.1,39.6,Prunus,1
+Colorado,-105.1,39.6,Pyrus calleryana,70
+Colorado,-105.1,39.6,Tilia cordata,153
+Colorado,-105.1,39.7,Others,2405
+Colorado,-105.1,39.7,Acer platanoides,20
+Colorado,-105.1,39.7,Acer rubrum,7
+Colorado,-105.1,39.7,Fraxinus pennsylvanica,184
+Colorado,-105.1,39.7,Gleditsia triacanthos,228
+Colorado,-105.1,39.7,Liquidambar styraciflua,1
+Colorado,-105.1,39.7,Platanus acerifolia,13
+Colorado,-105.1,39.7,Prunus,4
+Colorado,-105.1,39.7,Pyrus calleryana,59
+Colorado,-105.1,39.7,Tilia cordata,83
+Colorado,-105.1,39.8,Others,2472
+Colorado,-105.1,39.8,Acer platanoides,55
+Colorado,-105.1,39.8,Acer rubrum,24
+Colorado,-105.1,39.8,Fraxinus pennsylvanica,103
+Colorado,-105.1,39.8,Gleditsia triacanthos,114
+Colorado,-105.1,39.8,Platanus acerifolia,10
+Colorado,-105.1,39.8,Prunus,2
+Colorado,-105.1,39.8,Pyrus calleryana,36
+Colorado,-105.1,39.8,Tilia cordata,63
+Colorado,-105.0,39.6,Others,993
+Colorado,-105.0,39.6,Acer platanoides,21
+Colorado,-105.0,39.6,Acer rubrum,3
+Colorado,-105.0,39.6,Fraxinus pennsylvanica,68
+Colorado,-105.0,39.6,Gleditsia triacanthos,44
+Colorado,-105.0,39.6,Liquidambar styraciflua,1
+Colorado,-105.0,39.6,Platanus acerifolia,1
+Colorado,-105.0,39.6,Prunus,8
+Colorado,-105.0,39.6,Pyrus calleryana,14
+Colorado,-105.0,39.6,Tilia cordata,27
+Colorado,-105.0,39.7,Others,64707
+Colorado,-105.0,39.7,Acer platanoides,2793
+Colorado,-105.0,39.7,Acer rubrum,945
+Colorado,-105.0,39.7,Fraxinus pennsylvanica,7752
+Colorado,-105.0,39.7,Gleditsia triacanthos,8688
+Colorado,-105.0,39.7,Liquidambar styraciflua,29
+Colorado,-105.0,39.7,Platanus acerifolia,518
+Colorado,-105.0,39.7,Prunus,217
+Colorado,-105.0,39.7,Pyrus calleryana,2656
+Colorado,-105.0,39.7,Tilia cordata,3799
+Colorado,-105.0,39.8,Others,31106
+Colorado,-105.0,39.8,Acer platanoides,1383
+Colorado,-105.0,39.8,Acer rubrum,520
+Colorado,-105.0,39.8,Fraxinus pennsylvanica,3730
+Colorado,-105.0,39.8,Gleditsia triacanthos,4554
+Colorado,-105.0,39.8,Liquidambar styraciflua,6
+Colorado,-105.0,39.8,Platanus acerifolia,444
+Colorado,-105.0,39.8,Prunus,123
+Colorado,-105.0,39.8,Pyrus calleryana,1522
+Colorado,-105.0,39.8,Tilia cordata,1976
+Colorado,-104.9,38.8,Others,382
+Colorado,-104.9,38.8,Acer platanoides,3
+Colorado,-104.9,38.8,Fraxinus pennsylvanica,3
+Colorado,-104.9,38.8,Gleditsia triacanthos,18
+Colorado,-104.9,38.9,Others,523
+Colorado,-104.9,38.9,Acer platanoides,16
+Colorado,-104.9,38.9,Fraxinus pennsylvanica,8
+Colorado,-104.9,38.9,Gleditsia triacanthos,35
+Colorado,-104.9,39.0,Others,32
+Colorado,-104.9,39.5,Others,63
+Colorado,-104.9,39.6,Others,4240
+Colorado,-104.9,39.6,Acer platanoides,49
+Colorado,-104.9,39.6,Acer rubrum,28
+Colorado,-104.9,39.6,Fraxinus pennsylvanica,684
+Colorado,-104.9,39.6,Gleditsia triacanthos,368
+Colorado,-104.9,39.6,Platanus acerifolia,13
+Colorado,-104.9,39.6,Prunus,4
+Colorado,-104.9,39.6,Pyrus calleryana,85
+Colorado,-104.9,39.6,Tilia cordata,278
+Colorado,-104.9,39.7,Others,58179
+Colorado,-104.9,39.7,Acer platanoides,2925
+Colorado,-104.9,39.7,Acer rubrum,690
+Colorado,-104.9,39.7,Fraxinus pennsylvanica,7327
+Colorado,-104.9,39.7,Gleditsia triacanthos,7531
+Colorado,-104.9,39.7,Liquidambar styraciflua,16
+Colorado,-104.9,39.7,Platanus acerifolia,320
+Colorado,-104.9,39.7,Prunus,227
+Colorado,-104.9,39.7,Pyrus calleryana,1689
+Colorado,-104.9,39.7,Tilia cordata,3197
+Colorado,-104.9,39.8,Others,22320
+Colorado,-104.9,39.8,Acer platanoides,915
+Colorado,-104.9,39.8,Acer rubrum,357
+Colorado,-104.9,39.8,Fraxinus pennsylvanica,3155
+Colorado,-104.9,39.8,Gleditsia triacanthos,2797
+Colorado,-104.9,39.8,Liquidambar styraciflua,10
+Colorado,-104.9,39.8,Platanus acerifolia,188
+Colorado,-104.9,39.8,Prunus,36
+Colorado,-104.9,39.8,Pyrus calleryana,630
+Colorado,-104.9,39.8,Tilia cordata,2022
+Colorado,-104.8,38.8,Others,3153
+Colorado,-104.8,38.8,Acer platanoides,127
+Colorado,-104.8,38.8,Acer rubrum,3
+Colorado,-104.8,38.8,Fraxinus pennsylvanica,648
+Colorado,-104.8,38.8,Gleditsia triacanthos,126
+Colorado,-104.8,38.8,Platanus acerifolia,1
+Colorado,-104.8,38.8,Prunus,2
+Colorado,-104.8,38.8,Pyrus calleryana,2
+Colorado,-104.8,38.8,Tilia cordata,57
+Colorado,-104.8,38.9,Others,5242
+Colorado,-104.8,38.9,Acer platanoides,281
+Colorado,-104.8,38.9,Acer rubrum,27
+Colorado,-104.8,38.9,Fraxinus pennsylvanica,782
+Colorado,-104.8,38.9,Gleditsia triacanthos,176
+Colorado,-104.8,38.9,Platanus acerifolia,1
+Colorado,-104.8,38.9,Prunus,7
+Colorado,-104.8,38.9,Pyrus calleryana,18
+Colorado,-104.8,38.9,Tilia cordata,92
+Colorado,-104.8,39.0,Others,179
+Colorado,-104.8,39.0,Acer platanoides,3
+Colorado,-104.8,39.0,Fraxinus pennsylvanica,8
+Colorado,-104.8,39.0,Gleditsia triacanthos,3
+Colorado,-104.8,39.0,Tilia cordata,2
+Colorado,-104.8,39.6,Others,3943
+Colorado,-104.8,39.6,Acer platanoides,600
+Colorado,-104.8,39.6,Acer rubrum,46
+Colorado,-104.8,39.6,Fraxinus pennsylvanica,990
+Colorado,-104.8,39.6,Gleditsia triacanthos,1216
+Colorado,-104.8,39.6,Prunus,2
+Colorado,-104.8,39.6,Pyrus calleryana,49
+Colorado,-104.8,39.6,Tilia cordata,27
+Colorado,-104.8,39.7,Others,20026
+Colorado,-104.8,39.7,Acer platanoides,2873
+Colorado,-104.8,39.7,Acer rubrum,52
+Colorado,-104.8,39.7,Fraxinus pennsylvanica,2988
+Colorado,-104.8,39.7,Gleditsia triacanthos,6052
+Colorado,-104.8,39.7,Platanus acerifolia,2
+Colorado,-104.8,39.7,Prunus,36
+Colorado,-104.8,39.7,Pyrus calleryana,987
+Colorado,-104.8,39.7,Tilia cordata,213
+Colorado,-104.8,39.8,Others,13008
+Colorado,-104.8,39.8,Acer platanoides,738
+Colorado,-104.8,39.8,Acer rubrum,290
+Colorado,-104.8,39.8,Fraxinus pennsylvanica,2427
+Colorado,-104.8,39.8,Gleditsia triacanthos,2191
+Colorado,-104.8,39.8,Liquidambar styraciflua,20
+Colorado,-104.8,39.8,Platanus acerifolia,222
+Colorado,-104.8,39.8,Prunus,27
+Colorado,-104.8,39.8,Pyrus calleryana,585
+Colorado,-104.8,39.8,Tilia cordata,1079
+Colorado,-104.7,38.8,Others,1328
+Colorado,-104.7,38.8,Acer platanoides,49
+Colorado,-104.7,38.8,Acer rubrum,9
+Colorado,-104.7,38.8,Fraxinus pennsylvanica,343
+Colorado,-104.7,38.8,Gleditsia triacanthos,122
+Colorado,-104.7,38.8,Prunus,2
+Colorado,-104.7,38.8,Pyrus calleryana,3
+Colorado,-104.7,38.8,Tilia cordata,46
+Colorado,-104.7,38.9,Others,787
+Colorado,-104.7,38.9,Acer platanoides,16
+Colorado,-104.7,38.9,Fraxinus pennsylvanica,52
+Colorado,-104.7,38.9,Gleditsia triacanthos,78
+Colorado,-104.7,38.9,Tilia cordata,2
+Colorado,-104.7,39.0,Others,110
+Colorado,-104.7,39.0,Gleditsia triacanthos,1
+Colorado,-104.7,39.6,Others,1209
+Colorado,-104.7,39.6,Acer platanoides,8
+Colorado,-104.7,39.6,Acer rubrum,1
+Colorado,-104.7,39.6,Fraxinus pennsylvanica,34
+Colorado,-104.7,39.6,Gleditsia triacanthos,59
+Colorado,-104.7,39.6,Pyrus calleryana,28
+Colorado,-104.7,39.7,Others,571
+Colorado,-104.7,39.7,Acer platanoides,4
+Colorado,-104.7,39.7,Acer rubrum,10
+Colorado,-104.7,39.7,Fraxinus pennsylvanica,3
+Colorado,-104.7,39.7,Gleditsia triacanthos,58
+Colorado,-104.7,39.7,Prunus,3
+Colorado,-104.7,39.7,Pyrus calleryana,57
+Colorado,-104.7,39.8,Others,2746
+Colorado,-104.7,39.8,Acer platanoides,162
+Colorado,-104.7,39.8,Acer rubrum,121
+Colorado,-104.7,39.8,Fraxinus pennsylvanica,1056
+Colorado,-104.7,39.8,Gleditsia triacanthos,508
+Colorado,-104.7,39.8,Liquidambar styraciflua,1
+Colorado,-104.7,39.8,Platanus acerifolia,82
+Colorado,-104.7,39.8,Prunus,10
+Colorado,-104.7,39.8,Pyrus calleryana,155
+Colorado,-104.7,39.8,Tilia cordata,324
+Colorado,-104.7,39.9,Others,26
+Colorado,-104.6,39.8,Others,1
+Colorado,-104.6,39.9,Others,5
+District of Columbia,-77.1,38.9,Others,20738
+District of Columbia,-77.1,38.9,Acer platanoides,736
+District of Columbia,-77.1,38.9,Acer rubrum,1756
+District of Columbia,-77.1,38.9,Fraxinus pennsylvanica,4
+District of Columbia,-77.1,38.9,Gleditsia triacanthos,309
+District of Columbia,-77.1,38.9,Lagerstroemia indica,608
+District of Columbia,-77.1,38.9,Liquidambar styraciflua,442
+District of Columbia,-77.1,38.9,Platanus acerifolia,990
+District of Columbia,-77.1,38.9,Prunus,1029
+District of Columbia,-77.1,38.9,Pyrus calleryana,223
+District of Columbia,-77.1,38.9,Tilia cordata,377
+District of Columbia,-77.1,39.0,Others,9028
+District of Columbia,-77.1,39.0,Acer platanoides,266
+District of Columbia,-77.1,39.0,Acer rubrum,934
+District of Columbia,-77.1,39.0,Fraxinus pennsylvanica,5
+District of Columbia,-77.1,39.0,Gleditsia triacanthos,73
+District of Columbia,-77.1,39.0,Lagerstroemia indica,145
+District of Columbia,-77.1,39.0,Liquidambar styraciflua,116
+District of Columbia,-77.1,39.0,Platanus acerifolia,219
+District of Columbia,-77.1,39.0,Prunus,532
+District of Columbia,-77.1,39.0,Pyrus calleryana,85
+District of Columbia,-77.1,39.0,Tilia cordata,124
+District of Columbia,-77.0,38.8,Others,7723
+District of Columbia,-77.0,38.8,Acer platanoides,29
+District of Columbia,-77.0,38.8,Acer rubrum,725
+District of Columbia,-77.0,38.8,Fraxinus pennsylvanica,7
+District of Columbia,-77.0,38.8,Gleditsia triacanthos,152
+District of Columbia,-77.0,38.8,Lagerstroemia indica,321
+District of Columbia,-77.0,38.8,Liquidambar styraciflua,326
+District of Columbia,-77.0,38.8,Platanus acerifolia,360
+District of Columbia,-77.0,38.8,Prunus,413
+District of Columbia,-77.0,38.8,Pyrus calleryana,63
+District of Columbia,-77.0,38.8,Tilia cordata,45
+District of Columbia,-77.0,38.9,Others,70398
+District of Columbia,-77.0,38.9,Acer platanoides,1549
+District of Columbia,-77.0,38.9,Acer rubrum,6374
+District of Columbia,-77.0,38.9,Fraxinus pennsylvanica,34
+District of Columbia,-77.0,38.9,Gleditsia triacanthos,1610
+District of Columbia,-77.0,38.9,Lagerstroemia indica,1952
+District of Columbia,-77.0,38.9,Liquidambar styraciflua,1583
+District of Columbia,-77.0,38.9,Platanus acerifolia,3336
+District of Columbia,-77.0,38.9,Prunus,1712
+District of Columbia,-77.0,38.9,Pyrus calleryana,461
+District of Columbia,-77.0,38.9,Tilia cordata,1954
+District of Columbia,-77.0,39.0,Others,15535
+District of Columbia,-77.0,39.0,Acer platanoides,781
+District of Columbia,-77.0,39.0,Acer rubrum,1001
+District of Columbia,-77.0,39.0,Fraxinus pennsylvanica,2
+District of Columbia,-77.0,39.0,Gleditsia triacanthos,172
+District of Columbia,-77.0,39.0,Lagerstroemia indica,540
+District of Columbia,-77.0,39.0,Liquidambar styraciflua,150
+District of Columbia,-77.0,39.0,Platanus acerifolia,382
+District of Columbia,-77.0,39.0,Prunus,795
+District of Columbia,-77.0,39.0,Pyrus calleryana,48
+District of Columbia,-77.0,39.0,Tilia cordata,77
+District of Columbia,-76.9,38.9,Others,12060
+District of Columbia,-76.9,38.9,Acer platanoides,57
+District of Columbia,-76.9,38.9,Acer rubrum,1940
+District of Columbia,-76.9,38.9,Fraxinus pennsylvanica,3
+District of Columbia,-76.9,38.9,Gleditsia triacanthos,319
+District of Columbia,-76.9,38.9,Lagerstroemia indica,787
+District of Columbia,-76.9,38.9,Liquidambar styraciflua,222
+District of Columbia,-76.9,38.9,Platanus acerifolia,480
+District of Columbia,-76.9,38.9,Prunus,408
+District of Columbia,-76.9,38.9,Pyrus calleryana,83
+District of Columbia,-76.9,38.9,Tilia cordata,138
+Florida,-82.5,27.9,Acer rubrum,107
+Florida,-82.5,27.9,Others,3302
+Florida,-82.5,27.9,Fraxinus pennsylvanica,1
+Florida,-82.5,27.9,Lagerstroemia indica,769
+Florida,-82.5,27.9,Liquidambar styraciflua,4
+Florida,-82.5,28.0,Others,2355
+Florida,-82.5,28.0,Acer rubrum,90
+Florida,-82.5,28.0,Fraxinus pennsylvanica,1
+Florida,-82.5,28.0,Lagerstroemia indica,691
+Florida,-82.5,28.0,Liquidambar styraciflua,4
+Florida,-82.5,28.0,Pyrus calleryana,1
+Florida,-82.5,28.1,Acer rubrum,1
+Florida,-82.5,28.1,Others,21
+Florida,-82.5,28.1,Lagerstroemia indica,4
+Florida,-82.4,27.9,Lagerstroemia indica,2
+Florida,-82.4,27.9,Others,11
+Florida,-82.4,28.0,Acer rubrum,33
+Florida,-82.4,28.0,Others,1094
+Florida,-82.4,28.0,Fraxinus pennsylvanica,5
+Florida,-82.4,28.0,Lagerstroemia indica,276
+Florida,-82.4,28.1,Others,15029
+Florida,-82.4,28.1,Acer rubrum,78
+Florida,-82.4,28.1,Lagerstroemia indica,1165
+Florida,-82.4,28.1,Liquidambar styraciflua,5
+Florida,-82.4,28.1,Prunus,3
+Florida,-82.4,28.1,Pyrus calleryana,1
+Florida,-82.3,28.0,Others,12
+Florida,-82.3,28.1,Others,2
+Florida,-82.3,28.2,Others,1
+Florida,-82.1,26.6,Others,158
+Florida,-82.1,26.6,Lagerstroemia indica,1
+Florida,-82.1,26.7,Others,52
+Florida,-82.0,26.5,Others,1923
+Florida,-82.0,26.5,Acer rubrum,3
+Florida,-82.0,26.5,Lagerstroemia indica,20
+Florida,-82.0,26.5,Liquidambar styraciflua,1
+Florida,-82.0,26.6,Others,17212
+Florida,-82.0,26.6,Acer rubrum,41
+Florida,-82.0,26.6,Lagerstroemia indica,442
+Florida,-82.0,26.6,Liquidambar styraciflua,36
+Florida,-82.0,26.6,Platanus acerifolia,3
+Florida,-82.0,26.6,Prunus,1
+Florida,-82.0,26.7,Others,4531
+Florida,-82.0,26.7,Acer rubrum,4
+Florida,-82.0,26.7,Lagerstroemia indica,10
+Florida,-81.9,26.6,Others,5027
+Florida,-81.9,26.6,Acer rubrum,12
+Florida,-81.9,26.6,Lagerstroemia indica,27
+Florida,-81.9,26.6,Liquidambar styraciflua,1
+Florida,-81.9,26.6,Platanus acerifolia,2
+Florida,-81.9,26.7,Acer rubrum,78
+Florida,-81.9,26.7,Others,2589
+Florida,-81.9,26.7,Lagerstroemia indica,3
+Florida,-81.9,26.7,Liquidambar styraciflua,1
+Florida,-81.9,26.7,Platanus acerifolia,2
+Georgia,-84.6,33.8,Others,1
+Georgia,-84.6,33.9,Others,38
+Georgia,-84.6,34.0,Others,39
+Georgia,-84.5,33.6,Acer rubrum,12
+Georgia,-84.5,33.6,Others,54
+Georgia,-84.5,33.7,Others,1645
+Georgia,-84.5,33.7,Acer rubrum,62
+Georgia,-84.5,33.7,Fraxinus pennsylvanica,1
+Georgia,-84.5,33.7,Lagerstroemia indica,58
+Georgia,-84.5,33.7,Liquidambar styraciflua,1
+Georgia,-84.5,33.7,Prunus,8
+Georgia,-84.5,33.8,Others,1651
+Georgia,-84.5,33.8,Acer rubrum,50
+Georgia,-84.5,33.8,Fraxinus pennsylvanica,8
+Georgia,-84.5,33.8,Lagerstroemia indica,44
+Georgia,-84.5,33.8,Prunus,17
+Georgia,-84.5,33.9,Others,5
+Georgia,-84.4,33.6,Others,40
+Georgia,-84.4,33.6,Lagerstroemia indica,20
+Georgia,-84.4,33.7,Others,10867
+Georgia,-84.4,33.7,Acer rubrum,410
+Georgia,-84.4,33.7,Fraxinus pennsylvanica,39
+Georgia,-84.4,33.7,Gleditsia triacanthos,21
+Georgia,-84.4,33.7,Lagerstroemia indica,618
+Georgia,-84.4,33.7,Liquidambar styraciflua,14
+Georgia,-84.4,33.7,Platanus acerifolia,13
+Georgia,-84.4,33.7,Prunus,130
+Georgia,-84.4,33.7,Pyrus calleryana,3
+Georgia,-84.4,33.7,Tilia cordata,1
+Georgia,-84.4,33.8,Others,13163
+Georgia,-84.4,33.8,Acer platanoides,3
+Georgia,-84.4,33.8,Acer rubrum,562
+Georgia,-84.4,33.8,Fraxinus pennsylvanica,54
+Georgia,-84.4,33.8,Gleditsia triacanthos,8
+Georgia,-84.4,33.8,Lagerstroemia indica,692
+Georgia,-84.4,33.8,Liquidambar styraciflua,29
+Georgia,-84.4,33.8,Platanus acerifolia,8
+Georgia,-84.4,33.8,Prunus,87
+Georgia,-84.4,33.8,Tilia cordata,3
+Georgia,-84.4,33.9,Others,533
+Georgia,-84.4,33.9,Acer rubrum,20
+Georgia,-84.4,33.9,Fraxinus pennsylvanica,3
+Georgia,-84.4,33.9,Lagerstroemia indica,1
+Georgia,-84.4,33.9,Prunus,10
+Georgia,-84.4,34.0,Others,1
+Georgia,-84.3,33.5,Prunus,1
+Georgia,-84.3,33.7,Others,1425
+Georgia,-84.3,33.7,Acer platanoides,1
+Georgia,-84.3,33.7,Acer rubrum,51
+Georgia,-84.3,33.7,Fraxinus pennsylvanica,3
+Georgia,-84.3,33.7,Lagerstroemia indica,93
+Georgia,-84.3,33.8,Others,6140
+Georgia,-84.3,33.8,Acer rubrum,238
+Georgia,-84.3,33.8,Fraxinus pennsylvanica,32
+Georgia,-84.3,33.8,Gleditsia triacanthos,4
+Georgia,-84.3,33.8,Lagerstroemia indica,185
+Georgia,-84.3,33.8,Liquidambar styraciflua,2
+Georgia,-84.3,33.8,Prunus,16
+Georgia,-84.3,33.8,Tilia cordata,2
+Georgia,-84.3,33.9,Others,1490
+Georgia,-84.3,33.9,Acer rubrum,59
+Georgia,-84.3,33.9,Gleditsia triacanthos,5
+Georgia,-84.3,33.9,Lagerstroemia indica,6
+Georgia,-84.3,33.9,Liquidambar styraciflua,2
+Georgia,-84.3,33.9,Prunus,2
+Georgia,-84.3,34.0,Acer rubrum,6
+Georgia,-84.3,34.0,Others,41
+Georgia,-84.2,33.7,Acer rubrum,2
+Georgia,-84.2,33.7,Others,14
+Georgia,-84.2,33.7,Fraxinus pennsylvanica,3
+Georgia,-84.2,33.8,Acer rubrum,4
+Georgia,-84.2,33.8,Others,254
+Georgia,-84.2,33.8,Lagerstroemia indica,11
+Georgia,-84.2,33.8,Prunus,36
+Hawaii,-158.0,21.4,Others,43
+Hawaii,-157.9,21.3,Others,1362
+Hawaii,-157.9,21.4,Others,1
+Hawaii,-157.8,21.3,Others,6218
+Hawaii,-157.8,21.3,Gleditsia triacanthos,3
+Hawaii,-157.8,21.3,Lagerstroemia indica,3
+Hawaii,-157.8,21.4,Others,2961
+Hawaii,-157.8,21.4,Gleditsia triacanthos,3
+Hawaii,-157.8,21.4,Lagerstroemia indica,158
+Hawaii,-157.7,21.4,Others,4388
+Hawaii,-157.7,21.4,Gleditsia triacanthos,5
+Iowa,-94.7,41.5,Acer platanoides,2
+Iowa,-94.7,41.5,Others,24
+Iowa,-94.7,41.5,Fraxinus pennsylvanica,4
+Iowa,-94.7,41.5,Gleditsia triacanthos,2
+Iowa,-94.7,41.5,Tilia cordata,1
+Iowa,-94.7,41.9,Others,361
+Iowa,-94.7,41.9,Acer platanoides,88
+Iowa,-94.7,41.9,Acer rubrum,9
+Iowa,-94.7,41.9,Fraxinus pennsylvanica,159
+Iowa,-94.7,41.9,Gleditsia triacanthos,19
+Iowa,-94.7,41.9,Tilia cordata,34
+Iowa,-94.6,41.5,Others,207
+Iowa,-94.6,41.5,Acer platanoides,25
+Iowa,-94.6,41.5,Fraxinus pennsylvanica,49
+Iowa,-94.6,41.5,Gleditsia triacanthos,2
+Iowa,-94.6,41.5,Tilia cordata,3
+Iowa,-94.6,41.8,Acer platanoides,1
+Iowa,-94.6,41.8,Others,5
+Iowa,-94.6,41.8,Fraxinus pennsylvanica,2
+Iowa,-94.6,41.8,Gleditsia triacanthos,1
+Iowa,-94.6,41.9,Acer platanoides,8
+Iowa,-94.6,41.9,Others,34
+Iowa,-94.6,41.9,Fraxinus pennsylvanica,11
+Iowa,-94.6,41.9,Gleditsia triacanthos,2
+Iowa,-94.5,41.7,Acer platanoides,20
+Iowa,-94.5,41.7,Acer rubrum,3
+Iowa,-94.5,41.7,Others,158
+Iowa,-94.5,41.7,Fraxinus pennsylvanica,38
+Iowa,-94.5,41.7,Gleditsia triacanthos,2
+Iowa,-94.5,41.7,Tilia cordata,7
+Iowa,-94.4,41.7,Others,136
+Iowa,-94.4,41.7,Acer platanoides,21
+Iowa,-94.4,41.7,Acer rubrum,14
+Iowa,-94.4,41.7,Fraxinus pennsylvanica,45
+Iowa,-94.4,41.7,Tilia cordata,3
+Iowa,-94.3,41.5,Acer platanoides,50
+Iowa,-94.3,41.5,Acer rubrum,13
+Iowa,-94.3,41.5,Others,267
+Iowa,-94.3,41.5,Fraxinus pennsylvanica,94
+Iowa,-94.3,41.5,Gleditsia triacanthos,18
+Iowa,-94.3,41.5,Tilia cordata,6
+Iowa,-94.2,41.5,Others,151
+Iowa,-94.2,41.5,Acer platanoides,11
+Iowa,-94.2,41.5,Acer rubrum,8
+Iowa,-94.2,41.5,Fraxinus pennsylvanica,11
+Iowa,-94.2,41.5,Gleditsia triacanthos,9
+Iowa,-94.2,41.5,Pyrus calleryana,1
+Iowa,-94.2,41.5,Tilia cordata,2
+Iowa,-94.2,41.6,Others,111
+Iowa,-94.2,41.6,Acer platanoides,5
+Iowa,-94.2,41.6,Acer rubrum,6
+Iowa,-94.2,41.6,Fraxinus pennsylvanica,15
+Iowa,-94.2,41.6,Gleditsia triacanthos,7
+Iowa,-94.2,41.6,Tilia cordata,1
+Iowa,-94.1,41.5,Others,432
+Iowa,-94.1,41.5,Acer platanoides,25
+Iowa,-94.1,41.5,Acer rubrum,35
+Iowa,-94.1,41.5,Fraxinus pennsylvanica,54
+Iowa,-94.1,41.5,Gleditsia triacanthos,2
+Iowa,-94.1,41.5,Prunus,1
+Iowa,-94.1,41.5,Tilia cordata,1
+Iowa,-94.0,41.5,Others,189
+Iowa,-94.0,41.5,Acer platanoides,5
+Iowa,-94.0,41.5,Fraxinus pennsylvanica,12
+Iowa,-94.0,41.5,Gleditsia triacanthos,1
+Iowa,-94.0,41.5,Tilia cordata,1
+Iowa,-94.0,41.6,Others,375
+Iowa,-94.0,41.6,Acer platanoides,37
+Iowa,-94.0,41.6,Acer rubrum,7
+Iowa,-94.0,41.6,Fraxinus pennsylvanica,97
+Iowa,-94.0,41.6,Gleditsia triacanthos,12
+Iowa,-94.0,41.6,Prunus,2
+Iowa,-94.0,41.6,Tilia cordata,14
+Iowa,-94.0,41.7,Others,528
+Iowa,-94.0,41.7,Acer platanoides,83
+Iowa,-94.0,41.7,Acer rubrum,25
+Iowa,-94.0,41.7,Fraxinus pennsylvanica,148
+Iowa,-94.0,41.7,Gleditsia triacanthos,15
+Iowa,-94.0,41.7,Liquidambar styraciflua,2
+Iowa,-94.0,41.7,Prunus,1
+Iowa,-94.0,41.7,Tilia cordata,17
+Iowa,-94.0,41.8,Others,6
+Iowa,-94.0,41.8,Acer platanoides,1
+Iowa,-94.0,41.8,Fraxinus pennsylvanica,6
+Iowa,-94.0,41.9,Others,92
+Iowa,-94.0,41.9,Acer platanoides,4
+Iowa,-94.0,41.9,Fraxinus pennsylvanica,43
+Iowa,-94.0,41.9,Gleditsia triacanthos,6
+Iowa,-93.9,41.6,Others,956
+Iowa,-93.9,41.6,Acer platanoides,19
+Iowa,-93.9,41.6,Acer rubrum,6
+Iowa,-93.9,41.6,Fraxinus pennsylvanica,165
+Iowa,-93.9,41.6,Gleditsia triacanthos,100
+Iowa,-93.9,41.6,Tilia cordata,41
+Iowa,-93.9,41.8,Others,6
+Iowa,-93.9,41.8,Gleditsia triacanthos,1
+Iowa,-93.9,41.9,Others,338
+Iowa,-93.9,41.9,Acer platanoides,81
+Iowa,-93.9,41.9,Acer rubrum,5
+Iowa,-93.9,41.9,Fraxinus pennsylvanica,49
+Iowa,-93.9,41.9,Gleditsia triacanthos,14
+Iowa,-93.9,41.9,Prunus,1
+Iowa,-93.9,41.9,Pyrus calleryana,1
+Iowa,-93.9,41.9,Tilia cordata,12
+Iowa,-93.8,41.6,Others,438
+Iowa,-93.8,41.6,Acer platanoides,21
+Iowa,-93.8,41.6,Acer rubrum,43
+Iowa,-93.8,41.6,Fraxinus pennsylvanica,53
+Iowa,-93.8,41.6,Gleditsia triacanthos,3
+Iowa,-93.8,41.6,Prunus,20
+Iowa,-93.8,41.6,Tilia cordata,81
+Iowa,-93.8,41.8,Others,151
+Iowa,-93.8,41.8,Acer platanoides,12
+Iowa,-93.8,41.8,Acer rubrum,6
+Iowa,-93.8,41.8,Fraxinus pennsylvanica,46
+Iowa,-93.8,41.8,Tilia cordata,2
+Iowa,-93.7,41.6,Others,304
+Iowa,-93.7,41.6,Acer platanoides,6
+Iowa,-93.7,41.6,Acer rubrum,1
+Iowa,-93.7,41.6,Fraxinus pennsylvanica,39
+Iowa,-93.7,41.6,Gleditsia triacanthos,22
+Iowa,-93.7,41.6,Prunus,1
+Iowa,-93.7,41.6,Pyrus calleryana,5
+Iowa,-93.7,41.6,Tilia cordata,1
+Iowa,-93.7,41.8,Acer platanoides,4
+Iowa,-93.7,41.8,Acer rubrum,9
+Iowa,-93.7,41.8,Others,93
+Iowa,-93.7,41.8,Fraxinus pennsylvanica,12
+Iowa,-93.6,41.6,Others,23
+Iowa,-93.5,41.5,Others,481
+Iowa,-93.5,41.5,Acer platanoides,8
+Iowa,-93.5,41.5,Acer rubrum,13
+Iowa,-93.5,41.5,Gleditsia triacanthos,8
+Iowa,-93.5,41.5,Pyrus calleryana,3
+Iowa,-93.5,41.5,Tilia cordata,8
+Iowa,-93.5,41.6,Others,1270
+Iowa,-93.5,41.6,Acer platanoides,19
+Iowa,-93.5,41.6,Acer rubrum,30
+Iowa,-93.5,41.6,Fraxinus pennsylvanica,44
+Iowa,-93.5,41.6,Gleditsia triacanthos,19
+Iowa,-93.5,41.6,Liquidambar styraciflua,3
+Iowa,-93.5,41.6,Prunus,1
+Iowa,-93.5,41.6,Pyrus calleryana,11
+Iowa,-93.5,41.6,Tilia cordata,7
+Iowa,-93.5,41.7,Others,268
+Iowa,-93.5,41.7,Acer platanoides,11
+Iowa,-93.5,41.7,Acer rubrum,12
+Iowa,-93.5,41.7,Fraxinus pennsylvanica,24
+Iowa,-93.5,41.7,Gleditsia triacanthos,6
+Iowa,-93.5,41.7,Tilia cordata,4
+Iowa,-93.5,41.8,Others,94
+Iowa,-93.5,41.8,Acer platanoides,4
+Iowa,-93.5,41.8,Fraxinus pennsylvanica,17
+Iowa,-93.4,41.3,Others,299
+Iowa,-93.4,41.3,Acer platanoides,18
+Iowa,-93.4,41.3,Acer rubrum,7
+Iowa,-93.4,41.3,Tilia cordata,2
+Iowa,-93.4,41.5,Others,66
+Iowa,-93.4,41.5,Acer platanoides,4
+Iowa,-93.4,41.5,Acer rubrum,7
+Iowa,-93.4,41.5,Fraxinus pennsylvanica,12
+Iowa,-93.4,41.5,Tilia cordata,1
+Iowa,-93.4,41.7,Others,333
+Iowa,-93.4,41.7,Acer platanoides,22
+Iowa,-93.4,41.7,Acer rubrum,15
+Iowa,-93.4,41.7,Fraxinus pennsylvanica,42
+Iowa,-93.4,41.7,Gleditsia triacanthos,4
+Iowa,-93.4,41.7,Tilia cordata,8
+Iowa,-93.3,41.7,Others,80
+Iowa,-93.3,41.7,Gleditsia triacanthos,4
+Iowa,-93.2,41.6,Others,275
+Iowa,-93.2,41.6,Acer platanoides,16
+Iowa,-93.2,41.6,Acer rubrum,14
+Iowa,-93.2,41.6,Gleditsia triacanthos,5
+Iowa,-93.2,41.6,Prunus,2
+Iowa,-93.2,41.7,Others,170
+Iowa,-93.2,41.7,Acer platanoides,6
+Iowa,-93.2,41.7,Acer rubrum,6
+Iowa,-93.2,41.7,Gleditsia triacanthos,9
+Iowa,-93.2,41.7,Tilia cordata,2
+Iowa,-93.2,41.8,Acer rubrum,4
+Iowa,-93.2,41.8,Others,166
+Iowa,-93.1,41.5,Others,342
+Iowa,-93.1,41.5,Acer platanoides,5
+Iowa,-93.1,41.5,Acer rubrum,23
+Iowa,-93.1,41.5,Fraxinus pennsylvanica,17
+Iowa,-93.1,41.5,Gleditsia triacanthos,7
+Iowa,-93.1,41.5,Tilia cordata,4
+Iowa,-93.1,41.7,Others,1905
+Iowa,-93.1,41.7,Acer platanoides,29
+Iowa,-93.1,41.7,Acer rubrum,29
+Iowa,-93.1,41.7,Fraxinus pennsylvanica,196
+Iowa,-93.1,41.7,Gleditsia triacanthos,69
+Iowa,-93.1,41.7,Pyrus calleryana,3
+Iowa,-93.1,41.7,Tilia cordata,46
+Iowa,-93.1,41.8,Acer platanoides,4
+Iowa,-93.1,41.8,Acer rubrum,4
+Iowa,-93.1,41.8,Others,83
+Iowa,-93.1,41.8,Fraxinus pennsylvanica,5
+Iowa,-93.1,41.8,Gleditsia triacanthos,1
+Iowa,-93.1,42.2,Others,137
+Iowa,-93.1,42.2,Acer platanoides,19
+Iowa,-93.1,42.2,Acer rubrum,4
+Iowa,-93.1,42.2,Gleditsia triacanthos,2
+Iowa,-93.1,42.2,Pyrus calleryana,1
+Iowa,-93.1,42.2,Tilia cordata,2
+Iowa,-93.0,41.7,Others,767
+Iowa,-93.0,41.7,Acer platanoides,9
+Iowa,-93.0,41.7,Acer rubrum,26
+Iowa,-93.0,41.7,Fraxinus pennsylvanica,9
+Iowa,-93.0,41.7,Gleditsia triacanthos,16
+Iowa,-93.0,41.7,Prunus,2
+Iowa,-93.0,41.7,Pyrus calleryana,3
+Iowa,-93.0,41.7,Tilia cordata,8
+Iowa,-92.9,41.7,Others,91
+Iowa,-92.9,41.7,Acer platanoides,2
+Iowa,-92.9,41.7,Acer rubrum,2
+Iowa,-92.9,41.7,Fraxinus pennsylvanica,16
+Iowa,-92.9,41.7,Gleditsia triacanthos,5
+Iowa,-92.9,41.7,Tilia cordata,1
+Iowa,-92.8,41.6,Others,108
+Iowa,-92.8,41.6,Acer platanoides,7
+Iowa,-92.8,41.6,Acer rubrum,6
+Iowa,-92.8,41.6,Fraxinus pennsylvanica,20
+Iowa,-92.8,41.6,Gleditsia triacanthos,11
+Iowa,-92.8,41.6,Tilia cordata,7
+Iowa,-92.8,41.7,Acer rubrum,3
+Iowa,-92.8,41.7,Others,24
+Iowa,-92.8,41.7,Fraxinus pennsylvanica,4
+Iowa,-92.8,41.7,Gleditsia triacanthos,1
+Kansas,-101.4,38.9,Acer rubrum,18
+Kansas,-101.4,38.9,Others,16
+Kansas,-100.5,39.1,Acer rubrum,30
+Kansas,-100.5,39.1,Others,65
+Kansas,-100.5,39.1,Pyrus calleryana,1
+Kansas,-100.4,39.1,Others,14
+Kansas,-94.9,39.0,Others,480
+Kansas,-94.9,39.0,Acer platanoides,8
+Kansas,-94.9,39.0,Acer rubrum,45
+Kansas,-94.9,39.0,Fraxinus pennsylvanica,107
+Kansas,-94.9,39.0,Gleditsia triacanthos,4
+Kansas,-94.9,39.0,Liquidambar styraciflua,57
+Kansas,-94.9,39.0,Pyrus calleryana,3
+Kansas,-94.9,39.0,Tilia cordata,2
+Kansas,-94.8,38.9,Others,175
+Kansas,-94.8,38.9,Acer platanoides,4
+Kansas,-94.8,38.9,Acer rubrum,3
+Kansas,-94.8,38.9,Fraxinus pennsylvanica,6
+Kansas,-94.8,38.9,Liquidambar styraciflua,12
+Kansas,-94.8,38.9,Pyrus calleryana,1
+Kansas,-94.8,38.9,Tilia cordata,3
+Kansas,-94.8,39.0,Others,623
+Kansas,-94.8,39.0,Acer platanoides,8
+Kansas,-94.8,39.0,Acer rubrum,26
+Kansas,-94.8,39.0,Fraxinus pennsylvanica,163
+Kansas,-94.8,39.0,Gleditsia triacanthos,6
+Kansas,-94.8,39.0,Liquidambar styraciflua,42
+Kansas,-94.8,39.0,Platanus acerifolia,25
+Kansas,-94.8,39.0,Pyrus calleryana,19
+Kansas,-94.8,39.0,Tilia cordata,3
+Kansas,-94.7,38.8,Others,1737
+Kansas,-94.7,38.8,Acer platanoides,16
+Kansas,-94.7,38.8,Acer rubrum,1056
+Kansas,-94.7,38.8,Fraxinus pennsylvanica,4
+Kansas,-94.7,38.8,Gleditsia triacanthos,35
+Kansas,-94.7,38.8,Liquidambar styraciflua,6
+Kansas,-94.7,38.8,Platanus acerifolia,38
+Kansas,-94.7,38.8,Prunus,5
+Kansas,-94.7,38.8,Pyrus calleryana,78
+Kansas,-94.7,38.8,Tilia cordata,90
+Kansas,-94.7,38.9,Others,11957
+Kansas,-94.7,38.9,Acer platanoides,373
+Kansas,-94.7,38.9,Acer rubrum,9905
+Kansas,-94.7,38.9,Fraxinus pennsylvanica,975
+Kansas,-94.7,38.9,Gleditsia triacanthos,719
+Kansas,-94.7,38.9,Lagerstroemia indica,1
+Kansas,-94.7,38.9,Liquidambar styraciflua,1171
+Kansas,-94.7,38.9,Platanus acerifolia,297
+Kansas,-94.7,38.9,Prunus,28
+Kansas,-94.7,38.9,Pyrus calleryana,949
+Kansas,-94.7,38.9,Tilia cordata,660
+Kansas,-94.7,39.0,Others,4975
+Kansas,-94.7,39.0,Acer platanoides,128
+Kansas,-94.7,39.0,Acer rubrum,664
+Kansas,-94.7,39.0,Fraxinus pennsylvanica,488
+Kansas,-94.7,39.0,Gleditsia triacanthos,98
+Kansas,-94.7,39.0,Liquidambar styraciflua,219
+Kansas,-94.7,39.0,Platanus acerifolia,77
+Kansas,-94.7,39.0,Prunus,14
+Kansas,-94.7,39.0,Pyrus calleryana,168
+Kansas,-94.7,39.0,Tilia cordata,79
+Kansas,-94.6,38.8,Others,902
+Kansas,-94.6,38.8,Acer platanoides,10
+Kansas,-94.6,38.8,Acer rubrum,469
+Kansas,-94.6,38.8,Gleditsia triacanthos,41
+Kansas,-94.6,38.8,Liquidambar styraciflua,60
+Kansas,-94.6,38.8,Prunus,4
+Kansas,-94.6,38.8,Pyrus calleryana,13
+Kansas,-94.6,38.8,Tilia cordata,10
+Kansas,-94.6,38.9,Others,1680
+Kansas,-94.6,38.9,Acer platanoides,10
+Kansas,-94.6,38.9,Acer rubrum,956
+Kansas,-94.6,38.9,Fraxinus pennsylvanica,72
+Kansas,-94.6,38.9,Gleditsia triacanthos,56
+Kansas,-94.6,38.9,Liquidambar styraciflua,334
+Kansas,-94.6,38.9,Platanus acerifolia,51
+Kansas,-94.6,38.9,Prunus,1
+Kansas,-94.6,38.9,Pyrus calleryana,121
+Kansas,-94.6,38.9,Tilia cordata,49
+Kansas,-94.6,39.0,Others,610
+Kansas,-94.6,39.0,Acer platanoides,6
+Kansas,-94.6,39.0,Acer rubrum,117
+Kansas,-94.6,39.0,Fraxinus pennsylvanica,114
+Kansas,-94.6,39.0,Gleditsia triacanthos,5
+Kansas,-94.6,39.0,Liquidambar styraciflua,82
+Kansas,-94.6,39.0,Platanus acerifolia,4
+Kansas,-94.6,39.0,Prunus,3
+Kansas,-94.6,39.0,Pyrus calleryana,4
+Kansas,-94.6,39.0,Tilia cordata,4
+Kentucky,-85.9,38.0,Others,4
+Kentucky,-85.9,38.1,Others,1414
+Kentucky,-85.9,38.1,Acer platanoides,1
+Kentucky,-85.9,38.1,Acer rubrum,165
+Kentucky,-85.9,38.1,Fraxinus pennsylvanica,32
+Kentucky,-85.9,38.1,Gleditsia triacanthos,10
+Kentucky,-85.9,38.1,Liquidambar styraciflua,67
+Kentucky,-85.9,38.1,Platanus acerifolia,13
+Kentucky,-85.9,38.1,Pyrus calleryana,15
+Kentucky,-85.9,38.2,Others,258
+Kentucky,-85.9,38.2,Acer rubrum,19
+Kentucky,-85.9,38.2,Fraxinus pennsylvanica,2
+Kentucky,-85.9,38.2,Liquidambar styraciflua,18
+Kentucky,-85.9,38.2,Prunus,1
+Kentucky,-85.9,38.2,Pyrus calleryana,1
+Kentucky,-85.8,38.1,Others,493
+Kentucky,-85.8,38.1,Acer rubrum,23
+Kentucky,-85.8,38.1,Fraxinus pennsylvanica,19
+Kentucky,-85.8,38.1,Gleditsia triacanthos,1
+Kentucky,-85.8,38.1,Liquidambar styraciflua,37
+Kentucky,-85.8,38.1,Pyrus calleryana,9
+Kentucky,-85.8,38.2,Others,7035
+Kentucky,-85.8,38.2,Acer platanoides,5
+Kentucky,-85.8,38.2,Acer rubrum,462
+Kentucky,-85.8,38.2,Fraxinus pennsylvanica,343
+Kentucky,-85.8,38.2,Gleditsia triacanthos,34
+Kentucky,-85.8,38.2,Liquidambar styraciflua,278
+Kentucky,-85.8,38.2,Platanus acerifolia,15
+Kentucky,-85.8,38.2,Pyrus calleryana,68
+Kentucky,-85.8,38.2,Tilia cordata,41
+Kentucky,-85.8,38.3,Others,3667
+Kentucky,-85.8,38.3,Acer platanoides,8
+Kentucky,-85.8,38.3,Acer rubrum,235
+Kentucky,-85.8,38.3,Fraxinus pennsylvanica,169
+Kentucky,-85.8,38.3,Gleditsia triacanthos,18
+Kentucky,-85.8,38.3,Liquidambar styraciflua,84
+Kentucky,-85.8,38.3,Platanus acerifolia,44
+Kentucky,-85.8,38.3,Prunus,1
+Kentucky,-85.8,38.3,Pyrus calleryana,8
+Kentucky,-85.8,38.3,Tilia cordata,9
+Kentucky,-85.7,38.1,Others,136
+Kentucky,-85.7,38.1,Acer rubrum,43
+Kentucky,-85.7,38.1,Fraxinus pennsylvanica,4
+Kentucky,-85.7,38.1,Liquidambar styraciflua,103
+Kentucky,-85.7,38.1,Platanus acerifolia,6
+Kentucky,-85.7,38.2,Others,8855
+Kentucky,-85.7,38.2,Acer platanoides,6
+Kentucky,-85.7,38.2,Acer rubrum,306
+Kentucky,-85.7,38.2,Fraxinus pennsylvanica,386
+Kentucky,-85.7,38.2,Gleditsia triacanthos,57
+Kentucky,-85.7,38.2,Liquidambar styraciflua,124
+Kentucky,-85.7,38.2,Platanus acerifolia,33
+Kentucky,-85.7,38.2,Prunus,3
+Kentucky,-85.7,38.2,Pyrus calleryana,59
+Kentucky,-85.7,38.2,Tilia cordata,64
+Kentucky,-85.7,38.3,Others,2594
+Kentucky,-85.7,38.3,Acer platanoides,4
+Kentucky,-85.7,38.3,Acer rubrum,103
+Kentucky,-85.7,38.3,Fraxinus pennsylvanica,158
+Kentucky,-85.7,38.3,Gleditsia triacanthos,15
+Kentucky,-85.7,38.3,Liquidambar styraciflua,52
+Kentucky,-85.7,38.3,Platanus acerifolia,2
+Kentucky,-85.7,38.3,Prunus,1
+Kentucky,-85.7,38.3,Pyrus calleryana,32
+Kentucky,-85.7,38.3,Tilia cordata,8
+Kentucky,-85.6,38.1,Acer rubrum,39
+Kentucky,-85.6,38.1,Others,638
+Kentucky,-85.6,38.1,Fraxinus pennsylvanica,80
+Kentucky,-85.6,38.1,Gleditsia triacanthos,2
+Kentucky,-85.6,38.1,Liquidambar styraciflua,19
+Kentucky,-85.6,38.1,Platanus acerifolia,2
+Kentucky,-85.6,38.1,Pyrus calleryana,13
+Kentucky,-85.6,38.2,Others,1598
+Kentucky,-85.6,38.2,Acer platanoides,3
+Kentucky,-85.6,38.2,Acer rubrum,85
+Kentucky,-85.6,38.2,Fraxinus pennsylvanica,79
+Kentucky,-85.6,38.2,Gleditsia triacanthos,6
+Kentucky,-85.6,38.2,Liquidambar styraciflua,34
+Kentucky,-85.6,38.2,Platanus acerifolia,12
+Kentucky,-85.6,38.2,Pyrus calleryana,85
+Kentucky,-85.6,38.3,Others,344
+Kentucky,-85.6,38.3,Acer rubrum,5
+Kentucky,-85.6,38.3,Fraxinus pennsylvanica,44
+Kentucky,-85.6,38.3,Gleditsia triacanthos,6
+Kentucky,-85.6,38.3,Liquidambar styraciflua,2
+Kentucky,-85.6,38.3,Platanus acerifolia,4
+Kentucky,-85.6,38.3,Pyrus calleryana,1
+Kentucky,-85.6,38.4,Acer rubrum,6
+Kentucky,-85.6,38.4,Others,126
+Kentucky,-85.6,38.4,Fraxinus pennsylvanica,15
+Kentucky,-85.6,38.4,Liquidambar styraciflua,9
+Kentucky,-85.6,38.4,Pyrus calleryana,4
+Kentucky,-85.5,38.2,Others,47
+Kentucky,-85.5,38.3,Acer rubrum,21
+Kentucky,-85.5,38.3,Others,105
+Kentucky,-85.5,38.3,Fraxinus pennsylvanica,6
+Kentucky,-85.5,38.3,Liquidambar styraciflua,4
+Kentucky,-85.5,38.3,Pyrus calleryana,2
+Kentucky,-85.4,38.3,Others,764
+Kentucky,-85.4,38.3,Acer rubrum,26
+Kentucky,-85.4,38.3,Fraxinus pennsylvanica,67
+Kentucky,-85.4,38.3,Gleditsia triacanthos,30
+Kentucky,-85.4,38.3,Liquidambar styraciflua,3
+Kentucky,-85.4,38.3,Prunus,5
+Kentucky,-85.4,38.3,Pyrus calleryana,90
+Maryland,-76.7,39.3,Others,13159
+Maryland,-76.7,39.3,Acer platanoides,819
+Maryland,-76.7,39.3,Acer rubrum,1953
+Maryland,-76.7,39.3,Fraxinus pennsylvanica,280
+Maryland,-76.7,39.3,Gleditsia triacanthos,266
+Maryland,-76.7,39.3,Lagerstroemia indica,162
+Maryland,-76.7,39.3,Liquidambar styraciflua,387
+Maryland,-76.7,39.3,Platanus acerifolia,1138
+Maryland,-76.7,39.3,Prunus,766
+Maryland,-76.7,39.3,Pyrus calleryana,561
+Maryland,-76.7,39.3,Tilia cordata,727
+Maryland,-76.7,39.4,Others,3880
+Maryland,-76.7,39.4,Acer platanoides,221
+Maryland,-76.7,39.4,Acer rubrum,403
+Maryland,-76.7,39.4,Fraxinus pennsylvanica,97
+Maryland,-76.7,39.4,Gleditsia triacanthos,53
+Maryland,-76.7,39.4,Lagerstroemia indica,72
+Maryland,-76.7,39.4,Liquidambar styraciflua,52
+Maryland,-76.7,39.4,Platanus acerifolia,347
+Maryland,-76.7,39.4,Prunus,274
+Maryland,-76.7,39.4,Pyrus calleryana,63
+Maryland,-76.7,39.4,Tilia cordata,165
+Maryland,-76.6,39.2,Others,2787
+Maryland,-76.6,39.2,Acer platanoides,112
+Maryland,-76.6,39.2,Acer rubrum,172
+Maryland,-76.6,39.2,Fraxinus pennsylvanica,27
+Maryland,-76.6,39.2,Gleditsia triacanthos,98
+Maryland,-76.6,39.2,Lagerstroemia indica,36
+Maryland,-76.6,39.2,Liquidambar styraciflua,94
+Maryland,-76.6,39.2,Platanus acerifolia,172
+Maryland,-76.6,39.2,Prunus,176
+Maryland,-76.6,39.2,Pyrus calleryana,96
+Maryland,-76.6,39.2,Tilia cordata,49
+Maryland,-76.6,39.3,Others,43114
+Maryland,-76.6,39.3,Acer platanoides,1992
+Maryland,-76.6,39.3,Acer rubrum,8466
+Maryland,-76.6,39.3,Fraxinus pennsylvanica,509
+Maryland,-76.6,39.3,Gleditsia triacanthos,2617
+Maryland,-76.6,39.3,Lagerstroemia indica,1137
+Maryland,-76.6,39.3,Liquidambar styraciflua,1638
+Maryland,-76.6,39.3,Platanus acerifolia,3480
+Maryland,-76.6,39.3,Prunus,4036
+Maryland,-76.6,39.3,Pyrus calleryana,3607
+Maryland,-76.6,39.3,Tilia cordata,4219
+Maryland,-76.6,39.4,Others,7098
+Maryland,-76.6,39.4,Acer platanoides,418
+Maryland,-76.6,39.4,Acer rubrum,1420
+Maryland,-76.6,39.4,Fraxinus pennsylvanica,91
+Maryland,-76.6,39.4,Gleditsia triacanthos,87
+Maryland,-76.6,39.4,Lagerstroemia indica,101
+Maryland,-76.6,39.4,Liquidambar styraciflua,139
+Maryland,-76.6,39.4,Platanus acerifolia,660
+Maryland,-76.6,39.4,Prunus,401
+Maryland,-76.6,39.4,Pyrus calleryana,222
+Maryland,-76.6,39.4,Tilia cordata,591
+Maryland,-76.5,39.2,Others,73
+Maryland,-76.5,39.2,Gleditsia triacanthos,16
+Maryland,-76.5,39.2,Liquidambar styraciflua,1
+Maryland,-76.5,39.2,Prunus,3
+Maryland,-76.5,39.2,Pyrus calleryana,5
+Maryland,-76.5,39.3,Others,2871
+Maryland,-76.5,39.3,Acer platanoides,96
+Maryland,-76.5,39.3,Acer rubrum,348
+Maryland,-76.5,39.3,Fraxinus pennsylvanica,85
+Maryland,-76.5,39.3,Gleditsia triacanthos,148
+Maryland,-76.5,39.3,Lagerstroemia indica,59
+Maryland,-76.5,39.3,Liquidambar styraciflua,153
+Maryland,-76.5,39.3,Platanus acerifolia,164
+Maryland,-76.5,39.3,Prunus,120
+Maryland,-76.5,39.3,Pyrus calleryana,130
+Maryland,-76.5,39.3,Tilia cordata,151
+Maryland,-76.5,39.4,Others,622
+Maryland,-76.5,39.4,Acer platanoides,59
+Maryland,-76.5,39.4,Acer rubrum,148
+Maryland,-76.5,39.4,Fraxinus pennsylvanica,22
+Maryland,-76.5,39.4,Gleditsia triacanthos,10
+Maryland,-76.5,39.4,Lagerstroemia indica,17
+Maryland,-76.5,39.4,Liquidambar styraciflua,41
+Maryland,-76.5,39.4,Platanus acerifolia,96
+Maryland,-76.5,39.4,Prunus,41
+Maryland,-76.5,39.4,Pyrus calleryana,63
+Maryland,-76.5,39.4,Tilia cordata,30
+Michigan,-83.3,42.3,Others,445
+Michigan,-83.3,42.3,Acer platanoides,2
+Michigan,-83.3,42.3,Acer rubrum,42
+Michigan,-83.3,42.3,Gleditsia triacanthos,16
+Michigan,-83.3,42.3,Platanus acerifolia,39
+Michigan,-83.3,42.3,Tilia cordata,6
+Michigan,-83.3,42.4,Others,1110
+Michigan,-83.3,42.4,Acer rubrum,139
+Michigan,-83.3,42.4,Liquidambar styraciflua,2
+Michigan,-83.3,42.4,Platanus acerifolia,93
+Michigan,-83.3,42.4,Prunus,2
+Michigan,-83.3,42.4,Pyrus calleryana,4
+Michigan,-83.3,42.4,Tilia cordata,91
+Michigan,-83.2,42.3,Others,1021
+Michigan,-83.2,42.3,Acer rubrum,51
+Michigan,-83.2,42.3,Liquidambar styraciflua,9
+Michigan,-83.2,42.3,Platanus acerifolia,8
+Michigan,-83.2,42.3,Pyrus calleryana,1
+Michigan,-83.2,42.3,Tilia cordata,28
+Michigan,-83.2,42.4,Others,5469
+Michigan,-83.2,42.4,Acer rubrum,446
+Michigan,-83.2,42.4,Gleditsia triacanthos,5
+Michigan,-83.2,42.4,Liquidambar styraciflua,86
+Michigan,-83.2,42.4,Platanus acerifolia,391
+Michigan,-83.2,42.4,Pyrus calleryana,32
+Michigan,-83.2,42.4,Tilia cordata,204
+Michigan,-83.1,42.3,Others,3211
+Michigan,-83.1,42.3,Acer platanoides,2
+Michigan,-83.1,42.3,Acer rubrum,61
+Michigan,-83.1,42.3,Liquidambar styraciflua,12
+Michigan,-83.1,42.3,Platanus acerifolia,36
+Michigan,-83.1,42.3,Pyrus calleryana,16
+Michigan,-83.1,42.3,Tilia cordata,56
+Michigan,-83.1,42.4,Others,3381
+Michigan,-83.1,42.4,Acer platanoides,1
+Michigan,-83.1,42.4,Acer rubrum,210
+Michigan,-83.1,42.4,Gleditsia triacanthos,6
+Michigan,-83.1,42.4,Liquidambar styraciflua,38
+Michigan,-83.1,42.4,Platanus acerifolia,190
+Michigan,-83.1,42.4,Prunus,1
+Michigan,-83.1,42.4,Pyrus calleryana,70
+Michigan,-83.1,42.4,Tilia cordata,113
+Michigan,-83.0,42.3,Others,324
+Michigan,-83.0,42.3,Acer rubrum,43
+Michigan,-83.0,42.3,Gleditsia triacanthos,20
+Michigan,-83.0,42.3,Liquidambar styraciflua,3
+Michigan,-83.0,42.3,Platanus acerifolia,21
+Michigan,-83.0,42.3,Prunus,7
+Michigan,-83.0,42.3,Pyrus calleryana,20
+Michigan,-83.0,42.3,Tilia cordata,4
+Michigan,-83.0,42.4,Others,1446
+Michigan,-83.0,42.4,Acer rubrum,101
+Michigan,-83.0,42.4,Fraxinus pennsylvanica,1
+Michigan,-83.0,42.4,Liquidambar styraciflua,30
+Michigan,-83.0,42.4,Platanus acerifolia,137
+Michigan,-83.0,42.4,Prunus,1
+Michigan,-83.0,42.4,Pyrus calleryana,23
+Michigan,-83.0,42.4,Tilia cordata,38
+Michigan,-82.9,42.4,Others,798
+Michigan,-82.9,42.4,Acer platanoides,2
+Michigan,-82.9,42.4,Acer rubrum,90
+Michigan,-82.9,42.4,Platanus acerifolia,65
+Michigan,-82.9,42.4,Pyrus calleryana,24
+Michigan,-82.9,42.4,Tilia cordata,31
+Minnesota,-93.5,45.0,Others,447
+Minnesota,-93.5,45.0,Acer platanoides,99
+Minnesota,-93.5,45.0,Acer rubrum,8
+Minnesota,-93.5,45.0,Fraxinus pennsylvanica,214
+Minnesota,-93.5,45.0,Gleditsia triacanthos,39
+Minnesota,-93.5,45.0,Tilia cordata,28
+Minnesota,-93.4,44.9,Others,781
+Minnesota,-93.4,44.9,Acer platanoides,28
+Minnesota,-93.4,44.9,Acer rubrum,23
+Minnesota,-93.4,44.9,Fraxinus pennsylvanica,281
+Minnesota,-93.4,44.9,Gleditsia triacanthos,102
+Minnesota,-93.4,44.9,Prunus,15
+Minnesota,-93.4,44.9,Tilia cordata,3
+Minnesota,-93.4,45.0,Others,548
+Minnesota,-93.4,45.0,Acer platanoides,268
+Minnesota,-93.4,45.0,Acer rubrum,13
+Minnesota,-93.4,45.0,Fraxinus pennsylvanica,124
+Minnesota,-93.4,45.0,Gleditsia triacanthos,35
+Minnesota,-93.4,45.0,Tilia cordata,48
+Minnesota,-93.4,45.1,Others,292
+Minnesota,-93.4,45.1,Acer platanoides,40
+Minnesota,-93.4,45.1,Acer rubrum,2
+Minnesota,-93.4,45.1,Fraxinus pennsylvanica,147
+Minnesota,-93.4,45.1,Gleditsia triacanthos,56
+Minnesota,-93.4,45.1,Tilia cordata,42
+Minnesota,-93.3,44.8,Others,632
+Minnesota,-93.3,44.8,Acer platanoides,11
+Minnesota,-93.3,44.8,Fraxinus pennsylvanica,79
+Minnesota,-93.3,44.8,Gleditsia triacanthos,11
+Minnesota,-93.3,44.9,Others,28364
+Minnesota,-93.3,44.9,Acer platanoides,5326
+Minnesota,-93.3,44.9,Acer rubrum,1411
+Minnesota,-93.3,44.9,Fraxinus pennsylvanica,7818
+Minnesota,-93.3,44.9,Gleditsia triacanthos,2618
+Minnesota,-93.3,44.9,Platanus acerifolia,5
+Minnesota,-93.3,44.9,Prunus,9
+Minnesota,-93.3,44.9,Tilia cordata,4134
+Minnesota,-93.3,45.0,Others,34266
+Minnesota,-93.3,45.0,Acer platanoides,7885
+Minnesota,-93.3,45.0,Acer rubrum,1624
+Minnesota,-93.3,45.0,Fraxinus pennsylvanica,10270
+Minnesota,-93.3,45.0,Gleditsia triacanthos,5317
+Minnesota,-93.3,45.0,Prunus,35
+Minnesota,-93.3,45.0,Tilia cordata,3472
+Minnesota,-93.3,45.1,Others,428
+Minnesota,-93.3,45.1,Acer platanoides,60
+Minnesota,-93.3,45.1,Acer rubrum,7
+Minnesota,-93.3,45.1,Fraxinus pennsylvanica,167
+Minnesota,-93.3,45.1,Gleditsia triacanthos,77
+Minnesota,-93.3,45.1,Tilia cordata,74
+Minnesota,-93.3,45.2,Others,4
+Minnesota,-93.3,45.2,Gleditsia triacanthos,5
+Minnesota,-93.2,44.9,Others,17101
+Minnesota,-93.2,44.9,Acer platanoides,3647
+Minnesota,-93.2,44.9,Acer rubrum,539
+Minnesota,-93.2,44.9,Fraxinus pennsylvanica,4031
+Minnesota,-93.2,44.9,Gleditsia triacanthos,2374
+Minnesota,-93.2,44.9,Prunus,7
+Minnesota,-93.2,44.9,Tilia cordata,2287
+Minnesota,-93.2,45.0,Others,8488
+Minnesota,-93.2,45.0,Acer platanoides,1778
+Minnesota,-93.2,45.0,Acer rubrum,428
+Minnesota,-93.2,45.0,Fraxinus pennsylvanica,2879
+Minnesota,-93.2,45.0,Gleditsia triacanthos,1049
+Minnesota,-93.2,45.0,Prunus,4
+Minnesota,-93.2,45.0,Tilia cordata,1069
+Minnesota,-93.2,45.1,Others,81
+Minnesota,-93.2,45.1,Acer platanoides,3
+Minnesota,-93.2,45.1,Acer rubrum,1
+Minnesota,-93.2,45.1,Fraxinus pennsylvanica,23
+Minnesota,-93.2,45.1,Gleditsia triacanthos,6
+Minnesota,-93.2,45.1,Tilia cordata,19
+Missouri,-93.3,35.8,Others,25
+Missouri,-93.3,35.8,Pyrus calleryana,1
+Missouri,-91.4,38.6,Others,1102
+Missouri,-91.4,38.6,Acer platanoides,17
+Missouri,-91.4,38.6,Acer rubrum,143
+Missouri,-91.4,38.6,Fraxinus pennsylvanica,119
+Missouri,-91.4,38.6,Gleditsia triacanthos,38
+Missouri,-91.4,38.6,Liquidambar styraciflua,39
+Missouri,-91.4,38.6,Platanus acerifolia,49
+Missouri,-91.4,38.6,Prunus,39
+Missouri,-91.4,38.6,Pyrus calleryana,249
+Missouri,-91.4,38.6,Tilia cordata,61
+Missouri,-90.3,38.5,Others,359
+Missouri,-90.3,38.5,Acer platanoides,5
+Missouri,-90.3,38.5,Acer rubrum,36
+Missouri,-90.3,38.5,Fraxinus pennsylvanica,102
+Missouri,-90.3,38.5,Gleditsia triacanthos,14
+Missouri,-90.3,38.5,Liquidambar styraciflua,3
+Missouri,-90.3,38.5,Prunus,6
+Missouri,-90.3,38.5,Pyrus calleryana,61
+Missouri,-90.3,38.5,Tilia cordata,26
+Missouri,-90.3,38.6,Others,19781
+Missouri,-90.3,38.6,Acer platanoides,551
+Missouri,-90.3,38.6,Acer rubrum,4249
+Missouri,-90.3,38.6,Fraxinus pennsylvanica,2099
+Missouri,-90.3,38.6,Gleditsia triacanthos,639
+Missouri,-90.3,38.6,Lagerstroemia indica,9
+Missouri,-90.3,38.6,Liquidambar styraciflua,1111
+Missouri,-90.3,38.6,Platanus acerifolia,1349
+Missouri,-90.3,38.6,Prunus,636
+Missouri,-90.3,38.6,Pyrus calleryana,2352
+Missouri,-90.3,38.6,Tilia cordata,1704
+Missouri,-90.3,38.7,Others,4135
+Missouri,-90.3,38.7,Acer platanoides,98
+Missouri,-90.3,38.7,Acer rubrum,524
+Missouri,-90.3,38.7,Fraxinus pennsylvanica,1232
+Missouri,-90.3,38.7,Gleditsia triacanthos,280
+Missouri,-90.3,38.7,Liquidambar styraciflua,179
+Missouri,-90.3,38.7,Platanus acerifolia,288
+Missouri,-90.3,38.7,Prunus,212
+Missouri,-90.3,38.7,Pyrus calleryana,689
+Missouri,-90.3,38.7,Tilia cordata,153
+Missouri,-90.2,38.6,Others,15508
+Missouri,-90.2,38.6,Acer platanoides,345
+Missouri,-90.2,38.6,Acer rubrum,2842
+Missouri,-90.2,38.6,Fraxinus pennsylvanica,2933
+Missouri,-90.2,38.6,Gleditsia triacanthos,1684
+Missouri,-90.2,38.6,Lagerstroemia indica,10
+Missouri,-90.2,38.6,Liquidambar styraciflua,538
+Missouri,-90.2,38.6,Platanus acerifolia,428
+Missouri,-90.2,38.6,Prunus,737
+Missouri,-90.2,38.6,Pyrus calleryana,3147
+Missouri,-90.2,38.6,Tilia cordata,1444
+Missouri,-90.2,38.7,Others,4715
+Missouri,-90.2,38.7,Acer platanoides,111
+Missouri,-90.2,38.7,Acer rubrum,781
+Missouri,-90.2,38.7,Fraxinus pennsylvanica,1276
+Missouri,-90.2,38.7,Gleditsia triacanthos,358
+Missouri,-90.2,38.7,Lagerstroemia indica,3
+Missouri,-90.2,38.7,Liquidambar styraciflua,270
+Missouri,-90.2,38.7,Platanus acerifolia,244
+Missouri,-90.2,38.7,Prunus,379
+Missouri,-90.2,38.7,Pyrus calleryana,708
+Missouri,-90.2,38.7,Tilia cordata,294
+Missouri,-90.2,38.8,Others,11
+Missouri,-90.2,38.8,Pyrus calleryana,3
+Nevada,-115.4,36.2,Others,62
+Nevada,-115.4,36.2,Gleditsia triacanthos,2
+Nevada,-115.3,36.1,Others,418
+Nevada,-115.3,36.2,Others,11658
+Nevada,-115.3,36.2,Gleditsia triacanthos,148
+Nevada,-115.3,36.2,Lagerstroemia indica,26
+Nevada,-115.3,36.3,Others,5503
+Nevada,-115.3,36.3,Gleditsia triacanthos,15
+Nevada,-115.3,36.3,Lagerstroemia indica,27
+Nevada,-115.3,36.3,Pyrus calleryana,3
+Nevada,-115.2,36.1,Others,1427
+Nevada,-115.2,36.2,Others,6278
+Nevada,-115.2,36.2,Gleditsia triacanthos,49
+Nevada,-115.2,36.2,Lagerstroemia indica,12
+Nevada,-115.2,36.2,Platanus acerifolia,5
+Nevada,-115.2,36.2,Pyrus calleryana,13
+Nevada,-115.2,36.3,Others,647
+Nevada,-115.2,36.3,Gleditsia triacanthos,1
+Nevada,-115.2,36.3,Pyrus calleryana,4
+Nevada,-115.1,36.1,Others,582
+Nevada,-115.1,36.1,Gleditsia triacanthos,77
+Nevada,-115.1,36.2,Others,4965
+Nevada,-115.1,36.2,Gleditsia triacanthos,54
+Nevada,-115.1,36.2,Lagerstroemia indica,12
+Nevada,-115.1,36.2,Pyrus calleryana,18
+New Mexico,-106.8,35.0,Others,5
+New Mexico,-106.7,35.0,Others,242
+New Mexico,-106.7,35.0,Fraxinus pennsylvanica,1
+New Mexico,-106.7,35.0,Gleditsia triacanthos,5
+New Mexico,-106.7,35.0,Platanus acerifolia,66
+New Mexico,-106.7,35.0,Tilia cordata,5
+New Mexico,-106.7,35.1,Others,659
+New Mexico,-106.7,35.1,Fraxinus pennsylvanica,6
+New Mexico,-106.7,35.1,Gleditsia triacanthos,66
+New Mexico,-106.7,35.1,Platanus acerifolia,22
+New Mexico,-106.7,35.1,Prunus,2
+New Mexico,-106.7,35.1,Pyrus calleryana,7
+New Mexico,-106.7,35.1,Tilia cordata,7
+New Mexico,-106.7,35.2,Others,92
+New Mexico,-106.7,35.2,Fraxinus pennsylvanica,1
+New Mexico,-106.7,35.2,Gleditsia triacanthos,11
+New Mexico,-106.7,35.2,Platanus acerifolia,22
+New Mexico,-106.7,35.2,Pyrus calleryana,1
+New Mexico,-106.6,35.1,Others,785
+New Mexico,-106.6,35.1,Acer platanoides,1
+New Mexico,-106.6,35.1,Fraxinus pennsylvanica,10
+New Mexico,-106.6,35.1,Gleditsia triacanthos,58
+New Mexico,-106.6,35.1,Platanus acerifolia,58
+New Mexico,-106.6,35.1,Prunus,5
+New Mexico,-106.6,35.1,Pyrus calleryana,3
+New Mexico,-106.6,35.1,Tilia cordata,10
+New Mexico,-106.6,35.2,Others,85
+New Mexico,-106.6,35.2,Fraxinus pennsylvanica,2
+New Mexico,-106.6,35.2,Gleditsia triacanthos,10
+New Mexico,-106.6,35.2,Platanus acerifolia,10
+New Mexico,-106.6,35.2,Prunus,10
+New Mexico,-106.5,35.1,Others,159
+New Mexico,-106.5,35.1,Gleditsia triacanthos,5
+New Mexico,-106.5,35.1,Platanus acerifolia,5
+New Mexico,-106.5,35.1,Prunus,3
+New Mexico,-106.5,35.1,Pyrus calleryana,2
+New Mexico,-106.5,35.1,Tilia cordata,6
+New Mexico,-106.5,35.2,Others,31
+New Mexico,-106.5,35.2,Gleditsia triacanthos,4
+New Mexico,-106.5,35.2,Platanus acerifolia,3
+New York,-78.9,42.8,Acer rubrum,8
+New York,-78.9,42.8,Others,56
+New York,-78.9,42.8,Gleditsia triacanthos,4
+New York,-78.9,42.9,Others,20602
+New York,-78.9,42.9,Acer platanoides,6120
+New York,-78.9,42.9,Acer rubrum,1152
+New York,-78.9,42.9,Fraxinus pennsylvanica,359
+New York,-78.9,42.9,Gleditsia triacanthos,2506
+New York,-78.9,42.9,Liquidambar styraciflua,57
+New York,-78.9,42.9,Platanus acerifolia,763
+New York,-78.9,42.9,Prunus,245
+New York,-78.9,42.9,Pyrus calleryana,700
+New York,-78.9,42.9,Tilia cordata,4630
+New York,-78.9,43.0,Others,2201
+New York,-78.9,43.0,Acer platanoides,809
+New York,-78.9,43.0,Acer rubrum,341
+New York,-78.9,43.0,Fraxinus pennsylvanica,78
+New York,-78.9,43.0,Gleditsia triacanthos,246
+New York,-78.9,43.0,Liquidambar styraciflua,4
+New York,-78.9,43.0,Platanus acerifolia,21
+New York,-78.9,43.0,Prunus,34
+New York,-78.9,43.0,Pyrus calleryana,56
+New York,-78.9,43.0,Tilia cordata,424
+New York,-78.8,42.8,Others,4525
+New York,-78.8,42.8,Acer platanoides,844
+New York,-78.8,42.8,Acer rubrum,315
+New York,-78.8,42.8,Fraxinus pennsylvanica,104
+New York,-78.8,42.8,Gleditsia triacanthos,312
+New York,-78.8,42.8,Liquidambar styraciflua,51
+New York,-78.8,42.8,Platanus acerifolia,156
+New York,-78.8,42.8,Prunus,33
+New York,-78.8,42.8,Pyrus calleryana,45
+New York,-78.8,42.8,Tilia cordata,599
+New York,-78.8,42.9,Others,13297
+New York,-78.8,42.9,Acer platanoides,5021
+New York,-78.8,42.9,Acer rubrum,655
+New York,-78.8,42.9,Fraxinus pennsylvanica,169
+New York,-78.8,42.9,Gleditsia triacanthos,1284
+New York,-78.8,42.9,Liquidambar styraciflua,84
+New York,-78.8,42.9,Platanus acerifolia,901
+New York,-78.8,42.9,Prunus,195
+New York,-78.8,42.9,Pyrus calleryana,583
+New York,-78.8,42.9,Tilia cordata,3274
+New York,-78.8,43.0,Others,1775
+New York,-78.8,43.0,Acer platanoides,471
+New York,-78.8,43.0,Acer rubrum,130
+New York,-78.8,43.0,Fraxinus pennsylvanica,8
+New York,-78.8,43.0,Gleditsia triacanthos,133
+New York,-78.8,43.0,Liquidambar styraciflua,18
+New York,-78.8,43.0,Platanus acerifolia,56
+New York,-78.8,43.0,Prunus,42
+New York,-78.8,43.0,Pyrus calleryana,59
+New York,-78.8,43.0,Tilia cordata,229
+New York,-77.9,42.9,Acer rubrum,2
+New York,-77.9,42.9,Others,4
+New York,-77.7,43.1,Others,2298
+New York,-77.7,43.1,Acer platanoides,532
+New York,-77.7,43.1,Acer rubrum,116
+New York,-77.7,43.1,Fraxinus pennsylvanica,117
+New York,-77.7,43.1,Gleditsia triacanthos,258
+New York,-77.7,43.1,Liquidambar styraciflua,28
+New York,-77.7,43.1,Platanus acerifolia,157
+New York,-77.7,43.1,Pyrus calleryana,29
+New York,-77.7,43.1,Tilia cordata,173
+New York,-77.7,43.2,Others,1001
+New York,-77.7,43.2,Acer platanoides,535
+New York,-77.7,43.2,Acer rubrum,52
+New York,-77.7,43.2,Fraxinus pennsylvanica,90
+New York,-77.7,43.2,Gleditsia triacanthos,224
+New York,-77.7,43.2,Liquidambar styraciflua,27
+New York,-77.7,43.2,Platanus acerifolia,37
+New York,-77.7,43.2,Prunus,1
+New York,-77.7,43.2,Pyrus calleryana,44
+New York,-77.7,43.2,Tilia cordata,51
+New York,-77.7,43.3,Others,258
+New York,-77.7,43.3,Acer platanoides,26
+New York,-77.7,43.3,Acer rubrum,3
+New York,-77.7,43.3,Fraxinus pennsylvanica,31
+New York,-77.7,43.3,Gleditsia triacanthos,10
+New York,-77.7,43.3,Liquidambar styraciflua,5
+New York,-77.7,43.3,Platanus acerifolia,29
+New York,-77.7,43.3,Pyrus calleryana,6
+New York,-77.7,43.3,Tilia cordata,19
+New York,-77.6,42.5,Others,14
+New York,-77.6,42.5,Gleditsia triacanthos,2
+New York,-77.6,43.1,Others,7001
+New York,-77.6,43.1,Acer platanoides,3184
+New York,-77.6,43.1,Acer rubrum,466
+New York,-77.6,43.1,Fraxinus pennsylvanica,745
+New York,-77.6,43.1,Gleditsia triacanthos,1740
+New York,-77.6,43.1,Liquidambar styraciflua,194
+New York,-77.6,43.1,Platanus acerifolia,933
+New York,-77.6,43.1,Prunus,7
+New York,-77.6,43.1,Pyrus calleryana,82
+New York,-77.6,43.1,Tilia cordata,1209
+New York,-77.6,43.2,Others,13620
+New York,-77.6,43.2,Acer platanoides,5725
+New York,-77.6,43.2,Acer rubrum,1090
+New York,-77.6,43.2,Fraxinus pennsylvanica,1355
+New York,-77.6,43.2,Gleditsia triacanthos,3679
+New York,-77.6,43.2,Liquidambar styraciflua,410
+New York,-77.6,43.2,Platanus acerifolia,1539
+New York,-77.6,43.2,Prunus,18
+New York,-77.6,43.2,Pyrus calleryana,498
+New York,-77.6,43.2,Tilia cordata,1676
+New York,-77.6,43.3,Others,269
+New York,-77.6,43.3,Acer platanoides,77
+New York,-77.6,43.3,Acer rubrum,26
+New York,-77.6,43.3,Fraxinus pennsylvanica,39
+New York,-77.6,43.3,Gleditsia triacanthos,24
+New York,-77.6,43.3,Platanus acerifolia,48
+New York,-77.6,43.3,Pyrus calleryana,5
+New York,-77.6,43.3,Tilia cordata,15
+New York,-77.5,43.1,Others,1093
+New York,-77.5,43.1,Acer platanoides,176
+New York,-77.5,43.1,Acer rubrum,55
+New York,-77.5,43.1,Fraxinus pennsylvanica,26
+New York,-77.5,43.1,Gleditsia triacanthos,25
+New York,-77.5,43.1,Platanus acerifolia,26
+New York,-77.5,43.1,Prunus,1
+New York,-77.5,43.1,Pyrus calleryana,1
+New York,-77.5,43.1,Tilia cordata,9
+New York,-77.5,43.2,Others,834
+New York,-77.5,43.2,Acer platanoides,257
+New York,-77.5,43.2,Acer rubrum,78
+New York,-77.5,43.2,Fraxinus pennsylvanica,47
+New York,-77.5,43.2,Gleditsia triacanthos,188
+New York,-77.5,43.2,Liquidambar styraciflua,115
+New York,-77.5,43.2,Platanus acerifolia,116
+New York,-77.5,43.2,Pyrus calleryana,10
+New York,-77.5,43.2,Tilia cordata,88
+New York,-77.2,42.7,Acer platanoides,1
+New York,-77.2,42.7,Gleditsia triacanthos,1
+New York,-77.2,42.7,Others,2
+New York,-77.0,42.6,Others,3
+New York,-75.3,42.7,Others,16
+New York,-75.3,42.7,Acer platanoides,19
+New York,-74.3,40.5,Others,202
+New York,-74.3,40.5,Acer platanoides,69
+New York,-74.3,40.5,Acer rubrum,70
+New York,-74.3,40.5,Fraxinus pennsylvanica,51
+New York,-74.3,40.5,Gleditsia triacanthos,9
+New York,-74.3,40.5,Liquidambar styraciflua,45
+New York,-74.3,40.5,Platanus acerifolia,33
+New York,-74.3,40.5,Prunus,34
+New York,-74.3,40.5,Pyrus calleryana,184
+New York,-74.3,40.5,Tilia cordata,11
+New York,-74.3,41.8,Acer rubrum,1
+New York,-74.3,41.8,Others,21
+New York,-74.2,40.5,Others,9514
+New York,-74.2,40.5,Acer platanoides,1927
+New York,-74.2,40.5,Acer rubrum,2531
+New York,-74.2,40.5,Fraxinus pennsylvanica,1062
+New York,-74.2,40.5,Gleditsia triacanthos,1166
+New York,-74.2,40.5,Liquidambar styraciflua,1903
+New York,-74.2,40.5,Platanus acerifolia,1266
+New York,-74.2,40.5,Prunus,1371
+New York,-74.2,40.5,Pyrus calleryana,11483
+New York,-74.2,40.5,Tilia cordata,461
+New York,-74.2,40.6,Others,7533
+New York,-74.2,40.6,Acer platanoides,1104
+New York,-74.2,40.6,Acer rubrum,1649
+New York,-74.2,40.6,Fraxinus pennsylvanica,679
+New York,-74.2,40.6,Gleditsia triacanthos,1192
+New York,-74.2,40.6,Liquidambar styraciflua,1053
+New York,-74.2,40.6,Platanus acerifolia,1337
+New York,-74.2,40.6,Prunus,772
+New York,-74.2,40.6,Pyrus calleryana,3734
+New York,-74.2,40.6,Tilia cordata,231
+New York,-74.1,40.3,Acer platanoides,5
+New York,-74.1,40.3,Others,20
+New York,-74.1,40.3,Gleditsia triacanthos,1
+New York,-74.1,40.3,Tilia cordata,2
+New York,-74.1,40.5,Others,590
+New York,-74.1,40.5,Acer platanoides,121
+New York,-74.1,40.5,Acer rubrum,88
+New York,-74.1,40.5,Fraxinus pennsylvanica,19
+New York,-74.1,40.5,Gleditsia triacanthos,42
+New York,-74.1,40.5,Liquidambar styraciflua,74
+New York,-74.1,40.5,Platanus acerifolia,93
+New York,-74.1,40.5,Prunus,62
+New York,-74.1,40.5,Pyrus calleryana,296
+New York,-74.1,40.5,Tilia cordata,19
+New York,-74.1,40.6,Others,21448
+New York,-74.1,40.6,Acer platanoides,2726
+New York,-74.1,40.6,Acer rubrum,3035
+New York,-74.1,40.6,Fraxinus pennsylvanica,584
+New York,-74.1,40.6,Gleditsia triacanthos,1777
+New York,-74.1,40.6,Liquidambar styraciflua,1935
+New York,-74.1,40.6,Platanus acerifolia,6655
+New York,-74.1,40.6,Prunus,2876
+New York,-74.1,40.6,Pyrus calleryana,5362
+New York,-74.1,40.6,Tilia cordata,965
+New York,-74.0,40.6,Others,24085
+New York,-74.0,40.6,Acer platanoides,3210
+New York,-74.0,40.6,Acer rubrum,847
+New York,-74.0,40.6,Fraxinus pennsylvanica,1142
+New York,-74.0,40.6,Gleditsia triacanthos,4559
+New York,-74.0,40.6,Liquidambar styraciflua,503
+New York,-74.0,40.6,Platanus acerifolia,12528
+New York,-74.0,40.6,Prunus,1567
+New York,-74.0,40.6,Pyrus calleryana,3110
+New York,-74.0,40.6,Tilia cordata,3038
+New York,-74.0,40.7,Others,29923
+New York,-74.0,40.7,Acer platanoides,1683
+New York,-74.0,40.7,Acer rubrum,604
+New York,-74.0,40.7,Fraxinus pennsylvanica,1302
+New York,-74.0,40.7,Gleditsia triacanthos,8531
+New York,-74.0,40.7,Liquidambar styraciflua,603
+New York,-74.0,40.7,Platanus acerifolia,6605
+New York,-74.0,40.7,Prunus,997
+New York,-74.0,40.7,Pyrus calleryana,5049
+New York,-74.0,40.7,Tilia cordata,3378
+New York,-74.0,40.8,Others,13794
+New York,-74.0,40.8,Acer platanoides,117
+New York,-74.0,40.8,Acer rubrum,151
+New York,-74.0,40.8,Fraxinus pennsylvanica,243
+New York,-74.0,40.8,Gleditsia triacanthos,5907
+New York,-74.0,40.8,Liquidambar styraciflua,77
+New York,-74.0,40.8,Platanus acerifolia,1618
+New York,-74.0,40.8,Prunus,406
+New York,-74.0,40.8,Pyrus calleryana,3353
+New York,-74.0,40.8,Tilia cordata,1475
+New York,-73.9,40.6,Others,11244
+New York,-73.9,40.6,Acer platanoides,2570
+New York,-73.9,40.6,Acer rubrum,555
+New York,-73.9,40.6,Fraxinus pennsylvanica,655
+New York,-73.9,40.6,Gleditsia triacanthos,2014
+New York,-73.9,40.6,Liquidambar styraciflua,296
+New York,-73.9,40.6,Platanus acerifolia,10471
+New York,-73.9,40.6,Prunus,1336
+New York,-73.9,40.6,Pyrus calleryana,1302
+New York,-73.9,40.6,Tilia cordata,1106
+New York,-73.9,40.7,Others,42273
+New York,-73.9,40.7,Acer platanoides,4785
+New York,-73.9,40.7,Acer rubrum,1315
+New York,-73.9,40.7,Fraxinus pennsylvanica,3253
+New York,-73.9,40.7,Gleditsia triacanthos,11658
+New York,-73.9,40.7,Liquidambar styraciflua,909
+New York,-73.9,40.7,Platanus acerifolia,12940
+New York,-73.9,40.7,Prunus,3897
+New York,-73.9,40.7,Pyrus calleryana,5495
+New York,-73.9,40.7,Tilia cordata,4896
+New York,-73.9,40.8,Others,36310
+New York,-73.9,40.8,Acer platanoides,2422
+New York,-73.9,40.8,Acer rubrum,1334
+New York,-73.9,40.8,Fraxinus pennsylvanica,1985
+New York,-73.9,40.8,Gleditsia triacanthos,10096
+New York,-73.9,40.8,Liquidambar styraciflua,567
+New York,-73.9,40.8,Platanus acerifolia,6617
+New York,-73.9,40.8,Prunus,2889
+New York,-73.9,40.8,Pyrus calleryana,4864
+New York,-73.9,40.8,Tilia cordata,3880
+New York,-73.9,40.9,Others,17033
+New York,-73.9,40.9,Acer platanoides,1519
+New York,-73.9,40.9,Acer rubrum,775
+New York,-73.9,40.9,Fraxinus pennsylvanica,625
+New York,-73.9,40.9,Gleditsia triacanthos,3451
+New York,-73.9,40.9,Liquidambar styraciflua,326
+New York,-73.9,40.9,Platanus acerifolia,1979
+New York,-73.9,40.9,Prunus,1299
+New York,-73.9,40.9,Pyrus calleryana,1685
+New York,-73.9,40.9,Tilia cordata,1430
+New York,-73.8,40.6,Others,3605
+New York,-73.8,40.6,Acer platanoides,205
+New York,-73.8,40.6,Acer rubrum,67
+New York,-73.8,40.6,Fraxinus pennsylvanica,55
+New York,-73.8,40.6,Gleditsia triacanthos,806
+New York,-73.8,40.6,Liquidambar styraciflua,63
+New York,-73.8,40.6,Platanus acerifolia,839
+New York,-73.8,40.6,Prunus,832
+New York,-73.8,40.6,Pyrus calleryana,848
+New York,-73.8,40.6,Tilia cordata,299
+New York,-73.8,40.7,Others,38487
+New York,-73.8,40.7,Acer platanoides,8243
+New York,-73.8,40.7,Acer rubrum,1533
+New York,-73.8,40.7,Fraxinus pennsylvanica,2068
+New York,-73.8,40.7,Gleditsia triacanthos,6249
+New York,-73.8,40.7,Liquidambar styraciflua,912
+New York,-73.8,40.7,Platanus acerifolia,11916
+New York,-73.8,40.7,Prunus,5085
+New York,-73.8,40.7,Pyrus calleryana,4970
+New York,-73.8,40.7,Tilia cordata,4394
+New York,-73.8,40.8,Others,23592
+New York,-73.8,40.8,Acer platanoides,3799
+New York,-73.8,40.8,Acer rubrum,1433
+New York,-73.8,40.8,Fraxinus pennsylvanica,983
+New York,-73.8,40.8,Gleditsia triacanthos,2621
+New York,-73.8,40.8,Liquidambar styraciflua,829
+New York,-73.8,40.8,Platanus acerifolia,6227
+New York,-73.8,40.8,Prunus,3218
+New York,-73.8,40.8,Pyrus calleryana,3698
+New York,-73.8,40.8,Tilia cordata,2087
+New York,-73.8,40.9,Others,4225
+New York,-73.8,40.9,Acer platanoides,634
+New York,-73.8,40.9,Acer rubrum,215
+New York,-73.8,40.9,Fraxinus pennsylvanica,341
+New York,-73.8,40.9,Gleditsia triacanthos,995
+New York,-73.8,40.9,Liquidambar styraciflua,170
+New York,-73.8,40.9,Platanus acerifolia,1530
+New York,-73.8,40.9,Prunus,565
+New York,-73.8,40.9,Pyrus calleryana,589
+New York,-73.8,40.9,Tilia cordata,461
+New York,-73.7,40.6,Others,906
+New York,-73.7,40.6,Acer platanoides,81
+New York,-73.7,40.6,Acer rubrum,29
+New York,-73.7,40.6,Fraxinus pennsylvanica,33
+New York,-73.7,40.6,Gleditsia triacanthos,537
+New York,-73.7,40.6,Liquidambar styraciflua,6
+New York,-73.7,40.6,Platanus acerifolia,226
+New York,-73.7,40.6,Prunus,195
+New York,-73.7,40.6,Pyrus calleryana,118
+New York,-73.7,40.6,Tilia cordata,69
+New York,-73.7,40.7,Others,12664
+New York,-73.7,40.7,Acer platanoides,4429
+New York,-73.7,40.7,Acer rubrum,903
+New York,-73.7,40.7,Fraxinus pennsylvanica,1095
+New York,-73.7,40.7,Gleditsia triacanthos,2504
+New York,-73.7,40.7,Liquidambar styraciflua,295
+New York,-73.7,40.7,Platanus acerifolia,3319
+New York,-73.7,40.7,Prunus,1426
+New York,-73.7,40.7,Pyrus calleryana,2277
+New York,-73.7,40.7,Tilia cordata,1479
+New York,-73.7,40.8,Others,3553
+New York,-73.7,40.8,Acer platanoides,916
+New York,-73.7,40.8,Acer rubrum,218
+New York,-73.7,40.8,Fraxinus pennsylvanica,120
+New York,-73.7,40.8,Gleditsia triacanthos,303
+New York,-73.7,40.8,Liquidambar styraciflua,98
+New York,-73.7,40.8,Platanus acerifolia,899
+New York,-73.7,40.8,Prunus,452
+New York,-73.7,40.8,Pyrus calleryana,522
+New York,-73.7,40.8,Tilia cordata,150
+New York,-73.5,42.2,Fraxinus pennsylvanica,1
+New York,-73.5,42.2,Others,1
+North Carolina,-79.8,36.1,Others,880
+North Carolina,-79.8,36.1,Acer platanoides,2
+North Carolina,-79.8,36.1,Acer rubrum,28
+North Carolina,-79.8,36.1,Fraxinus pennsylvanica,5
+North Carolina,-79.8,36.1,Gleditsia triacanthos,2
+North Carolina,-79.8,36.1,Lagerstroemia indica,30
+North Carolina,-79.8,36.1,Liquidambar styraciflua,16
+North Carolina,-79.8,36.1,Platanus acerifolia,3
+North Carolina,-79.8,36.1,Prunus,1
+North Carolina,-79.8,36.1,Pyrus calleryana,5
+North Carolina,-79.8,36.1,Tilia cordata,1
+North Carolina,-79.5,36.0,Others,4503
+North Carolina,-79.5,36.0,Acer rubrum,163
+North Carolina,-79.5,36.0,Gleditsia triacanthos,11
+North Carolina,-79.5,36.0,Liquidambar styraciflua,85
+North Carolina,-79.5,36.0,Prunus,107
+North Carolina,-79.5,36.0,Pyrus calleryana,78
+North Carolina,-79.5,36.1,Others,599
+North Carolina,-79.5,36.1,Acer rubrum,30
+North Carolina,-79.5,36.1,Gleditsia triacanthos,1
+North Carolina,-79.5,36.1,Liquidambar styraciflua,8
+North Carolina,-79.5,36.1,Prunus,10
+North Carolina,-79.5,36.1,Pyrus calleryana,4
+North Carolina,-79.0,35.9,Others,153
+North Carolina,-79.0,35.9,Acer rubrum,5
+North Carolina,-79.0,35.9,Prunus,3
+North Carolina,-79.0,35.9,Pyrus calleryana,10
+North Carolina,-79.0,36.0,Acer rubrum,22
+North Carolina,-79.0,36.0,Others,143
+North Carolina,-79.0,36.0,Fraxinus pennsylvanica,1
+North Carolina,-79.0,36.0,Prunus,1
+North Carolina,-79.0,36.0,Pyrus calleryana,18
+North Carolina,-79.0,36.1,Pyrus calleryana,14
+North Carolina,-78.9,35.9,Others,448
+North Carolina,-78.9,35.9,Acer rubrum,12
+North Carolina,-78.9,35.9,Liquidambar styraciflua,14
+North Carolina,-78.9,35.9,Prunus,2
+North Carolina,-78.9,35.9,Pyrus calleryana,21
+North Carolina,-78.9,36.0,Others,13670
+North Carolina,-78.9,36.0,Acer platanoides,1
+North Carolina,-78.9,36.0,Acer rubrum,676
+North Carolina,-78.9,36.0,Fraxinus pennsylvanica,63
+North Carolina,-78.9,36.0,Liquidambar styraciflua,148
+North Carolina,-78.9,36.0,Platanus acerifolia,29
+North Carolina,-78.9,36.0,Prunus,202
+North Carolina,-78.9,36.0,Pyrus calleryana,173
+North Carolina,-78.9,36.0,Tilia cordata,52
+North Carolina,-78.9,36.1,Others,100
+North Carolina,-78.9,36.1,Acer platanoides,1
+North Carolina,-78.9,36.1,Acer rubrum,3
+North Carolina,-78.9,36.1,Fraxinus pennsylvanica,2
+North Carolina,-78.9,36.1,Liquidambar styraciflua,1
+North Carolina,-78.9,36.1,Platanus acerifolia,25
+North Carolina,-78.9,36.1,Pyrus calleryana,1
+Ohio,-83.2,39.9,Others,498
+Ohio,-83.2,39.9,Acer platanoides,38
+Ohio,-83.2,39.9,Acer rubrum,81
+Ohio,-83.2,39.9,Fraxinus pennsylvanica,39
+Ohio,-83.2,39.9,Gleditsia triacanthos,10
+Ohio,-83.2,39.9,Platanus acerifolia,8
+Ohio,-83.2,39.9,Prunus,24
+Ohio,-83.2,39.9,Pyrus calleryana,122
+Ohio,-83.2,39.9,Tilia cordata,63
+Ohio,-83.2,40.0,Others,2228
+Ohio,-83.2,40.0,Acer platanoides,64
+Ohio,-83.2,40.0,Acer rubrum,400
+Ohio,-83.2,40.0,Fraxinus pennsylvanica,571
+Ohio,-83.2,40.0,Gleditsia triacanthos,455
+Ohio,-83.2,40.0,Liquidambar styraciflua,15
+Ohio,-83.2,40.0,Platanus acerifolia,108
+Ohio,-83.2,40.0,Prunus,103
+Ohio,-83.2,40.0,Pyrus calleryana,565
+Ohio,-83.2,40.0,Tilia cordata,123
+Ohio,-83.2,40.1,Others,273
+Ohio,-83.2,40.1,Acer platanoides,93
+Ohio,-83.2,40.1,Acer rubrum,183
+Ohio,-83.2,40.1,Liquidambar styraciflua,2
+Ohio,-83.2,40.1,Platanus acerifolia,79
+Ohio,-83.2,40.1,Prunus,4
+Ohio,-83.2,40.1,Pyrus calleryana,83
+Ohio,-83.2,40.1,Tilia cordata,3
+Ohio,-83.1,39.9,Others,6400
+Ohio,-83.1,39.9,Acer platanoides,182
+Ohio,-83.1,39.9,Acer rubrum,268
+Ohio,-83.1,39.9,Fraxinus pennsylvanica,944
+Ohio,-83.1,39.9,Gleditsia triacanthos,290
+Ohio,-83.1,39.9,Liquidambar styraciflua,25
+Ohio,-83.1,39.9,Platanus acerifolia,101
+Ohio,-83.1,39.9,Prunus,255
+Ohio,-83.1,39.9,Pyrus calleryana,465
+Ohio,-83.1,39.9,Tilia cordata,255
+Ohio,-83.1,40.0,Others,4884
+Ohio,-83.1,40.0,Acer platanoides,302
+Ohio,-83.1,40.0,Acer rubrum,328
+Ohio,-83.1,40.0,Fraxinus pennsylvanica,721
+Ohio,-83.1,40.0,Gleditsia triacanthos,386
+Ohio,-83.1,40.0,Liquidambar styraciflua,108
+Ohio,-83.1,40.0,Platanus acerifolia,176
+Ohio,-83.1,40.0,Prunus,90
+Ohio,-83.1,40.0,Pyrus calleryana,879
+Ohio,-83.1,40.0,Tilia cordata,88
+Ohio,-83.1,40.1,Others,7395
+Ohio,-83.1,40.1,Acer platanoides,536
+Ohio,-83.1,40.1,Acer rubrum,1761
+Ohio,-83.1,40.1,Fraxinus pennsylvanica,1575
+Ohio,-83.1,40.1,Gleditsia triacanthos,1111
+Ohio,-83.1,40.1,Liquidambar styraciflua,219
+Ohio,-83.1,40.1,Platanus acerifolia,257
+Ohio,-83.1,40.1,Prunus,218
+Ohio,-83.1,40.1,Pyrus calleryana,1815
+Ohio,-83.1,40.1,Tilia cordata,719
+Ohio,-83.1,40.2,Others,73
+Ohio,-83.1,40.2,Fraxinus pennsylvanica,3
+Ohio,-83.1,40.2,Tilia cordata,1
+Ohio,-83.0,39.8,Others,51
+Ohio,-83.0,39.8,Fraxinus pennsylvanica,1
+Ohio,-83.0,39.8,Liquidambar styraciflua,1
+Ohio,-83.0,39.9,Others,8291
+Ohio,-83.0,39.9,Acer platanoides,462
+Ohio,-83.0,39.9,Acer rubrum,392
+Ohio,-83.0,39.9,Fraxinus pennsylvanica,708
+Ohio,-83.0,39.9,Gleditsia triacanthos,454
+Ohio,-83.0,39.9,Liquidambar styraciflua,108
+Ohio,-83.0,39.9,Platanus acerifolia,219
+Ohio,-83.0,39.9,Prunus,484
+Ohio,-83.0,39.9,Pyrus calleryana,1061
+Ohio,-83.0,39.9,Tilia cordata,208
+Ohio,-83.0,40.0,Others,26130
+Ohio,-83.0,40.0,Acer platanoides,1149
+Ohio,-83.0,40.0,Acer rubrum,1283
+Ohio,-83.0,40.0,Fraxinus pennsylvanica,1149
+Ohio,-83.0,40.0,Gleditsia triacanthos,1730
+Ohio,-83.0,40.0,Liquidambar styraciflua,413
+Ohio,-83.0,40.0,Platanus acerifolia,1286
+Ohio,-83.0,40.0,Prunus,904
+Ohio,-83.0,40.0,Pyrus calleryana,1686
+Ohio,-83.0,40.0,Tilia cordata,822
+Ohio,-83.0,40.1,Others,10234
+Ohio,-83.0,40.1,Acer platanoides,743
+Ohio,-83.0,40.1,Acer rubrum,1545
+Ohio,-83.0,40.1,Fraxinus pennsylvanica,1227
+Ohio,-83.0,40.1,Gleditsia triacanthos,848
+Ohio,-83.0,40.1,Liquidambar styraciflua,435
+Ohio,-83.0,40.1,Platanus acerifolia,590
+Ohio,-83.0,40.1,Prunus,251
+Ohio,-83.0,40.1,Pyrus calleryana,976
+Ohio,-83.0,40.1,Tilia cordata,914
+Ohio,-83.0,40.2,Others,288
+Ohio,-83.0,40.2,Acer platanoides,7
+Ohio,-83.0,40.2,Acer rubrum,62
+Ohio,-83.0,40.2,Fraxinus pennsylvanica,51
+Ohio,-83.0,40.2,Gleditsia triacanthos,69
+Ohio,-83.0,40.2,Platanus acerifolia,120
+Ohio,-83.0,40.2,Prunus,15
+Ohio,-83.0,40.2,Pyrus calleryana,36
+Ohio,-83.0,40.2,Tilia cordata,10
+Ohio,-82.9,39.9,Others,6517
+Ohio,-82.9,39.9,Acer platanoides,196
+Ohio,-82.9,39.9,Acer rubrum,260
+Ohio,-82.9,39.9,Fraxinus pennsylvanica,475
+Ohio,-82.9,39.9,Gleditsia triacanthos,279
+Ohio,-82.9,39.9,Liquidambar styraciflua,136
+Ohio,-82.9,39.9,Platanus acerifolia,193
+Ohio,-82.9,39.9,Prunus,186
+Ohio,-82.9,39.9,Pyrus calleryana,172
+Ohio,-82.9,39.9,Tilia cordata,305
+Ohio,-82.9,40.0,Others,6810
+Ohio,-82.9,40.0,Acer platanoides,324
+Ohio,-82.9,40.0,Acer rubrum,201
+Ohio,-82.9,40.0,Fraxinus pennsylvanica,519
+Ohio,-82.9,40.0,Gleditsia triacanthos,363
+Ohio,-82.9,40.0,Liquidambar styraciflua,61
+Ohio,-82.9,40.0,Platanus acerifolia,183
+Ohio,-82.9,40.0,Prunus,237
+Ohio,-82.9,40.0,Pyrus calleryana,119
+Ohio,-82.9,40.0,Tilia cordata,149
+Ohio,-82.9,40.1,Others,4008
+Ohio,-82.9,40.1,Acer platanoides,223
+Ohio,-82.9,40.1,Acer rubrum,734
+Ohio,-82.9,40.1,Fraxinus pennsylvanica,404
+Ohio,-82.9,40.1,Gleditsia triacanthos,480
+Ohio,-82.9,40.1,Liquidambar styraciflua,51
+Ohio,-82.9,40.1,Platanus acerifolia,325
+Ohio,-82.9,40.1,Prunus,80
+Ohio,-82.9,40.1,Pyrus calleryana,799
+Ohio,-82.9,40.1,Tilia cordata,155
+Ohio,-82.9,40.2,Others,22
+Ohio,-82.9,40.2,Acer platanoides,1
+Ohio,-82.9,40.2,Acer rubrum,1
+Ohio,-82.9,40.2,Fraxinus pennsylvanica,2
+Ohio,-82.9,40.2,Pyrus calleryana,2
+Ohio,-82.8,39.9,Others,2185
+Ohio,-82.8,39.9,Acer platanoides,56
+Ohio,-82.8,39.9,Acer rubrum,257
+Ohio,-82.8,39.9,Fraxinus pennsylvanica,259
+Ohio,-82.8,39.9,Gleditsia triacanthos,190
+Ohio,-82.8,39.9,Liquidambar styraciflua,44
+Ohio,-82.8,39.9,Platanus acerifolia,43
+Ohio,-82.8,39.9,Prunus,23
+Ohio,-82.8,39.9,Pyrus calleryana,312
+Ohio,-82.8,39.9,Tilia cordata,145
+Ohio,-82.8,40.0,Others,1584
+Ohio,-82.8,40.0,Acer platanoides,140
+Ohio,-82.8,40.0,Acer rubrum,253
+Ohio,-82.8,40.0,Fraxinus pennsylvanica,428
+Ohio,-82.8,40.0,Gleditsia triacanthos,103
+Ohio,-82.8,40.0,Liquidambar styraciflua,61
+Ohio,-82.8,40.0,Platanus acerifolia,33
+Ohio,-82.8,40.0,Prunus,74
+Ohio,-82.8,40.0,Pyrus calleryana,101
+Ohio,-82.8,40.0,Tilia cordata,89
+Ohio,-82.8,40.1,Others,1402
+Ohio,-82.8,40.1,Acer platanoides,33
+Ohio,-82.8,40.1,Acer rubrum,648
+Ohio,-82.8,40.1,Fraxinus pennsylvanica,326
+Ohio,-82.8,40.1,Gleditsia triacanthos,322
+Ohio,-82.8,40.1,Platanus acerifolia,195
+Ohio,-82.8,40.1,Prunus,14
+Ohio,-82.8,40.1,Pyrus calleryana,52
+Ohio,-82.8,40.1,Tilia cordata,53
+Oklahoma,-97.7,35.5,Others,66
+Oklahoma,-97.7,35.5,Gleditsia triacanthos,2
+Oklahoma,-97.7,35.5,Liquidambar styraciflua,4
+Oklahoma,-97.7,35.5,Platanus acerifolia,1
+Oklahoma,-97.7,35.5,Pyrus calleryana,6
+Oklahoma,-97.7,35.6,Others,33
+Oklahoma,-97.7,35.6,Fraxinus pennsylvanica,1
+Oklahoma,-97.7,35.6,Gleditsia triacanthos,1
+Oklahoma,-97.7,35.6,Pyrus calleryana,3
+Oklahoma,-97.6,35.3,Others,137
+Oklahoma,-97.6,35.3,Fraxinus pennsylvanica,1
+Oklahoma,-97.6,35.3,Lagerstroemia indica,13
+Oklahoma,-97.6,35.3,Platanus acerifolia,13
+Oklahoma,-97.6,35.3,Pyrus calleryana,18
+Oklahoma,-97.6,35.4,Acer rubrum,1
+Oklahoma,-97.6,35.4,Others,424
+Oklahoma,-97.6,35.4,Fraxinus pennsylvanica,14
+Oklahoma,-97.6,35.4,Gleditsia triacanthos,25
+Oklahoma,-97.6,35.4,Lagerstroemia indica,52
+Oklahoma,-97.6,35.4,Liquidambar styraciflua,10
+Oklahoma,-97.6,35.4,Platanus acerifolia,20
+Oklahoma,-97.6,35.4,Pyrus calleryana,51
+Oklahoma,-97.6,35.5,Others,1465
+Oklahoma,-97.6,35.5,Acer rubrum,2
+Oklahoma,-97.6,35.5,Fraxinus pennsylvanica,20
+Oklahoma,-97.6,35.5,Gleditsia triacanthos,36
+Oklahoma,-97.6,35.5,Lagerstroemia indica,47
+Oklahoma,-97.6,35.5,Liquidambar styraciflua,4
+Oklahoma,-97.6,35.5,Platanus acerifolia,5
+Oklahoma,-97.6,35.5,Pyrus calleryana,30
+Oklahoma,-97.6,35.6,Others,390
+Oklahoma,-97.6,35.6,Fraxinus pennsylvanica,5
+Oklahoma,-97.6,35.6,Gleditsia triacanthos,16
+Oklahoma,-97.6,35.6,Lagerstroemia indica,41
+Oklahoma,-97.6,35.6,Liquidambar styraciflua,1
+Oklahoma,-97.6,35.6,Platanus acerifolia,4
+Oklahoma,-97.6,35.6,Pyrus calleryana,37
+Oklahoma,-97.5,35.4,Others,1095
+Oklahoma,-97.5,35.4,Acer rubrum,1
+Oklahoma,-97.5,35.4,Fraxinus pennsylvanica,24
+Oklahoma,-97.5,35.4,Gleditsia triacanthos,17
+Oklahoma,-97.5,35.4,Lagerstroemia indica,71
+Oklahoma,-97.5,35.4,Liquidambar styraciflua,11
+Oklahoma,-97.5,35.4,Platanus acerifolia,19
+Oklahoma,-97.5,35.4,Pyrus calleryana,42
+Oklahoma,-97.5,35.5,Others,3473
+Oklahoma,-97.5,35.5,Acer platanoides,1
+Oklahoma,-97.5,35.5,Acer rubrum,37
+Oklahoma,-97.5,35.5,Fraxinus pennsylvanica,21
+Oklahoma,-97.5,35.5,Gleditsia triacanthos,13
+Oklahoma,-97.5,35.5,Lagerstroemia indica,458
+Oklahoma,-97.5,35.5,Liquidambar styraciflua,19
+Oklahoma,-97.5,35.5,Platanus acerifolia,28
+Oklahoma,-97.5,35.5,Pyrus calleryana,58
+Oklahoma,-97.5,35.5,Tilia cordata,1
+Oklahoma,-97.5,35.6,Others,41
+Oklahoma,-97.5,35.6,Fraxinus pennsylvanica,7
+Oklahoma,-97.5,35.6,Gleditsia triacanthos,3
+Oklahoma,-97.5,35.6,Pyrus calleryana,7
+Oklahoma,-97.4,35.3,Others,1
+Oklahoma,-97.4,35.4,Fraxinus pennsylvanica,2
+Oklahoma,-97.4,35.4,Gleditsia triacanthos,4
+Oklahoma,-97.4,35.4,Others,39
+Oklahoma,-97.4,35.4,Pyrus calleryana,6
+Oklahoma,-97.4,35.5,Others,44
+Oklahoma,-97.4,35.5,Fraxinus pennsylvanica,2
+Oklahoma,-97.4,35.5,Gleditsia triacanthos,1
+Oklahoma,-97.4,35.5,Liquidambar styraciflua,6
+Oklahoma,-97.4,35.5,Pyrus calleryana,3
+Oklahoma,-97.3,35.5,Others,243
+Oklahoma,-97.3,35.5,Lagerstroemia indica,7
+Oklahoma,-97.3,35.6,Others,65
+Oklahoma,-97.3,35.6,Pyrus calleryana,2
+Oregon,-122.8,45.5,Others,230
+Oregon,-122.8,45.5,Acer platanoides,27
+Oregon,-122.8,45.5,Acer rubrum,337
+Oregon,-122.8,45.5,Lagerstroemia indica,1
+Oregon,-122.8,45.5,Prunus,73
+Oregon,-122.8,45.6,Others,2860
+Oregon,-122.8,45.6,Acer platanoides,482
+Oregon,-122.8,45.6,Acer rubrum,296
+Oregon,-122.8,45.6,Gleditsia triacanthos,57
+Oregon,-122.8,45.6,Lagerstroemia indica,2
+Oregon,-122.8,45.6,Prunus,396
+Oregon,-122.7,45.4,Others,1183
+Oregon,-122.7,45.4,Acer platanoides,120
+Oregon,-122.7,45.4,Acer rubrum,163
+Oregon,-122.7,45.4,Gleditsia triacanthos,20
+Oregon,-122.7,45.4,Lagerstroemia indica,2
+Oregon,-122.7,45.4,Prunus,158
+Oregon,-122.7,45.5,Others,29639
+Oregon,-122.7,45.5,Acer platanoides,4637
+Oregon,-122.7,45.5,Acer rubrum,5371
+Oregon,-122.7,45.5,Gleditsia triacanthos,338
+Oregon,-122.7,45.5,Lagerstroemia indica,118
+Oregon,-122.7,45.5,Prunus,3872
+Oregon,-122.7,45.6,Others,27520
+Oregon,-122.7,45.6,Acer platanoides,3298
+Oregon,-122.7,45.6,Acer rubrum,1973
+Oregon,-122.7,45.6,Gleditsia triacanthos,292
+Oregon,-122.7,45.6,Lagerstroemia indica,119
+Oregon,-122.7,45.6,Prunus,4365
+Oregon,-122.6,45.5,Others,63713
+Oregon,-122.6,45.5,Acer platanoides,7792
+Oregon,-122.6,45.5,Acer rubrum,5408
+Oregon,-122.6,45.5,Gleditsia triacanthos,488
+Oregon,-122.6,45.5,Lagerstroemia indica,403
+Oregon,-122.6,45.5,Prunus,11679
+Oregon,-122.6,45.6,Others,13596
+Oregon,-122.6,45.6,Acer platanoides,1316
+Oregon,-122.6,45.6,Acer rubrum,707
+Oregon,-122.6,45.6,Gleditsia triacanthos,80
+Oregon,-122.6,45.6,Lagerstroemia indica,77
+Oregon,-122.6,45.6,Prunus,2434
+Oregon,-122.5,45.5,Others,13755
+Oregon,-122.5,45.5,Acer platanoides,1356
+Oregon,-122.5,45.5,Acer rubrum,960
+Oregon,-122.5,45.5,Gleditsia triacanthos,130
+Oregon,-122.5,45.5,Lagerstroemia indica,123
+Oregon,-122.5,45.5,Prunus,2405
+Oregon,-122.5,45.6,Others,1672
+Oregon,-122.5,45.6,Acer platanoides,181
+Oregon,-122.5,45.6,Acer rubrum,260
+Oregon,-122.5,45.6,Gleditsia triacanthos,7
+Oregon,-122.5,45.6,Lagerstroemia indica,7
+Oregon,-122.5,45.6,Prunus,253
+Pennsylvania,-80.1,40.4,Others,204
+Pennsylvania,-80.1,40.4,Acer platanoides,110
+Pennsylvania,-80.1,40.4,Acer rubrum,44
+Pennsylvania,-80.1,40.4,Gleditsia triacanthos,26
+Pennsylvania,-80.1,40.4,Liquidambar styraciflua,33
+Pennsylvania,-80.1,40.4,Platanus acerifolia,17
+Pennsylvania,-80.1,40.4,Prunus,4
+Pennsylvania,-80.1,40.4,Pyrus calleryana,29
+Pennsylvania,-80.1,40.4,Tilia cordata,61
+Pennsylvania,-80.1,40.5,Others,120
+Pennsylvania,-80.1,40.5,Acer platanoides,77
+Pennsylvania,-80.1,40.5,Acer rubrum,87
+Pennsylvania,-80.1,40.5,Fraxinus pennsylvanica,3
+Pennsylvania,-80.1,40.5,Gleditsia triacanthos,24
+Pennsylvania,-80.1,40.5,Liquidambar styraciflua,19
+Pennsylvania,-80.1,40.5,Platanus acerifolia,22
+Pennsylvania,-80.1,40.5,Prunus,1
+Pennsylvania,-80.1,40.5,Pyrus calleryana,17
+Pennsylvania,-80.1,40.5,Tilia cordata,70
+Pennsylvania,-80.0,40.4,Others,4880
+Pennsylvania,-80.0,40.4,Acer platanoides,812
+Pennsylvania,-80.0,40.4,Acer rubrum,892
+Pennsylvania,-80.0,40.4,Fraxinus pennsylvanica,48
+Pennsylvania,-80.0,40.4,Gleditsia triacanthos,1714
+Pennsylvania,-80.0,40.4,Liquidambar styraciflua,156
+Pennsylvania,-80.0,40.4,Platanus acerifolia,735
+Pennsylvania,-80.0,40.4,Prunus,132
+Pennsylvania,-80.0,40.4,Pyrus calleryana,1066
+Pennsylvania,-80.0,40.4,Tilia cordata,389
+Pennsylvania,-80.0,40.5,Others,4222
+Pennsylvania,-80.0,40.5,Acer platanoides,818
+Pennsylvania,-80.0,40.5,Acer rubrum,753
+Pennsylvania,-80.0,40.5,Fraxinus pennsylvanica,35
+Pennsylvania,-80.0,40.5,Gleditsia triacanthos,847
+Pennsylvania,-80.0,40.5,Liquidambar styraciflua,125
+Pennsylvania,-80.0,40.5,Platanus acerifolia,494
+Pennsylvania,-80.0,40.5,Prunus,152
+Pennsylvania,-80.0,40.5,Pyrus calleryana,770
+Pennsylvania,-80.0,40.5,Tilia cordata,413
+Pennsylvania,-79.9,40.4,Others,5542
+Pennsylvania,-79.9,40.4,Acer platanoides,834
+Pennsylvania,-79.9,40.4,Acer rubrum,761
+Pennsylvania,-79.9,40.4,Fraxinus pennsylvanica,76
+Pennsylvania,-79.9,40.4,Gleditsia triacanthos,432
+Pennsylvania,-79.9,40.4,Liquidambar styraciflua,267
+Pennsylvania,-79.9,40.4,Platanus acerifolia,1306
+Pennsylvania,-79.9,40.4,Prunus,153
+Pennsylvania,-79.9,40.4,Pyrus calleryana,437
+Pennsylvania,-79.9,40.4,Tilia cordata,688
+Pennsylvania,-79.9,40.5,Others,5366
+Pennsylvania,-79.9,40.5,Acer platanoides,1064
+Pennsylvania,-79.9,40.5,Acer rubrum,885
+Pennsylvania,-79.9,40.5,Fraxinus pennsylvanica,86
+Pennsylvania,-79.9,40.5,Gleditsia triacanthos,1002
+Pennsylvania,-79.9,40.5,Liquidambar styraciflua,292
+Pennsylvania,-79.9,40.5,Platanus acerifolia,650
+Pennsylvania,-79.9,40.5,Prunus,124
+Pennsylvania,-79.9,40.5,Pyrus calleryana,650
+Pennsylvania,-79.9,40.5,Tilia cordata,792
+Rhode Island,-71.5,41.8,Others,493
+Rhode Island,-71.5,41.8,Acer platanoides,278
+Rhode Island,-71.5,41.8,Acer rubrum,66
+Rhode Island,-71.5,41.8,Fraxinus pennsylvanica,249
+Rhode Island,-71.5,41.8,Gleditsia triacanthos,112
+Rhode Island,-71.5,41.8,Liquidambar styraciflua,42
+Rhode Island,-71.5,41.8,Platanus acerifolia,101
+Rhode Island,-71.5,41.8,Prunus,28
+Rhode Island,-71.5,41.8,Pyrus calleryana,174
+Rhode Island,-71.5,41.8,Tilia cordata,19
+Rhode Island,-71.5,41.9,Others,21
+Rhode Island,-71.5,41.9,Acer platanoides,6
+Rhode Island,-71.5,41.9,Acer rubrum,4
+Rhode Island,-71.5,41.9,Fraxinus pennsylvanica,4
+Rhode Island,-71.5,41.9,Gleditsia triacanthos,8
+Rhode Island,-71.5,41.9,Liquidambar styraciflua,1
+Rhode Island,-71.5,41.9,Platanus acerifolia,8
+Rhode Island,-71.5,41.9,Prunus,1
+Rhode Island,-71.5,41.9,Pyrus calleryana,21
+Rhode Island,-71.5,41.9,Tilia cordata,2
+Rhode Island,-71.4,41.8,Others,7433
+Rhode Island,-71.4,41.8,Acer platanoides,2318
+Rhode Island,-71.4,41.8,Acer rubrum,1164
+Rhode Island,-71.4,41.8,Fraxinus pennsylvanica,1327
+Rhode Island,-71.4,41.8,Gleditsia triacanthos,1704
+Rhode Island,-71.4,41.8,Liquidambar styraciflua,216
+Rhode Island,-71.4,41.8,Platanus acerifolia,1532
+Rhode Island,-71.4,41.8,Prunus,475
+Rhode Island,-71.4,41.8,Pyrus calleryana,2252
+Rhode Island,-71.4,41.8,Tilia cordata,845
+Rhode Island,-71.4,41.9,Others,629
+Rhode Island,-71.4,41.9,Acer platanoides,247
+Rhode Island,-71.4,41.9,Acer rubrum,72
+Rhode Island,-71.4,41.9,Fraxinus pennsylvanica,71
+Rhode Island,-71.4,41.9,Gleditsia triacanthos,102
+Rhode Island,-71.4,41.9,Liquidambar styraciflua,6
+Rhode Island,-71.4,41.9,Platanus acerifolia,61
+Rhode Island,-71.4,41.9,Prunus,47
+Rhode Island,-71.4,41.9,Pyrus calleryana,150
+Rhode Island,-71.4,41.9,Tilia cordata,38
+South Dakota,-96.8,43.5,Others,7116
+South Dakota,-96.8,43.5,Acer platanoides,1343
+South Dakota,-96.8,43.5,Acer rubrum,301
+South Dakota,-96.8,43.5,Fraxinus pennsylvanica,5733
+South Dakota,-96.8,43.5,Gleditsia triacanthos,521
+South Dakota,-96.8,43.5,Platanus acerifolia,3
+South Dakota,-96.8,43.5,Prunus,64
+South Dakota,-96.8,43.5,Tilia cordata,926
+South Dakota,-96.8,43.6,Others,1532
+South Dakota,-96.8,43.6,Acer platanoides,103
+South Dakota,-96.8,43.6,Acer rubrum,18
+South Dakota,-96.8,43.6,Fraxinus pennsylvanica,753
+South Dakota,-96.8,43.6,Gleditsia triacanthos,108
+South Dakota,-96.8,43.6,Prunus,8
+South Dakota,-96.8,43.6,Tilia cordata,64
+South Dakota,-96.7,43.5,Others,13446
+South Dakota,-96.7,43.5,Acer platanoides,3544
+South Dakota,-96.7,43.5,Acer rubrum,543
+South Dakota,-96.7,43.5,Fraxinus pennsylvanica,12458
+South Dakota,-96.7,43.5,Gleditsia triacanthos,1372
+South Dakota,-96.7,43.5,Platanus acerifolia,17
+South Dakota,-96.7,43.5,Prunus,97
+South Dakota,-96.7,43.5,Tilia cordata,1801
+South Dakota,-96.7,43.6,Others,3764
+South Dakota,-96.7,43.6,Acer platanoides,650
+South Dakota,-96.7,43.6,Acer rubrum,79
+South Dakota,-96.7,43.6,Fraxinus pennsylvanica,2370
+South Dakota,-96.7,43.6,Gleditsia triacanthos,303
+South Dakota,-96.7,43.6,Platanus acerifolia,6
+South Dakota,-96.7,43.6,Prunus,33
+South Dakota,-96.7,43.6,Tilia cordata,246
+South Dakota,-96.6,43.5,Others,994
+South Dakota,-96.6,43.5,Acer platanoides,61
+South Dakota,-96.6,43.5,Acer rubrum,48
+South Dakota,-96.6,43.5,Fraxinus pennsylvanica,116
+South Dakota,-96.6,43.5,Gleditsia triacanthos,18
+South Dakota,-96.6,43.5,Platanus acerifolia,1
+South Dakota,-96.6,43.5,Prunus,4
+South Dakota,-96.6,43.5,Tilia cordata,53
+Tennessee,-86.9,36.2,Others,14
+Tennessee,-86.9,36.2,Liquidambar styraciflua,1
+Tennessee,-86.9,36.2,Pyrus calleryana,1
+Tennessee,-86.9,36.2,Tilia cordata,5
+Tennessee,-86.8,36.1,Others,35
+Tennessee,-86.8,36.1,Platanus acerifolia,8
+Tennessee,-86.8,36.1,Tilia cordata,11
+Tennessee,-86.8,36.2,Others,1394
+Tennessee,-86.8,36.2,Acer rubrum,51
+Tennessee,-86.8,36.2,Fraxinus pennsylvanica,44
+Tennessee,-86.8,36.2,Gleditsia triacanthos,15
+Tennessee,-86.8,36.2,Liquidambar styraciflua,130
+Tennessee,-86.8,36.2,Platanus acerifolia,273
+Tennessee,-86.8,36.2,Prunus,4
+Tennessee,-86.8,36.2,Pyrus calleryana,38
+Tennessee,-86.8,36.2,Tilia cordata,15
+Tennessee,-84.1,35.9,Acer rubrum,37
+Tennessee,-84.1,35.9,Others,134
+Tennessee,-84.1,35.9,Lagerstroemia indica,12
+Tennessee,-84.0,35.9,Others,1247
+Tennessee,-84.0,35.9,Acer platanoides,5
+Tennessee,-84.0,35.9,Acer rubrum,184
+Tennessee,-84.0,35.9,Fraxinus pennsylvanica,2
+Tennessee,-84.0,35.9,Gleditsia triacanthos,1
+Tennessee,-84.0,35.9,Lagerstroemia indica,92
+Tennessee,-84.0,35.9,Liquidambar styraciflua,21
+Tennessee,-84.0,35.9,Prunus,2
+Tennessee,-84.0,36.0,Others,1150
+Tennessee,-84.0,36.0,Acer rubrum,79
+Tennessee,-84.0,36.0,Fraxinus pennsylvanica,2
+Tennessee,-84.0,36.0,Gleditsia triacanthos,30
+Tennessee,-84.0,36.0,Lagerstroemia indica,51
+Tennessee,-84.0,36.0,Liquidambar styraciflua,33
+Tennessee,-84.0,36.0,Prunus,3
+Tennessee,-84.0,36.0,Tilia cordata,18
+Tennessee,-83.9,35.9,Others,82
+Tennessee,-83.9,35.9,Acer rubrum,15
+Tennessee,-83.9,35.9,Fraxinus pennsylvanica,2
+Tennessee,-83.9,35.9,Gleditsia triacanthos,1
+Tennessee,-83.9,35.9,Lagerstroemia indica,12
+Tennessee,-83.9,35.9,Pyrus calleryana,1
+Tennessee,-83.9,36.0,Others,3983
+Tennessee,-83.9,36.0,Acer platanoides,6
+Tennessee,-83.9,36.0,Acer rubrum,359
+Tennessee,-83.9,36.0,Fraxinus pennsylvanica,12
+Tennessee,-83.9,36.0,Gleditsia triacanthos,21
+Tennessee,-83.9,36.0,Lagerstroemia indica,346
+Tennessee,-83.9,36.0,Liquidambar styraciflua,42
+Tennessee,-83.9,36.0,Prunus,94
+Tennessee,-83.9,36.0,Pyrus calleryana,57
+Tennessee,-83.9,36.0,Tilia cordata,60
+Tennessee,-83.9,36.1,Acer platanoides,1
+Tennessee,-83.9,36.1,Others,20
+Tennessee,-83.8,36.0,Others,139
+Tennessee,-83.8,36.0,Acer rubrum,9
+Tennessee,-83.8,36.0,Fraxinus pennsylvanica,3
+Tennessee,-83.8,36.0,Lagerstroemia indica,3
+Texas,-99.8,30.9,Others,26
+Texas,-99.8,30.9,Lagerstroemia indica,5
+Texas,-99.8,30.9,Pyrus calleryana,2
+Texas,-98.4,29.5,Lagerstroemia indica,2
+Texas,-98.4,29.5,Others,9
+Texas,-98.1,28.3,Others,1
+Texas,-98.1,29.1,Acer rubrum,4
+Texas,-98.1,29.1,Others,61
+Texas,-98.1,29.1,Lagerstroemia indica,30
+Texas,-98.1,29.1,Liquidambar styraciflua,1
+Texas,-98.1,29.1,Pyrus calleryana,3
+Texas,-97.8,30.3,Others,748
+Texas,-97.8,30.3,Gleditsia triacanthos,7
+Texas,-97.8,30.3,Lagerstroemia indica,32
+Texas,-97.8,32.2,Others,8
+Texas,-97.8,32.2,Lagerstroemia indica,11
+Texas,-97.7,30.3,Others,4550
+Texas,-97.7,30.3,Gleditsia triacanthos,91
+Texas,-97.7,30.3,Lagerstroemia indica,577
+Texas,-97.7,30.3,Liquidambar styraciflua,7
+Texas,-97.7,30.3,Pyrus calleryana,62
+Texas,-97.7,32.2,Others,25
+Texas,-97.7,32.2,Lagerstroemia indica,13
+Texas,-97.2,32.6,Others,184
+Texas,-97.2,32.6,Liquidambar styraciflua,19
+Texas,-97.2,32.7,Acer rubrum,19
+Texas,-97.2,32.7,Others,1456
+Texas,-97.2,32.7,Fraxinus pennsylvanica,12
+Texas,-97.2,32.7,Lagerstroemia indica,173
+Texas,-97.2,32.7,Liquidambar styraciflua,25
+Texas,-97.2,32.7,Pyrus calleryana,43
+Texas,-97.2,32.8,Others,2
+Texas,-97.1,32.6,Others,1128
+Texas,-97.1,32.6,Fraxinus pennsylvanica,2
+Texas,-97.1,32.6,Gleditsia triacanthos,1
+Texas,-97.1,32.6,Lagerstroemia indica,22
+Texas,-97.1,32.6,Pyrus calleryana,1
+Texas,-97.1,32.7,Others,7847
+Texas,-97.1,32.7,Acer rubrum,19
+Texas,-97.1,32.7,Fraxinus pennsylvanica,36
+Texas,-97.1,32.7,Gleditsia triacanthos,17
+Texas,-97.1,32.7,Lagerstroemia indica,689
+Texas,-97.1,32.7,Liquidambar styraciflua,34
+Texas,-97.1,32.7,Pyrus calleryana,179
+Texas,-97.1,32.8,Others,2126
+Texas,-97.1,32.8,Acer rubrum,12
+Texas,-97.1,32.8,Fraxinus pennsylvanica,78
+Texas,-97.1,32.8,Gleditsia triacanthos,4
+Texas,-97.1,32.8,Lagerstroemia indica,279
+Texas,-97.1,32.8,Liquidambar styraciflua,13
+Texas,-97.1,32.8,Pyrus calleryana,18
+Texas,-97.0,32.7,Others,117
+Texas,-97.0,32.7,Lagerstroemia indica,22
+Texas,-97.0,32.8,Others,86
+Texas,-97.0,32.8,Lagerstroemia indica,10
+Texas,-96.9,29.9,Others,117
+Texas,-96.9,29.9,Lagerstroemia indica,35
+Texas,-96.9,29.9,Pyrus calleryana,1
+Texas,-96.8,32.8,Others,38
+Texas,-96.6,32.8,Others,324
+Texas,-96.6,32.8,Fraxinus pennsylvanica,7
+Texas,-96.6,32.8,Lagerstroemia indica,95
+Texas,-96.6,32.8,Pyrus calleryana,5
+Texas,-96.4,32.1,Others,18
+Texas,-96.4,32.1,Lagerstroemia indica,1
+Texas,-96.4,33.5,Acer rubrum,1
+Texas,-96.4,33.5,Others,23
+Texas,-96.4,33.5,Lagerstroemia indica,14
+Texas,-95.8,29.8,Others,189
+Texas,-95.8,29.8,Lagerstroemia indica,73
+Texas,-95.8,29.8,Liquidambar styraciflua,12
+Texas,-95.8,29.8,Pyrus calleryana,4
+Texas,-95.7,29.7,Lagerstroemia indica,1
+Texas,-95.7,29.7,Others,2
+Texas,-95.7,29.8,Acer rubrum,3
+Texas,-95.7,29.8,Others,770
+Texas,-95.7,29.8,Lagerstroemia indica,242
+Texas,-95.7,29.8,Liquidambar styraciflua,6
+Texas,-95.7,29.8,Pyrus calleryana,15
+Texas,-95.7,29.9,Others,261
+Texas,-95.7,30.0,Others,79
+Texas,-95.7,30.0,Fraxinus pennsylvanica,1
+Texas,-95.7,30.0,Lagerstroemia indica,36
+Texas,-95.6,29.6,Others,172
+Texas,-95.6,29.6,Acer rubrum,4
+Texas,-95.6,29.6,Fraxinus pennsylvanica,2
+Texas,-95.6,29.6,Lagerstroemia indica,105
+Texas,-95.6,29.6,Pyrus calleryana,6
+Texas,-95.6,29.7,Others,244
+Texas,-95.6,29.7,Lagerstroemia indica,56
+Texas,-95.6,29.7,Liquidambar styraciflua,1
+Texas,-95.6,29.8,Others,4750
+Texas,-95.6,29.8,Acer rubrum,20
+Texas,-95.6,29.8,Fraxinus pennsylvanica,9
+Texas,-95.6,29.8,Gleditsia triacanthos,1
+Texas,-95.6,29.8,Lagerstroemia indica,1387
+Texas,-95.6,29.8,Liquidambar styraciflua,56
+Texas,-95.6,29.8,Pyrus calleryana,90
+Texas,-95.6,29.9,Others,481
+Texas,-95.6,29.9,Acer rubrum,1
+Texas,-95.6,29.9,Lagerstroemia indica,189
+Texas,-95.6,30.0,Others,5
+Texas,-95.6,31.4,Others,12
+Texas,-95.6,31.4,Lagerstroemia indica,9
+Texas,-95.5,29.6,Others,1829
+Texas,-95.5,29.6,Acer rubrum,1
+Texas,-95.5,29.6,Fraxinus pennsylvanica,27
+Texas,-95.5,29.6,Gleditsia triacanthos,3
+Texas,-95.5,29.6,Lagerstroemia indica,488
+Texas,-95.5,29.6,Liquidambar styraciflua,20
+Texas,-95.5,29.6,Pyrus calleryana,12
+Texas,-95.5,29.7,Others,18189
+Texas,-95.5,29.7,Acer rubrum,131
+Texas,-95.5,29.7,Fraxinus pennsylvanica,76
+Texas,-95.5,29.7,Gleditsia triacanthos,11
+Texas,-95.5,29.7,Lagerstroemia indica,4880
+Texas,-95.5,29.7,Liquidambar styraciflua,195
+Texas,-95.5,29.7,Prunus,4
+Texas,-95.5,29.7,Pyrus calleryana,263
+Texas,-95.5,29.8,Others,21483
+Texas,-95.5,29.8,Acer rubrum,146
+Texas,-95.5,29.8,Fraxinus pennsylvanica,39
+Texas,-95.5,29.8,Gleditsia triacanthos,4
+Texas,-95.5,29.8,Lagerstroemia indica,5645
+Texas,-95.5,29.8,Liquidambar styraciflua,194
+Texas,-95.5,29.8,Pyrus calleryana,427
+Texas,-95.5,29.9,Others,1947
+Texas,-95.5,29.9,Acer rubrum,19
+Texas,-95.5,29.9,Fraxinus pennsylvanica,6
+Texas,-95.5,29.9,Lagerstroemia indica,374
+Texas,-95.5,29.9,Liquidambar styraciflua,12
+Texas,-95.5,29.9,Pyrus calleryana,21
+Texas,-95.5,30.0,Others,135
+Texas,-95.5,30.0,Fraxinus pennsylvanica,4
+Texas,-95.5,30.0,Lagerstroemia indica,41
+Texas,-95.5,30.7,Others,61
+Texas,-95.5,30.7,Lagerstroemia indica,9
+Texas,-95.5,31.3,Others,253
+Texas,-95.5,31.3,Fraxinus pennsylvanica,1
+Texas,-95.5,31.3,Lagerstroemia indica,70
+Texas,-95.5,31.3,Liquidambar styraciflua,2
+Texas,-95.5,31.4,Others,7
+Texas,-95.5,31.5,Others,98
+Texas,-95.5,31.5,Lagerstroemia indica,105
+Texas,-95.5,31.5,Pyrus calleryana,7
+Texas,-95.4,29.6,Others,720
+Texas,-95.4,29.6,Fraxinus pennsylvanica,4
+Texas,-95.4,29.6,Lagerstroemia indica,164
+Texas,-95.4,29.6,Liquidambar styraciflua,3
+Texas,-95.4,29.6,Pyrus calleryana,53
+Texas,-95.4,29.7,Others,39872
+Texas,-95.4,29.7,Acer rubrum,180
+Texas,-95.4,29.7,Fraxinus pennsylvanica,138
+Texas,-95.4,29.7,Gleditsia triacanthos,13
+Texas,-95.4,29.7,Lagerstroemia indica,9863
+Texas,-95.4,29.7,Liquidambar styraciflua,182
+Texas,-95.4,29.7,Prunus,1
+Texas,-95.4,29.7,Pyrus calleryana,559
+Texas,-95.4,29.8,Others,39804
+Texas,-95.4,29.8,Acer rubrum,345
+Texas,-95.4,29.8,Fraxinus pennsylvanica,490
+Texas,-95.4,29.8,Gleditsia triacanthos,20
+Texas,-95.4,29.8,Lagerstroemia indica,11972
+Texas,-95.4,29.8,Liquidambar styraciflua,457
+Texas,-95.4,29.8,Pyrus calleryana,679
+Texas,-95.4,29.9,Others,620
+Texas,-95.4,29.9,Acer rubrum,5
+Texas,-95.4,29.9,Lagerstroemia indica,118
+Texas,-95.4,29.9,Liquidambar styraciflua,2
+Texas,-95.4,29.9,Pyrus calleryana,3
+Texas,-95.4,30.0,Others,346
+Texas,-95.4,30.0,Fraxinus pennsylvanica,2
+Texas,-95.4,30.0,Lagerstroemia indica,98
+Texas,-95.4,30.0,Liquidambar styraciflua,1
+Texas,-95.4,30.0,Pyrus calleryana,2
+Texas,-95.4,30.1,Others,25
+Texas,-95.4,30.1,Lagerstroemia indica,15
+Texas,-95.4,31.3,Acer rubrum,1
+Texas,-95.4,31.3,Others,412
+Texas,-95.4,31.3,Lagerstroemia indica,47
+Texas,-95.4,31.3,Liquidambar styraciflua,2
+Texas,-95.4,31.3,Pyrus calleryana,1
+Texas,-95.4,31.4,Others,7
+Texas,-95.3,29.6,Acer rubrum,1
+Texas,-95.3,29.6,Others,118
+Texas,-95.3,29.6,Fraxinus pennsylvanica,1
+Texas,-95.3,29.6,Lagerstroemia indica,63
+Texas,-95.3,29.6,Liquidambar styraciflua,1
+Texas,-95.3,29.6,Pyrus calleryana,5
+Texas,-95.3,29.7,Others,14239
+Texas,-95.3,29.7,Acer rubrum,67
+Texas,-95.3,29.7,Fraxinus pennsylvanica,232
+Texas,-95.3,29.7,Gleditsia triacanthos,2
+Texas,-95.3,29.7,Lagerstroemia indica,4703
+Texas,-95.3,29.7,Liquidambar styraciflua,72
+Texas,-95.3,29.7,Pyrus calleryana,167
+Texas,-95.3,29.8,Others,9226
+Texas,-95.3,29.8,Acer rubrum,24
+Texas,-95.3,29.8,Fraxinus pennsylvanica,67
+Texas,-95.3,29.8,Gleditsia triacanthos,11
+Texas,-95.3,29.8,Lagerstroemia indica,2370
+Texas,-95.3,29.8,Liquidambar styraciflua,103
+Texas,-95.3,29.8,Pyrus calleryana,211
+Texas,-95.3,29.9,Others,251
+Texas,-95.3,29.9,Fraxinus pennsylvanica,1
+Texas,-95.3,29.9,Lagerstroemia indica,20
+Texas,-95.3,30.0,Others,245
+Texas,-95.3,30.0,Fraxinus pennsylvanica,6
+Texas,-95.3,30.0,Lagerstroemia indica,42
+Texas,-95.3,30.0,Pyrus calleryana,3
+Texas,-95.3,31.1,Others,117
+Texas,-95.3,31.1,Fraxinus pennsylvanica,1
+Texas,-95.3,31.1,Lagerstroemia indica,11
+Texas,-95.3,31.3,Others,120
+Texas,-95.3,31.3,Lagerstroemia indica,65
+Texas,-95.3,31.3,Liquidambar styraciflua,2
+Texas,-95.3,31.3,Pyrus calleryana,1
+Texas,-95.3,31.5,Others,49
+Texas,-95.3,31.5,Lagerstroemia indica,36
+Texas,-95.2,29.5,Others,25
+Texas,-95.2,29.5,Fraxinus pennsylvanica,9
+Texas,-95.2,29.5,Lagerstroemia indica,1
+Texas,-95.2,29.6,Others,514
+Texas,-95.2,29.6,Fraxinus pennsylvanica,11
+Texas,-95.2,29.6,Gleditsia triacanthos,3
+Texas,-95.2,29.6,Lagerstroemia indica,176
+Texas,-95.2,29.6,Liquidambar styraciflua,1
+Texas,-95.2,29.6,Pyrus calleryana,14
+Texas,-95.2,29.7,Others,20
+Texas,-95.2,29.7,Fraxinus pennsylvanica,2
+Texas,-95.2,29.7,Lagerstroemia indica,11
+Texas,-95.2,29.7,Liquidambar styraciflua,1
+Texas,-95.2,29.8,Others,405
+Texas,-95.2,29.8,Fraxinus pennsylvanica,3
+Texas,-95.2,29.8,Lagerstroemia indica,76
+Texas,-95.2,29.8,Liquidambar styraciflua,1
+Texas,-95.2,29.8,Pyrus calleryana,5
+Texas,-95.2,29.9,Others,9
+Texas,-95.2,30.0,Acer rubrum,3
+Texas,-95.2,30.0,Others,218
+Texas,-95.2,30.0,Fraxinus pennsylvanica,1
+Texas,-95.2,30.0,Lagerstroemia indica,69
+Texas,-95.2,30.0,Pyrus calleryana,25
+Texas,-95.2,30.1,Acer rubrum,1
+Texas,-95.2,30.1,Others,398
+Texas,-95.2,30.1,Fraxinus pennsylvanica,2
+Texas,-95.2,30.1,Lagerstroemia indica,69
+Texas,-95.2,30.1,Liquidambar styraciflua,3
+Texas,-95.2,30.1,Pyrus calleryana,3
+Texas,-95.2,31.4,Others,28
+Texas,-95.2,31.4,Lagerstroemia indica,9
+Texas,-95.1,29.5,Others,34
+Texas,-95.1,29.5,Lagerstroemia indica,8
+Texas,-95.1,29.6,Acer rubrum,1
+Texas,-95.1,29.6,Others,51
+Texas,-95.1,29.6,Fraxinus pennsylvanica,4
+Texas,-95.1,29.6,Lagerstroemia indica,2
+Texas,-95.1,29.9,Acer rubrum,2
+Texas,-95.1,29.9,Others,580
+Texas,-95.1,29.9,Fraxinus pennsylvanica,6
+Texas,-95.1,29.9,Lagerstroemia indica,140
+Texas,-95.1,29.9,Liquidambar styraciflua,1
+Texas,-95.1,29.9,Pyrus calleryana,22
+Texas,-95.1,30.0,Others,72
+Texas,-95.1,30.0,Liquidambar styraciflua,20
+Texas,-95.1,30.1,Others,100
+Texas,-95.1,30.1,Lagerstroemia indica,4
+Texas,-95.1,30.1,Pyrus calleryana,2
+Texas,-95.1,31.4,Others,139
+Texas,-95.1,31.4,Acer rubrum,1
+Texas,-95.1,31.4,Lagerstroemia indica,33
+Texas,-95.1,31.4,Pyrus calleryana,4
+Texas,-93.8,32.8,Others,8
+Texas,-93.7,32.0,Others,7
+Texas,-93.5,32.1,Others,11
+Texas,-93.4,32.4,Others,489
+Texas,-93.4,32.4,Fraxinus pennsylvanica,2
+Texas,-93.4,32.4,Lagerstroemia indica,149
+Washington,-122.4,47.5,Others,8294
+Washington,-122.4,47.5,Acer platanoides,332
+Washington,-122.4,47.5,Acer rubrum,399
+Washington,-122.4,47.5,Fraxinus pennsylvanica,279
+Washington,-122.4,47.5,Gleditsia triacanthos,35
+Washington,-122.4,47.5,Lagerstroemia indica,14
+Washington,-122.4,47.5,Liquidambar styraciflua,93
+Washington,-122.4,47.5,Platanus acerifolia,2
+Washington,-122.4,47.5,Prunus,697
+Washington,-122.4,47.5,Pyrus calleryana,388
+Washington,-122.4,47.5,Tilia cordata,74
+Washington,-122.4,47.6,Others,18337
+Washington,-122.4,47.6,Acer platanoides,649
+Washington,-122.4,47.6,Acer rubrum,886
+Washington,-122.4,47.6,Fraxinus pennsylvanica,61
+Washington,-122.4,47.6,Gleditsia triacanthos,134
+Washington,-122.4,47.6,Lagerstroemia indica,135
+Washington,-122.4,47.6,Liquidambar styraciflua,478
+Washington,-122.4,47.6,Platanus acerifolia,463
+Washington,-122.4,47.6,Prunus,1706
+Washington,-122.4,47.6,Pyrus calleryana,659
+Washington,-122.4,47.6,Tilia cordata,405
+Washington,-122.4,47.7,Others,26189
+Washington,-122.4,47.7,Acer platanoides,742
+Washington,-122.4,47.7,Acer rubrum,1335
+Washington,-122.4,47.7,Fraxinus pennsylvanica,146
+Washington,-122.4,47.7,Gleditsia triacanthos,228
+Washington,-122.4,47.7,Lagerstroemia indica,69
+Washington,-122.4,47.7,Liquidambar styraciflua,304
+Washington,-122.4,47.7,Platanus acerifolia,146
+Washington,-122.4,47.7,Prunus,1982
+Washington,-122.4,47.7,Pyrus calleryana,930
+Washington,-122.4,47.7,Tilia cordata,246
+Washington,-122.3,47.5,Others,9278
+Washington,-122.3,47.5,Acer platanoides,411
+Washington,-122.3,47.5,Acer rubrum,794
+Washington,-122.3,47.5,Fraxinus pennsylvanica,169
+Washington,-122.3,47.5,Gleditsia triacanthos,13
+Washington,-122.3,47.5,Lagerstroemia indica,60
+Washington,-122.3,47.5,Liquidambar styraciflua,224
+Washington,-122.3,47.5,Platanus acerifolia,26
+Washington,-122.3,47.5,Prunus,608
+Washington,-122.3,47.5,Pyrus calleryana,297
+Washington,-122.3,47.5,Tilia cordata,189
+Washington,-122.3,47.6,Others,34075
+Washington,-122.3,47.6,Acer platanoides,3161
+Washington,-122.3,47.6,Acer rubrum,3025
+Washington,-122.3,47.6,Fraxinus pennsylvanica,604
+Washington,-122.3,47.6,Gleditsia triacanthos,707
+Washington,-122.3,47.6,Lagerstroemia indica,72
+Washington,-122.3,47.6,Liquidambar styraciflua,1520
+Washington,-122.3,47.6,Platanus acerifolia,1013
+Washington,-122.3,47.6,Prunus,1815
+Washington,-122.3,47.6,Pyrus calleryana,1329
+Washington,-122.3,47.6,Tilia cordata,900
+Washington,-122.3,47.7,Others,29646
+Washington,-122.3,47.7,Acer platanoides,1009
+Washington,-122.3,47.7,Acer rubrum,1102
+Washington,-122.3,47.7,Fraxinus pennsylvanica,565
+Washington,-122.3,47.7,Gleditsia triacanthos,287
+Washington,-122.3,47.7,Lagerstroemia indica,56
+Washington,-122.3,47.7,Liquidambar styraciflua,757
+Washington,-122.3,47.7,Platanus acerifolia,119
+Washington,-122.3,47.7,Prunus,2041
+Washington,-122.3,47.7,Pyrus calleryana,858
+Washington,-122.3,47.7,Tilia cordata,904
+Washington,-122.2,47.5,Others,376
+Washington,-122.2,47.5,Acer rubrum,2
+Washington,-122.2,47.5,Fraxinus pennsylvanica,11
+Washington,-122.2,47.5,Liquidambar styraciflua,1
+Washington,-122.2,47.5,Prunus,36
+Washington,-122.2,47.5,Pyrus calleryana,6
+Wisconsin,-89.6,43.0,Others,365
+Wisconsin,-89.6,43.0,Fraxinus pennsylvanica,41
+Wisconsin,-89.6,43.0,Gleditsia triacanthos,158
+Wisconsin,-89.6,43.1,Others,587
+Wisconsin,-89.6,43.1,Fraxinus pennsylvanica,16
+Wisconsin,-89.6,43.1,Gleditsia triacanthos,161
+Wisconsin,-89.6,43.1,Platanus acerifolia,3
+Wisconsin,-89.6,43.1,Prunus,9
+Wisconsin,-89.5,43.0,Others,7786
+Wisconsin,-89.5,43.0,Acer platanoides,3498
+Wisconsin,-89.5,43.0,Acer rubrum,59
+Wisconsin,-89.5,43.0,Fraxinus pennsylvanica,3167
+Wisconsin,-89.5,43.0,Gleditsia triacanthos,2916
+Wisconsin,-89.5,43.0,Platanus acerifolia,15
+Wisconsin,-89.5,43.0,Prunus,12
+Wisconsin,-89.5,43.0,Tilia cordata,874
+Wisconsin,-89.5,43.1,Others,6162
+Wisconsin,-89.5,43.1,Acer platanoides,4219
+Wisconsin,-89.5,43.1,Acer rubrum,59
+Wisconsin,-89.5,43.1,Fraxinus pennsylvanica,2714
+Wisconsin,-89.5,43.1,Gleditsia triacanthos,2330
+Wisconsin,-89.5,43.1,Platanus acerifolia,14
+Wisconsin,-89.5,43.1,Prunus,20
+Wisconsin,-89.5,43.1,Tilia cordata,937
+Wisconsin,-89.4,43.0,Others,1868
+Wisconsin,-89.4,43.0,Acer platanoides,1468
+Wisconsin,-89.4,43.0,Acer rubrum,9
+Wisconsin,-89.4,43.0,Fraxinus pennsylvanica,1250
+Wisconsin,-89.4,43.0,Gleditsia triacanthos,571
+Wisconsin,-89.4,43.0,Platanus acerifolia,10
+Wisconsin,-89.4,43.0,Prunus,12
+Wisconsin,-89.4,43.0,Tilia cordata,164
+Wisconsin,-89.4,43.1,Others,11037
+Wisconsin,-89.4,43.1,Acer platanoides,5696
+Wisconsin,-89.4,43.1,Acer rubrum,93
+Wisconsin,-89.4,43.1,Fraxinus pennsylvanica,5097
+Wisconsin,-89.4,43.1,Gleditsia triacanthos,3059
+Wisconsin,-89.4,43.1,Liquidambar styraciflua,1
+Wisconsin,-89.4,43.1,Platanus acerifolia,48
+Wisconsin,-89.4,43.1,Prunus,43
+Wisconsin,-89.4,43.1,Tilia cordata,960
+Wisconsin,-89.4,43.2,Others,128
+Wisconsin,-89.4,43.2,Acer platanoides,188
+Wisconsin,-89.4,43.2,Acer rubrum,3
+Wisconsin,-89.4,43.2,Fraxinus pennsylvanica,119
+Wisconsin,-89.4,43.2,Gleditsia triacanthos,85
+Wisconsin,-89.4,43.2,Tilia cordata,47
+Wisconsin,-89.3,43.0,Others,1252
+Wisconsin,-89.3,43.0,Acer platanoides,71
+Wisconsin,-89.3,43.0,Fraxinus pennsylvanica,146
+Wisconsin,-89.3,43.0,Gleditsia triacanthos,237
+Wisconsin,-89.3,43.0,Platanus acerifolia,7
+Wisconsin,-89.3,43.0,Prunus,2
+Wisconsin,-89.3,43.1,Others,9938
+Wisconsin,-89.3,43.1,Acer platanoides,5749
+Wisconsin,-89.3,43.1,Acer rubrum,38
+Wisconsin,-89.3,43.1,Fraxinus pennsylvanica,4795
+Wisconsin,-89.3,43.1,Gleditsia triacanthos,3949
+Wisconsin,-89.3,43.1,Platanus acerifolia,22
+Wisconsin,-89.3,43.1,Prunus,29
+Wisconsin,-89.3,43.1,Tilia cordata,912
+Wisconsin,-89.3,43.2,Others,201
+Wisconsin,-89.3,43.2,Acer platanoides,29
+Wisconsin,-89.3,43.2,Fraxinus pennsylvanica,32
+Wisconsin,-89.3,43.2,Gleditsia triacanthos,70
+Wisconsin,-88.8,43.2,Others,445
+Wisconsin,-88.8,43.2,Acer platanoides,72
+Wisconsin,-88.8,43.2,Acer rubrum,3
+Wisconsin,-88.8,43.2,Fraxinus pennsylvanica,58
+Wisconsin,-88.8,43.2,Gleditsia triacanthos,82
+Wisconsin,-88.8,43.2,Prunus,1
+Wisconsin,-88.8,43.2,Pyrus calleryana,34
+Wisconsin,-88.8,43.2,Tilia cordata,97
+Wisconsin,-88.7,43.2,Others,3206
+Wisconsin,-88.7,43.2,Acer platanoides,904
+Wisconsin,-88.7,43.2,Acer rubrum,38
+Wisconsin,-88.7,43.2,Fraxinus pennsylvanica,201
+Wisconsin,-88.7,43.2,Gleditsia triacanthos,303
+Wisconsin,-88.7,43.2,Liquidambar styraciflua,1
+Wisconsin,-88.7,43.2,Prunus,32
+Wisconsin,-88.7,43.2,Pyrus calleryana,363
+Wisconsin,-88.7,43.2,Tilia cordata,304
+Wisconsin,-88.5,43.1,Others,1
+Wisconsin,-88.2,42.9,Others,24
+Wisconsin,-88.2,42.9,Acer platanoides,3
+Wisconsin,-88.2,42.9,Fraxinus pennsylvanica,1
+Wisconsin,-88.2,43.0,Others,92
+Wisconsin,-88.2,43.0,Acer platanoides,1
+Wisconsin,-88.2,43.0,Fraxinus pennsylvanica,11
+Wisconsin,-88.2,43.0,Gleditsia triacanthos,7
+Wisconsin,-88.1,42.8,Others,1
+Wisconsin,-88.1,42.9,Others,395
+Wisconsin,-88.1,42.9,Acer platanoides,33
+Wisconsin,-88.1,42.9,Fraxinus pennsylvanica,53
+Wisconsin,-88.1,42.9,Gleditsia triacanthos,42
+Wisconsin,-88.1,42.9,Tilia cordata,5
+Wisconsin,-88.1,43.0,Others,4992
+Wisconsin,-88.1,43.0,Acer platanoides,477
+Wisconsin,-88.1,43.0,Acer rubrum,19
+Wisconsin,-88.1,43.0,Fraxinus pennsylvanica,711
+Wisconsin,-88.1,43.0,Gleditsia triacanthos,364
+Wisconsin,-88.1,43.0,Liquidambar styraciflua,1
+Wisconsin,-88.1,43.0,Prunus,4
+Wisconsin,-88.1,43.0,Pyrus calleryana,74
+Wisconsin,-88.1,43.0,Tilia cordata,121
+Wisconsin,-88.1,43.1,Others,183
+Wisconsin,-88.1,43.1,Acer platanoides,34
+Wisconsin,-88.1,43.1,Fraxinus pennsylvanica,48
+Wisconsin,-88.1,43.1,Gleditsia triacanthos,10
+Wisconsin,-88.1,43.2,Acer platanoides,14
+Wisconsin,-88.1,43.2,Acer rubrum,1
+Wisconsin,-88.1,43.2,Others,71
+Wisconsin,-88.1,43.2,Fraxinus pennsylvanica,9
+Wisconsin,-88.1,43.2,Gleditsia triacanthos,7
+Wisconsin,-88.1,43.2,Tilia cordata,6
+Wisconsin,-88.0,42.9,Others,680
+Wisconsin,-88.0,42.9,Acer platanoides,28
+Wisconsin,-88.0,42.9,Acer rubrum,13
+Wisconsin,-88.0,42.9,Fraxinus pennsylvanica,58
+Wisconsin,-88.0,42.9,Gleditsia triacanthos,35
+Wisconsin,-88.0,42.9,Prunus,3
+Wisconsin,-88.0,42.9,Pyrus calleryana,5
+Wisconsin,-88.0,42.9,Tilia cordata,15
+Wisconsin,-88.0,43.0,Others,2088
+Wisconsin,-88.0,43.0,Acer platanoides,250
+Wisconsin,-88.0,43.0,Acer rubrum,6
+Wisconsin,-88.0,43.0,Fraxinus pennsylvanica,279
+Wisconsin,-88.0,43.0,Gleditsia triacanthos,447
+Wisconsin,-88.0,43.0,Prunus,4
+Wisconsin,-88.0,43.0,Pyrus calleryana,9
+Wisconsin,-88.0,43.0,Tilia cordata,62
+Wisconsin,-88.0,43.1,Others,2222
+Wisconsin,-88.0,43.1,Acer platanoides,331
+Wisconsin,-88.0,43.1,Acer rubrum,10
+Wisconsin,-88.0,43.1,Fraxinus pennsylvanica,496
+Wisconsin,-88.0,43.1,Gleditsia triacanthos,462
+Wisconsin,-88.0,43.1,Prunus,2
+Wisconsin,-88.0,43.1,Pyrus calleryana,1
+Wisconsin,-88.0,43.1,Tilia cordata,40
+Wisconsin,-88.0,43.2,Others,977
+Wisconsin,-88.0,43.2,Acer platanoides,65
+Wisconsin,-88.0,43.2,Acer rubrum,7
+Wisconsin,-88.0,43.2,Fraxinus pennsylvanica,286
+Wisconsin,-88.0,43.2,Gleditsia triacanthos,56
+Wisconsin,-88.0,43.2,Tilia cordata,3
+Wisconsin,-88.0,43.3,Others,2
+Wisconsin,-87.9,42.9,Others,430
+Wisconsin,-87.9,42.9,Acer platanoides,19
+Wisconsin,-87.9,42.9,Acer rubrum,4
+Wisconsin,-87.9,42.9,Fraxinus pennsylvanica,35
+Wisconsin,-87.9,42.9,Gleditsia triacanthos,56
+Wisconsin,-87.9,42.9,Prunus,1
+Wisconsin,-87.9,42.9,Tilia cordata,6
+Wisconsin,-87.9,43.0,Others,1905
+Wisconsin,-87.9,43.0,Acer platanoides,249
+Wisconsin,-87.9,43.0,Acer rubrum,8
+Wisconsin,-87.9,43.0,Fraxinus pennsylvanica,235
+Wisconsin,-87.9,43.0,Gleditsia triacanthos,443
+Wisconsin,-87.9,43.0,Prunus,16
+Wisconsin,-87.9,43.0,Pyrus calleryana,3
+Wisconsin,-87.9,43.0,Tilia cordata,153
+Wisconsin,-87.9,43.1,Others,2433
+Wisconsin,-87.9,43.1,Acer platanoides,373
+Wisconsin,-87.9,43.1,Acer rubrum,23
+Wisconsin,-87.9,43.1,Fraxinus pennsylvanica,559
+Wisconsin,-87.9,43.1,Gleditsia triacanthos,402
+Wisconsin,-87.9,43.1,Prunus,5
+Wisconsin,-87.9,43.1,Pyrus calleryana,27
+Wisconsin,-87.9,43.1,Tilia cordata,47
+Wisconsin,-87.9,43.2,Others,737
+Wisconsin,-87.9,43.2,Acer platanoides,26
+Wisconsin,-87.9,43.2,Acer rubrum,1
+Wisconsin,-87.9,43.2,Fraxinus pennsylvanica,356
+Wisconsin,-87.9,43.2,Gleditsia triacanthos,3
+Wisconsin,-87.8,42.9,Others,403
+Wisconsin,-87.8,42.9,Acer platanoides,15
+Wisconsin,-87.8,42.9,Fraxinus pennsylvanica,23
+Wisconsin,-87.8,42.9,Gleditsia triacanthos,41
+Wisconsin,-87.8,42.9,Tilia cordata,2
+Wisconsin,-87.8,43.0,Others,91
+Wisconsin,-87.8,43.0,Acer platanoides,11
+Wisconsin,-87.8,43.0,Fraxinus pennsylvanica,6
+Wisconsin,-87.8,43.0,Gleditsia triacanthos,18

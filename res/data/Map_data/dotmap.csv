@@ -1,0 +1,597 @@
+state,longitude,latitude,count
+California,-122.8,38.5,95
+California,-122.7,38.5,1118
+California,-122.5,37.7,20672
+California,-122.5,37.8,26481
+California,-122.4,37.5,1
+California,-122.4,37.7,42805
+California,-122.4,37.8,83729
+California,-122.3,37.8,13139
+California,-122.3,37.9,580
+California,-122.2,37.7,1770
+California,-122.2,37.8,18458
+California,-122.2,37.9,230
+California,-122.1,37.7,366
+California,-122.1,37.8,315
+California,-122.0,37.2,26
+California,-122.0,37.3,22796
+California,-122.0,37.4,1407
+California,-121.9,37.2,23090
+California,-121.9,37.3,82637
+California,-121.9,37.4,30831
+California,-121.9,37.5,1
+California,-121.8,37.2,23486
+California,-121.8,37.3,66314
+California,-121.8,37.4,12065
+California,-121.7,37.2,382
+California,-121.7,37.3,1770
+California,-121.6,38.2,127
+California,-121.6,38.4,12
+California,-121.6,38.5,206
+California,-121.6,38.6,77
+California,-121.6,38.7,176
+California,-121.5,38.4,650
+California,-121.5,38.5,13987
+California,-121.5,38.6,38347
+California,-121.5,38.7,9537
+California,-121.4,37.9,11
+California,-121.4,38.0,5938
+California,-121.4,38.1,2709
+California,-121.4,38.3,350
+California,-121.4,38.4,1883
+California,-121.4,38.5,7223
+California,-121.4,38.6,10334
+California,-121.4,38.7,409
+California,-121.3,37.9,10167
+California,-121.3,38.0,49532
+California,-121.3,38.1,1362
+California,-121.3,38.2,147
+California,-121.3,38.3,148
+California,-121.3,38.6,20
+California,-121.2,37.9,1176
+California,-121.2,38.0,386
+California,-121.2,38.7,353
+California,-121.0,35.5,123
+California,-120.8,35.3,24
+California,-120.7,35.3,32
+California,-120.6,35.1,44
+California,-120.6,35.4,729
+California,-120.5,34.9,14
+California,-120.5,35.4,2803
+California,-120.4,34.9,5283
+California,-120.4,35.3,247
+California,-120.4,36.1,2
+California,-120.3,35.3,131
+California,-120.3,35.4,22
+California,-120.2,35.4,6
+California,-120.0,35.3,182
+California,-120.0,35.4,122
+California,-119.9,35.3,398
+California,-119.9,36.3,49
+California,-119.8,36.3,13
+California,-119.7,36.3,87
+California,-119.6,36.3,853
+California,-119.5,35.4,34
+California,-119.5,36.1,4
+California,-119.3,35.6,8
+California,-119.3,36.3,2
+California,-118.8,34.2,21
+California,-118.7,34.2,301
+California,-118.7,35.9,211
+California,-118.6,34.0,1104
+California,-118.6,34.1,2200
+California,-118.6,34.2,29600
+California,-118.6,34.3,6766
+California,-118.6,34.5,757
+California,-118.6,35.1,11
+California,-118.6,35.9,425
+California,-118.5,34.0,13132
+California,-118.5,34.1,19801
+California,-118.5,34.2,33708
+California,-118.5,34.3,21811
+California,-118.5,35.4,10
+California,-118.4,33.9,199
+California,-118.4,34.0,34885
+California,-118.4,34.1,46273
+California,-118.4,34.2,58731
+California,-118.4,34.3,10020
+California,-118.3,33.7,2761
+California,-118.3,33.8,5600
+California,-118.3,33.9,1489
+California,-118.3,34.0,19115
+California,-118.3,34.1,42626
+California,-118.3,34.2,1774
+California,-118.3,34.3,4120
+California,-118.3,35.3,3214
+California,-118.2,33.8,209
+California,-118.2,33.9,416
+California,-118.2,34.0,3364
+California,-118.2,34.1,32809
+California,-118.2,35.7,3
+California,-118.1,33.7,2486
+California,-118.1,34.7,12
+California,-118.0,33.6,1910
+California,-118.0,33.7,49032
+California,-118.0,33.8,27301
+California,-118.0,33.9,1188
+California,-118.0,35.1,3552
+California,-117.9,33.7,1468
+California,-117.9,33.8,45674
+California,-117.9,33.9,4025
+California,-117.9,35.1,251
+California,-117.9,35.2,10
+California,-117.8,33.8,2743
+California,-117.8,33.9,8245
+California,-117.8,35.2,491
+California,-117.7,33.8,314
+California,-117.7,33.9,874
+California,-117.7,34.0,5718
+California,-117.7,34.1,13885
+California,-117.6,33.9,3
+California,-117.6,34.0,14418
+California,-117.6,34.1,65454
+California,-117.6,34.2,6380
+California,-117.6,35.4,42
+California,-117.5,34.0,1121
+California,-117.5,34.1,26256
+California,-117.5,34.2,4225
+California,-117.4,34.2,5
+California,-117.3,32.7,1665
+California,-117.3,32.8,9989
+California,-117.3,32.9,1097
+California,-117.3,33.0,293
+California,-117.2,32.7,20441
+California,-117.2,32.8,32032
+California,-117.2,32.9,20641
+California,-117.2,33.0,6603
+California,-117.1,32.5,658
+California,-117.1,32.6,6721
+California,-117.1,32.7,29712
+California,-117.1,32.8,31274
+California,-117.1,32.9,18156
+California,-117.1,33.0,15802
+California,-117.1,33.1,121
+California,-117.0,32.5,610
+California,-117.0,32.6,5759
+California,-117.0,32.7,4991
+California,-117.0,32.8,4014
+California,-117.0,33.0,276
+California,-117.0,33.1,19
+California,-116.9,32.6,1455
+California,-116.0,34.8,2
+Colorado,-105.6,39.7,46
+Colorado,-105.4,39.7,516
+Colorado,-105.3,39.5,1
+Colorado,-105.3,39.6,779
+Colorado,-105.3,39.7,1573
+Colorado,-105.2,39.7,744
+Colorado,-105.1,39.6,3504
+Colorado,-105.1,39.7,3004
+Colorado,-105.1,39.8,2879
+Colorado,-105.0,39.6,1180
+Colorado,-105.0,39.7,92104
+Colorado,-105.0,39.8,45364
+Colorado,-104.9,38.8,406
+Colorado,-104.9,38.9,582
+Colorado,-104.9,39.0,32
+Colorado,-104.9,39.5,63
+Colorado,-104.9,39.6,5749
+Colorado,-104.9,39.7,82101
+Colorado,-104.9,39.8,32430
+Colorado,-104.8,38.8,4119
+Colorado,-104.8,38.9,6626
+Colorado,-104.8,39.0,195
+Colorado,-104.8,39.6,6873
+Colorado,-104.8,39.7,33229
+Colorado,-104.8,39.8,20587
+Colorado,-104.7,38.8,1902
+Colorado,-104.7,38.9,935
+Colorado,-104.7,39.0,111
+Colorado,-104.7,39.6,1339
+Colorado,-104.7,39.7,706
+Colorado,-104.7,39.8,5165
+Colorado,-104.7,39.9,26
+Colorado,-104.6,39.8,1
+Colorado,-104.6,39.9,5
+District of Columbia,-77.1,38.9,27212
+District of Columbia,-77.1,39.0,11527
+District of Columbia,-77.0,38.8,10164
+District of Columbia,-77.0,38.9,90963
+District of Columbia,-77.0,39.0,19483
+District of Columbia,-76.9,38.9,16497
+Florida,-82.5,27.9,4183
+Florida,-82.5,28.0,3142
+Florida,-82.5,28.1,26
+Florida,-82.4,27.9,13
+Florida,-82.4,28.0,1408
+Florida,-82.4,28.1,16281
+Florida,-82.3,28.0,12
+Florida,-82.3,28.1,2
+Florida,-82.3,28.2,1
+Florida,-82.1,26.6,159
+Florida,-82.1,26.7,52
+Florida,-82.0,26.5,1947
+Florida,-82.0,26.6,17735
+Florida,-82.0,26.7,4545
+Florida,-81.9,26.6,5069
+Florida,-81.9,26.7,2673
+Georgia,-84.6,33.8,1
+Georgia,-84.6,33.9,38
+Georgia,-84.6,34.0,39
+Georgia,-84.5,33.6,66
+Georgia,-84.5,33.7,1775
+Georgia,-84.5,33.8,1770
+Georgia,-84.5,33.9,5
+Georgia,-84.4,33.6,60
+Georgia,-84.4,33.7,12116
+Georgia,-84.4,33.8,14609
+Georgia,-84.4,33.9,567
+Georgia,-84.4,34.0,1
+Georgia,-84.3,33.5,1
+Georgia,-84.3,33.7,1573
+Georgia,-84.3,33.8,6619
+Georgia,-84.3,33.9,1564
+Georgia,-84.3,34.0,47
+Georgia,-84.2,33.7,19
+Georgia,-84.2,33.8,305
+Hawaii,-158.0,21.4,43
+Hawaii,-157.9,21.3,1362
+Hawaii,-157.9,21.4,1
+Hawaii,-157.8,21.3,6224
+Hawaii,-157.8,21.4,3122
+Hawaii,-157.7,21.4,4393
+Iowa,-94.7,41.5,33
+Iowa,-94.7,41.9,670
+Iowa,-94.6,41.5,286
+Iowa,-94.6,41.8,9
+Iowa,-94.6,41.9,55
+Iowa,-94.5,41.7,228
+Iowa,-94.4,41.7,219
+Iowa,-94.3,41.5,448
+Iowa,-94.2,41.5,193
+Iowa,-94.2,41.6,145
+Iowa,-94.1,41.5,550
+Iowa,-94.0,41.5,208
+Iowa,-94.0,41.6,544
+Iowa,-94.0,41.7,819
+Iowa,-94.0,41.8,13
+Iowa,-94.0,41.9,145
+Iowa,-93.9,41.6,1287
+Iowa,-93.9,41.8,7
+Iowa,-93.9,41.9,501
+Iowa,-93.8,41.6,659
+Iowa,-93.8,41.8,217
+Iowa,-93.7,41.6,379
+Iowa,-93.7,41.8,118
+Iowa,-93.6,41.6,23
+Iowa,-93.5,41.5,521
+Iowa,-93.5,41.6,1404
+Iowa,-93.5,41.7,325
+Iowa,-93.5,41.8,115
+Iowa,-93.4,41.3,326
+Iowa,-93.4,41.5,90
+Iowa,-93.4,41.7,424
+Iowa,-93.3,41.7,84
+Iowa,-93.2,41.6,312
+Iowa,-93.2,41.7,193
+Iowa,-93.2,41.8,170
+Iowa,-93.1,41.5,398
+Iowa,-93.1,41.7,2277
+Iowa,-93.1,41.8,97
+Iowa,-93.1,42.2,165
+Iowa,-93.0,41.7,840
+Iowa,-92.9,41.7,117
+Iowa,-92.8,41.6,159
+Iowa,-92.8,41.7,32
+Kansas,-101.4,38.9,34
+Kansas,-100.5,39.1,96
+Kansas,-100.4,39.1,14
+Kansas,-94.9,39.0,706
+Kansas,-94.8,38.9,204
+Kansas,-94.8,39.0,915
+Kansas,-94.7,38.8,3065
+Kansas,-94.7,38.9,27035
+Kansas,-94.7,39.0,6910
+Kansas,-94.6,38.8,1509
+Kansas,-94.6,38.9,3330
+Kansas,-94.6,39.0,949
+Kentucky,-85.9,38.0,4
+Kentucky,-85.9,38.1,1717
+Kentucky,-85.9,38.2,299
+Kentucky,-85.8,38.1,582
+Kentucky,-85.8,38.2,8281
+Kentucky,-85.8,38.3,4243
+Kentucky,-85.7,38.1,292
+Kentucky,-85.7,38.2,9893
+Kentucky,-85.7,38.3,2969
+Kentucky,-85.6,38.1,793
+Kentucky,-85.6,38.2,1902
+Kentucky,-85.6,38.3,406
+Kentucky,-85.6,38.4,160
+Kentucky,-85.5,38.2,47
+Kentucky,-85.5,38.3,138
+Kentucky,-85.4,38.3,985
+Maryland,-76.7,39.3,20218
+Maryland,-76.7,39.4,5627
+Maryland,-76.6,39.2,3819
+Maryland,-76.6,39.3,74815
+Maryland,-76.6,39.4,11228
+Maryland,-76.5,39.2,98
+Maryland,-76.5,39.3,4325
+Maryland,-76.5,39.4,1149
+Michigan,-83.3,42.3,550
+Michigan,-83.3,42.4,1441
+Michigan,-83.2,42.3,1118
+Michigan,-83.2,42.4,6633
+Michigan,-83.1,42.3,3394
+Michigan,-83.1,42.4,4010
+Michigan,-83.0,42.3,442
+Michigan,-83.0,42.4,1777
+Michigan,-82.9,42.4,1010
+Minnesota,-93.5,45.0,835
+Minnesota,-93.4,44.9,1233
+Minnesota,-93.4,45.0,1036
+Minnesota,-93.4,45.1,579
+Minnesota,-93.3,44.8,733
+Minnesota,-93.3,44.9,49685
+Minnesota,-93.3,45.0,62869
+Minnesota,-93.3,45.1,813
+Minnesota,-93.3,45.2,9
+Minnesota,-93.2,44.9,29986
+Minnesota,-93.2,45.0,15695
+Minnesota,-93.2,45.1,133
+Missouri,-93.3,35.8,26
+Missouri,-91.4,38.6,1856
+Missouri,-90.3,38.5,612
+Missouri,-90.3,38.6,34480
+Missouri,-90.3,38.7,7790
+Missouri,-90.2,38.6,29616
+Missouri,-90.2,38.7,9139
+Missouri,-90.2,38.8,14
+Nevada,-115.4,36.2,64
+Nevada,-115.3,36.1,418
+Nevada,-115.3,36.2,11832
+Nevada,-115.3,36.3,5548
+Nevada,-115.2,36.1,1427
+Nevada,-115.2,36.2,6357
+Nevada,-115.2,36.3,652
+Nevada,-115.1,36.1,659
+Nevada,-115.1,36.2,5049
+New Mexico,-106.8,35.0,5
+New Mexico,-106.7,35.0,319
+New Mexico,-106.7,35.1,769
+New Mexico,-106.7,35.2,127
+New Mexico,-106.6,35.1,930
+New Mexico,-106.6,35.2,117
+New Mexico,-106.5,35.1,180
+New Mexico,-106.5,35.2,38
+New York,-78.9,42.8,68
+New York,-78.9,42.9,37134
+New York,-78.9,43.0,4214
+New York,-78.8,42.8,6984
+New York,-78.8,42.9,25463
+New York,-78.8,43.0,2921
+New York,-77.9,42.9,6
+New York,-77.7,43.1,3708
+New York,-77.7,43.2,2062
+New York,-77.7,43.3,387
+New York,-77.6,42.5,16
+New York,-77.6,43.1,15561
+New York,-77.6,43.2,29610
+New York,-77.6,43.3,503
+New York,-77.5,43.1,1412
+New York,-77.5,43.2,1733
+New York,-77.2,42.7,4
+New York,-77.0,42.6,3
+New York,-75.3,42.7,35
+New York,-74.3,40.5,708
+New York,-74.3,41.8,22
+New York,-74.2,40.5,32684
+New York,-74.2,40.6,19284
+New York,-74.1,40.3,28
+New York,-74.1,40.5,1404
+New York,-74.1,40.6,47363
+New York,-74.0,40.6,54589
+New York,-74.0,40.7,58675
+New York,-74.0,40.8,27141
+New York,-73.9,40.6,31549
+New York,-73.9,40.7,91421
+New York,-73.9,40.8,70964
+New York,-73.9,40.9,30122
+New York,-73.8,40.6,7619
+New York,-73.8,40.7,83857
+New York,-73.8,40.8,48487
+New York,-73.8,40.9,9725
+New York,-73.7,40.6,2200
+New York,-73.7,40.7,30391
+New York,-73.7,40.8,7231
+New York,-73.5,42.2,2
+North Carolina,-79.8,36.1,973
+North Carolina,-79.5,36.0,4947
+North Carolina,-79.5,36.1,652
+North Carolina,-79.0,35.9,171
+North Carolina,-79.0,36.0,185
+North Carolina,-79.0,36.1,14
+North Carolina,-78.9,35.9,497
+North Carolina,-78.9,36.0,15014
+North Carolina,-78.9,36.1,133
+Ohio,-83.2,39.9,883
+Ohio,-83.2,40.0,4632
+Ohio,-83.2,40.1,720
+Ohio,-83.1,39.9,9185
+Ohio,-83.1,40.0,7962
+Ohio,-83.1,40.1,15606
+Ohio,-83.1,40.2,77
+Ohio,-83.0,39.8,53
+Ohio,-83.0,39.9,12387
+Ohio,-83.0,40.0,36552
+Ohio,-83.0,40.1,17763
+Ohio,-83.0,40.2,658
+Ohio,-82.9,39.9,8719
+Ohio,-82.9,40.0,8966
+Ohio,-82.9,40.1,7259
+Ohio,-82.9,40.2,28
+Ohio,-82.8,39.9,3514
+Ohio,-82.8,40.0,2866
+Ohio,-82.8,40.1,3045
+Oklahoma,-97.7,35.5,79
+Oklahoma,-97.7,35.6,38
+Oklahoma,-97.6,35.3,182
+Oklahoma,-97.6,35.4,597
+Oklahoma,-97.6,35.5,1609
+Oklahoma,-97.6,35.6,494
+Oklahoma,-97.5,35.4,1280
+Oklahoma,-97.5,35.5,4109
+Oklahoma,-97.5,35.6,58
+Oklahoma,-97.4,35.3,1
+Oklahoma,-97.4,35.4,51
+Oklahoma,-97.4,35.5,56
+Oklahoma,-97.3,35.5,250
+Oklahoma,-97.3,35.6,67
+Oregon,-122.8,45.5,668
+Oregon,-122.8,45.6,4093
+Oregon,-122.7,45.4,1646
+Oregon,-122.7,45.5,43975
+Oregon,-122.7,45.6,37567
+Oregon,-122.6,45.5,89483
+Oregon,-122.6,45.6,18210
+Oregon,-122.5,45.5,18729
+Oregon,-122.5,45.6,2380
+Pennsylvania,-80.1,40.4,528
+Pennsylvania,-80.1,40.5,440
+Pennsylvania,-80.0,40.4,10824
+Pennsylvania,-80.0,40.5,8629
+Pennsylvania,-79.9,40.4,10496
+Pennsylvania,-79.9,40.5,10911
+Rhode Island,-71.5,41.8,1562
+Rhode Island,-71.5,41.9,76
+Rhode Island,-71.4,41.8,19266
+Rhode Island,-71.4,41.9,1423
+South Dakota,-96.8,43.5,16007
+South Dakota,-96.8,43.6,2586
+South Dakota,-96.7,43.5,33278
+South Dakota,-96.7,43.6,7451
+South Dakota,-96.6,43.5,1295
+Tennessee,-86.9,36.2,21
+Tennessee,-86.8,36.1,54
+Tennessee,-86.8,36.2,1964
+Tennessee,-84.1,35.9,183
+Tennessee,-84.0,35.9,1554
+Tennessee,-84.0,36.0,1366
+Tennessee,-83.9,35.9,113
+Tennessee,-83.9,36.0,4980
+Tennessee,-83.9,36.1,21
+Tennessee,-83.8,36.0,154
+Texas,-99.8,30.9,33
+Texas,-98.4,29.5,11
+Texas,-98.1,28.3,1
+Texas,-98.1,29.1,99
+Texas,-97.8,30.3,787
+Texas,-97.8,32.2,19
+Texas,-97.7,30.3,5287
+Texas,-97.7,32.2,38
+Texas,-97.2,32.6,203
+Texas,-97.2,32.7,1728
+Texas,-97.2,32.8,2
+Texas,-97.1,32.6,1154
+Texas,-97.1,32.7,8821
+Texas,-97.1,32.8,2530
+Texas,-97.0,32.7,139
+Texas,-97.0,32.8,96
+Texas,-96.9,29.9,153
+Texas,-96.8,32.8,38
+Texas,-96.6,32.8,431
+Texas,-96.4,32.1,19
+Texas,-96.4,33.5,38
+Texas,-95.8,29.8,278
+Texas,-95.7,29.7,3
+Texas,-95.7,29.8,1036
+Texas,-95.7,29.9,261
+Texas,-95.7,30.0,116
+Texas,-95.6,29.6,289
+Texas,-95.6,29.7,301
+Texas,-95.6,29.8,6313
+Texas,-95.6,29.9,671
+Texas,-95.6,30.0,5
+Texas,-95.6,31.4,21
+Texas,-95.5,29.6,2380
+Texas,-95.5,29.7,23749
+Texas,-95.5,29.8,27938
+Texas,-95.5,29.9,2379
+Texas,-95.5,30.0,180
+Texas,-95.5,30.7,70
+Texas,-95.5,31.3,326
+Texas,-95.5,31.4,7
+Texas,-95.5,31.5,210
+Texas,-95.4,29.6,944
+Texas,-95.4,29.7,50808
+Texas,-95.4,29.8,53767
+Texas,-95.4,29.9,748
+Texas,-95.4,30.0,449
+Texas,-95.4,30.1,40
+Texas,-95.4,31.3,463
+Texas,-95.4,31.4,7
+Texas,-95.3,29.6,189
+Texas,-95.3,29.7,19482
+Texas,-95.3,29.8,12012
+Texas,-95.3,29.9,272
+Texas,-95.3,30.0,296
+Texas,-95.3,31.1,129
+Texas,-95.3,31.3,188
+Texas,-95.3,31.5,85
+Texas,-95.2,29.5,35
+Texas,-95.2,29.6,719
+Texas,-95.2,29.7,34
+Texas,-95.2,29.8,490
+Texas,-95.2,29.9,9
+Texas,-95.2,30.0,316
+Texas,-95.2,30.1,476
+Texas,-95.2,31.4,37
+Texas,-95.1,29.5,42
+Texas,-95.1,29.6,58
+Texas,-95.1,29.9,751
+Texas,-95.1,30.0,92
+Texas,-95.1,30.1,106
+Texas,-95.1,31.4,177
+Texas,-93.8,32.8,8
+Texas,-93.7,32.0,7
+Texas,-93.5,32.1,11
+Texas,-93.4,32.4,640
+Washington,-122.4,47.5,10607
+Washington,-122.4,47.6,23913
+Washington,-122.4,47.7,32317
+Washington,-122.3,47.5,12069
+Washington,-122.3,47.6,48221
+Washington,-122.3,47.7,37344
+Washington,-122.2,47.5,432
+Wisconsin,-89.6,43.0,564
+Wisconsin,-89.6,43.1,776
+Wisconsin,-89.5,43.0,18327
+Wisconsin,-89.5,43.1,16455
+Wisconsin,-89.4,43.0,5352
+Wisconsin,-89.4,43.1,26034
+Wisconsin,-89.4,43.2,570
+Wisconsin,-89.3,43.0,1715
+Wisconsin,-89.3,43.1,25432
+Wisconsin,-89.3,43.2,332
+Wisconsin,-88.8,43.2,792
+Wisconsin,-88.7,43.2,5352
+Wisconsin,-88.5,43.1,1
+Wisconsin,-88.2,42.9,28
+Wisconsin,-88.2,43.0,111
+Wisconsin,-88.1,42.8,1
+Wisconsin,-88.1,42.9,528
+Wisconsin,-88.1,43.0,6763
+Wisconsin,-88.1,43.1,275
+Wisconsin,-88.1,43.2,108
+Wisconsin,-88.0,42.9,837
+Wisconsin,-88.0,43.0,3145
+Wisconsin,-88.0,43.1,3564
+Wisconsin,-88.0,43.2,1394
+Wisconsin,-88.0,43.3,2
+Wisconsin,-87.9,42.9,551
+Wisconsin,-87.9,43.0,3012
+Wisconsin,-87.9,43.1,3869
+Wisconsin,-87.9,43.2,1123
+Wisconsin,-87.8,42.9,484
+Wisconsin,-87.8,43.0,126

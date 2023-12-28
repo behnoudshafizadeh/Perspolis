@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,200&display=swap');
+
+h1,h2,h3,h4,h5 {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+p {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.mainContainer{
+    padding-top: 30px;
+    font-family: 'Roboto Slab', serif;
+    display: flex;
+    justify-content: flex-start;
+    gap: 30px !important;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding-left: 20px; /* Adjust the padding as needed */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+header{
+    color: white;
+    width: 100%;
+    background-color: #3a1d2b;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #3a1d2b !important;
+    align-items: Right;
+
+}
+#description{
+    font-size: medium;
+}
+.StateSelectClass{
+    width: 100%!important;
+} 
+
+.YearSelectClass{
+     width: 100% !important;
+}
+.buttonAlign{
+    text-align: center;
+}
+
+.buttonClass{
+
+    width: 30% !important;
+    padding-left: 30%;
+
+}
+
+#PlotRigidChart{
+    right: 109px !important;
+    position: absolute;
+}
+
+select, button {
+    padding: 5px;
+}
+#loadingDiv{
+    display: none;
+}
+.lineChartContainer {
+    padding-left: 20px; /* Adjust the padding as needed */
+    padding-top: 30px;
+    padding-bottom: 30px;
+    align-content: center; /* This property may not work as expected, consider using align-items or text-align instead */
+}
+.RidgeChartContainer {
+    padding-left: 20px; /* Adjust the padding as needed */
+    padding-top: 30px;
+    padding-bottom: 30px;
+    align-content: center; /* This property may not work as expected, consider using align-items or text-align instead */
+}

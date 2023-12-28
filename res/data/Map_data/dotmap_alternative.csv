@@ -1,0 +1,617 @@
+greater_metro,longitude,latitude,count
+Albuquerque,-106.8,35.0,5
+Albuquerque,-106.7,35.0,319
+Albuquerque,-106.7,35.1,769
+Albuquerque,-106.7,35.2,127
+Albuquerque,-106.6,35.1,930
+Albuquerque,-106.6,35.2,117
+Albuquerque,-106.5,35.1,180
+Albuquerque,-106.5,35.2,38
+Anaheim,-118.0,33.8,16561
+Anaheim,-118.0,33.9,1188
+Anaheim,-117.9,33.7,1
+Anaheim,-117.9,33.8,38363
+Anaheim,-117.9,33.9,4025
+Anaheim,-117.8,33.8,2743
+Anaheim,-117.8,33.9,8245
+Anaheim,-117.7,33.8,314
+Anaheim,-117.7,33.9,874
+Arlington,-97.2,32.6,203
+Arlington,-97.2,32.7,1728
+Arlington,-97.2,32.8,2
+Arlington,-97.1,32.6,1154
+Arlington,-97.1,32.7,8821
+Arlington,-97.1,32.8,2530
+Arlington,-97.0,32.7,139
+Arlington,-97.0,32.8,96
+Atlanta,-84.6,33.8,1
+Atlanta,-84.6,33.9,38
+Atlanta,-84.6,34.0,39
+Atlanta,-84.5,33.6,66
+Atlanta,-84.5,33.7,1775
+Atlanta,-84.5,33.8,1770
+Atlanta,-84.5,33.9,5
+Atlanta,-84.4,33.6,60
+Atlanta,-84.4,33.7,12116
+Atlanta,-84.4,33.8,14609
+Atlanta,-84.4,33.9,567
+Atlanta,-84.4,34.0,1
+Atlanta,-84.3,33.5,1
+Atlanta,-84.3,33.7,1573
+Atlanta,-84.3,33.8,6619
+Atlanta,-84.3,33.9,1564
+Atlanta,-84.3,34.0,47
+Atlanta,-84.2,33.7,19
+Atlanta,-84.2,33.8,305
+Aurora,-104.9,39.7,10481
+Aurora,-104.9,39.8,668
+Aurora,-104.8,39.6,6873
+Aurora,-104.8,39.7,33229
+Aurora,-104.8,39.8,2323
+Aurora,-104.7,39.6,1339
+Aurora,-104.7,39.7,706
+Austin,-97.8,30.3,787
+Austin,-97.7,30.3,5287
+Baltimore,-76.7,39.3,20218
+Baltimore,-76.7,39.4,5627
+Baltimore,-76.6,39.2,3819
+Baltimore,-76.6,39.3,74815
+Baltimore,-76.6,39.4,11228
+Baltimore,-76.5,39.2,98
+Baltimore,-76.5,39.3,4325
+Baltimore,-76.5,39.4,1149
+Buffalo,-78.9,42.8,68
+Buffalo,-78.9,42.9,37134
+Buffalo,-78.9,43.0,4214
+Buffalo,-78.8,42.8,6984
+Buffalo,-78.8,42.9,25463
+Buffalo,-78.8,43.0,2921
+Cape Coral,-82.1,26.6,159
+Cape Coral,-82.1,26.7,52
+Cape Coral,-82.0,26.5,1947
+Cape Coral,-82.0,26.6,17735
+Cape Coral,-82.0,26.7,4545
+Cape Coral,-81.9,26.6,5069
+Cape Coral,-81.9,26.7,2673
+Colorado Springs,-104.9,38.8,406
+Colorado Springs,-104.9,38.9,582
+Colorado Springs,-104.9,39.0,32
+Colorado Springs,-104.8,38.8,4119
+Colorado Springs,-104.8,38.9,6626
+Colorado Springs,-104.8,39.0,195
+Colorado Springs,-104.7,38.8,1902
+Colorado Springs,-104.7,38.9,935
+Colorado Springs,-104.7,39.0,111
+Columbus,-83.2,39.9,883
+Columbus,-83.2,40.0,4632
+Columbus,-83.2,40.1,720
+Columbus,-83.1,39.9,9185
+Columbus,-83.1,40.0,7962
+Columbus,-83.1,40.1,15606
+Columbus,-83.1,40.2,77
+Columbus,-83.0,39.8,53
+Columbus,-83.0,39.9,12387
+Columbus,-83.0,40.0,36552
+Columbus,-83.0,40.1,17763
+Columbus,-83.0,40.2,658
+Columbus,-82.9,39.9,8719
+Columbus,-82.9,40.0,8966
+Columbus,-82.9,40.1,7259
+Columbus,-82.9,40.2,28
+Columbus,-82.8,39.9,3514
+Columbus,-82.8,40.0,2866
+Columbus,-82.8,40.1,3045
+Denver,-105.6,39.7,46
+Denver,-105.4,39.7,516
+Denver,-105.3,39.5,1
+Denver,-105.3,39.6,779
+Denver,-105.3,39.7,1573
+Denver,-105.2,39.7,744
+Denver,-105.1,39.6,3504
+Denver,-105.1,39.7,3004
+Denver,-105.1,39.8,2879
+Denver,-105.0,39.6,1180
+Denver,-105.0,39.7,92104
+Denver,-105.0,39.8,45364
+Denver,-104.9,39.5,63
+Denver,-104.9,39.6,5749
+Denver,-104.9,39.7,71620
+Denver,-104.9,39.8,31762
+Denver,-104.8,39.8,18264
+Denver,-104.7,39.8,5165
+Denver,-104.7,39.9,26
+Denver,-104.6,39.8,1
+Denver,-104.6,39.9,5
+Des Moines,-94.7,41.5,33
+Des Moines,-94.7,41.9,670
+Des Moines,-94.6,41.5,286
+Des Moines,-94.6,41.8,9
+Des Moines,-94.6,41.9,55
+Des Moines,-94.5,41.7,228
+Des Moines,-94.4,41.7,219
+Des Moines,-94.3,41.5,448
+Des Moines,-94.2,41.5,193
+Des Moines,-94.2,41.6,145
+Des Moines,-94.1,41.5,550
+Des Moines,-94.0,41.5,208
+Des Moines,-94.0,41.6,544
+Des Moines,-94.0,41.7,819
+Des Moines,-94.0,41.8,13
+Des Moines,-94.0,41.9,145
+Des Moines,-93.9,41.6,1287
+Des Moines,-93.9,41.8,7
+Des Moines,-93.9,41.9,501
+Des Moines,-93.8,41.6,659
+Des Moines,-93.8,41.8,217
+Des Moines,-93.7,41.6,379
+Des Moines,-93.7,41.8,118
+Des Moines,-93.6,41.6,23
+Des Moines,-93.5,41.5,521
+Des Moines,-93.5,41.6,1404
+Des Moines,-93.5,41.7,325
+Des Moines,-93.5,41.8,115
+Des Moines,-93.4,41.3,326
+Des Moines,-93.4,41.5,90
+Des Moines,-93.4,41.7,424
+Des Moines,-93.3,41.7,84
+Des Moines,-93.2,41.6,312
+Des Moines,-93.2,41.7,193
+Des Moines,-93.2,41.8,170
+Des Moines,-93.1,41.5,398
+Des Moines,-93.1,41.7,2277
+Des Moines,-93.1,41.8,97
+Des Moines,-93.1,42.2,165
+Des Moines,-93.0,41.7,840
+Des Moines,-92.9,41.7,117
+Des Moines,-92.8,41.6,159
+Des Moines,-92.8,41.7,32
+Detroit,-83.3,42.3,550
+Detroit,-83.3,42.4,1441
+Detroit,-83.2,42.3,1118
+Detroit,-83.2,42.4,6633
+Detroit,-83.1,42.3,3394
+Detroit,-83.1,42.4,4010
+Detroit,-83.0,42.3,442
+Detroit,-83.0,42.4,1777
+Detroit,-82.9,42.4,1010
+Durham,-79.0,35.9,171
+Durham,-79.0,36.0,185
+Durham,-79.0,36.1,14
+Durham,-78.9,35.9,497
+Durham,-78.9,36.0,15014
+Durham,-78.9,36.1,133
+Garden Grove,-118.0,33.7,40
+Garden Grove,-118.0,33.8,9846
+Garden Grove,-117.9,33.7,324
+Garden Grove,-117.9,33.8,7311
+Greensboro,-79.8,36.1,973
+Greensboro,-79.5,36.0,4947
+Greensboro,-79.5,36.1,652
+Honolulu,-158.0,21.4,43
+Honolulu,-157.9,21.3,1362
+Honolulu,-157.9,21.4,1
+Honolulu,-157.8,21.3,6224
+Honolulu,-157.8,21.4,3122
+Honolulu,-157.7,21.4,4393
+Houston,-99.8,30.9,33
+Houston,-98.4,29.5,11
+Houston,-98.1,28.3,1
+Houston,-98.1,29.1,99
+Houston,-97.8,32.2,19
+Houston,-97.7,32.2,38
+Houston,-96.9,29.9,153
+Houston,-96.8,32.8,38
+Houston,-96.6,32.8,431
+Houston,-96.4,32.1,19
+Houston,-96.4,33.5,38
+Houston,-95.8,29.8,278
+Houston,-95.7,29.7,3
+Houston,-95.7,29.8,1036
+Houston,-95.7,29.9,261
+Houston,-95.7,30.0,116
+Houston,-95.6,29.6,289
+Houston,-95.6,29.7,301
+Houston,-95.6,29.8,6313
+Houston,-95.6,29.9,671
+Houston,-95.6,30.0,5
+Houston,-95.6,31.4,21
+Houston,-95.5,29.6,2380
+Houston,-95.5,29.7,23749
+Houston,-95.5,29.8,27938
+Houston,-95.5,29.9,2379
+Houston,-95.5,30.0,180
+Houston,-95.5,30.7,70
+Houston,-95.5,31.3,326
+Houston,-95.5,31.4,7
+Houston,-95.5,31.5,210
+Houston,-95.4,29.6,944
+Houston,-95.4,29.7,50808
+Houston,-95.4,29.8,53767
+Houston,-95.4,29.9,748
+Houston,-95.4,30.0,449
+Houston,-95.4,30.1,40
+Houston,-95.4,31.3,463
+Houston,-95.4,31.4,7
+Houston,-95.3,29.6,189
+Houston,-95.3,29.7,19482
+Houston,-95.3,29.8,12012
+Houston,-95.3,29.9,272
+Houston,-95.3,30.0,296
+Houston,-95.3,31.1,129
+Houston,-95.3,31.3,188
+Houston,-95.3,31.5,85
+Houston,-95.2,29.5,35
+Houston,-95.2,29.6,719
+Houston,-95.2,29.7,34
+Houston,-95.2,29.8,490
+Houston,-95.2,29.9,9
+Houston,-95.2,30.0,316
+Houston,-95.2,30.1,476
+Houston,-95.2,31.4,37
+Houston,-95.1,29.5,42
+Houston,-95.1,29.6,58
+Houston,-95.1,29.9,751
+Houston,-95.1,30.0,92
+Houston,-95.1,30.1,106
+Houston,-95.1,31.4,177
+HuntingtonBeach,-118.1,33.7,2486
+HuntingtonBeach,-118.0,33.6,1910
+HuntingtonBeach,-118.0,33.7,48992
+HuntingtonBeach,-118.0,33.8,894
+HuntingtonBeach,-117.9,33.7,1143
+Knoxville,-84.1,35.9,183
+Knoxville,-84.0,35.9,1554
+Knoxville,-84.0,36.0,1366
+Knoxville,-83.9,35.9,113
+Knoxville,-83.9,36.0,4980
+Knoxville,-83.9,36.1,21
+Knoxville,-83.8,36.0,154
+Las Vegas,-115.4,36.2,64
+Las Vegas,-115.3,36.1,418
+Las Vegas,-115.3,36.2,11832
+Las Vegas,-115.3,36.3,5548
+Las Vegas,-115.2,36.1,1427
+Las Vegas,-115.2,36.2,6357
+Las Vegas,-115.2,36.3,652
+Las Vegas,-115.1,36.1,659
+Las Vegas,-115.1,36.2,5049
+Los Angeles,-118.7,34.2,301
+Los Angeles,-118.6,34.0,1104
+Los Angeles,-118.6,34.1,2200
+Los Angeles,-118.6,34.2,29600
+Los Angeles,-118.6,34.3,6766
+Los Angeles,-118.5,34.0,13132
+Los Angeles,-118.5,34.1,19801
+Los Angeles,-118.5,34.2,33700
+Los Angeles,-118.5,34.3,21800
+Los Angeles,-118.4,33.9,199
+Los Angeles,-118.4,34.0,34885
+Los Angeles,-118.4,34.1,46273
+Los Angeles,-118.4,34.2,58731
+Los Angeles,-118.4,34.3,10020
+Los Angeles,-118.3,33.7,2761
+Los Angeles,-118.3,33.8,5600
+Los Angeles,-118.3,33.9,1489
+Los Angeles,-118.3,34.0,19115
+Los Angeles,-118.3,34.1,42474
+Los Angeles,-118.3,34.2,1774
+Los Angeles,-118.3,34.3,4120
+Los Angeles,-118.2,33.8,209
+Los Angeles,-118.2,33.9,416
+Los Angeles,-118.2,34.0,3364
+Los Angeles,-118.2,34.1,32809
+Louisville,-85.9,38.0,4
+Louisville,-85.9,38.1,1717
+Louisville,-85.9,38.2,299
+Louisville,-85.8,38.1,582
+Louisville,-85.8,38.2,8281
+Louisville,-85.8,38.3,4243
+Louisville,-85.7,38.1,292
+Louisville,-85.7,38.2,9893
+Louisville,-85.7,38.3,2969
+Louisville,-85.6,38.1,793
+Louisville,-85.6,38.2,1902
+Louisville,-85.6,38.3,406
+Louisville,-85.6,38.4,160
+Louisville,-85.5,38.2,47
+Louisville,-85.5,38.3,138
+Louisville,-85.4,38.3,985
+Madison,-89.6,43.0,564
+Madison,-89.6,43.1,776
+Madison,-89.5,43.0,18327
+Madison,-89.5,43.1,16455
+Madison,-89.4,43.0,5352
+Madison,-89.4,43.1,26034
+Madison,-89.4,43.2,570
+Madison,-89.3,43.0,1715
+Madison,-89.3,43.1,25432
+Madison,-89.3,43.2,332
+Milwaukee,-88.8,43.2,792
+Milwaukee,-88.7,43.2,5352
+Milwaukee,-88.5,43.1,1
+Milwaukee,-88.2,42.9,28
+Milwaukee,-88.2,43.0,111
+Milwaukee,-88.1,42.8,1
+Milwaukee,-88.1,42.9,528
+Milwaukee,-88.1,43.0,6763
+Milwaukee,-88.1,43.1,275
+Milwaukee,-88.1,43.2,108
+Milwaukee,-88.0,42.9,837
+Milwaukee,-88.0,43.0,3145
+Milwaukee,-88.0,43.1,3564
+Milwaukee,-88.0,43.2,1394
+Milwaukee,-88.0,43.3,2
+Milwaukee,-87.9,42.9,551
+Milwaukee,-87.9,43.0,3012
+Milwaukee,-87.9,43.1,3869
+Milwaukee,-87.9,43.2,1123
+Milwaukee,-87.8,42.9,484
+Milwaukee,-87.8,43.0,126
+Minneapolis,-93.5,45.0,835
+Minneapolis,-93.4,44.9,1233
+Minneapolis,-93.4,45.0,1036
+Minneapolis,-93.4,45.1,579
+Minneapolis,-93.3,44.8,733
+Minneapolis,-93.3,44.9,49685
+Minneapolis,-93.3,45.0,62869
+Minneapolis,-93.3,45.1,813
+Minneapolis,-93.3,45.2,9
+Minneapolis,-93.2,44.9,29986
+Minneapolis,-93.2,45.0,15695
+Minneapolis,-93.2,45.1,133
+Nashville,-86.9,36.2,21
+Nashville,-86.8,36.1,54
+Nashville,-86.8,36.2,1964
+New York City,-74.3,40.5,708
+New York City,-74.2,40.5,32684
+New York City,-74.2,40.6,19284
+New York City,-74.1,40.5,1404
+New York City,-74.1,40.6,47363
+New York City,-74.0,40.6,54589
+New York City,-74.0,40.7,55584
+New York City,-74.0,40.8,27069
+New York City,-73.9,40.6,31549
+New York City,-73.9,40.7,91421
+New York City,-73.9,40.8,70963
+New York City,-73.9,40.9,30041
+New York City,-73.8,40.6,7619
+New York City,-73.8,40.7,83857
+New York City,-73.8,40.8,48487
+New York City,-73.8,40.9,9725
+New York City,-73.7,40.6,2200
+New York City,-73.7,40.7,30391
+New York City,-73.7,40.8,7231
+Oakland,-122.3,37.8,13139
+Oakland,-122.3,37.9,580
+Oakland,-122.2,37.7,1770
+Oakland,-122.2,37.8,18458
+Oakland,-122.2,37.9,230
+Oakland,-122.1,37.7,366
+Oakland,-122.1,37.8,315
+Oakland,-120.4,36.1,2
+Oakland,-117.9,35.2,10
+Oakland,-117.8,35.2,40
+Oklahoma City,-97.7,35.5,79
+Oklahoma City,-97.7,35.6,38
+Oklahoma City,-97.6,35.3,182
+Oklahoma City,-97.6,35.4,597
+Oklahoma City,-97.6,35.5,1609
+Oklahoma City,-97.6,35.6,494
+Oklahoma City,-97.5,35.4,1280
+Oklahoma City,-97.5,35.5,4109
+Oklahoma City,-97.5,35.6,58
+Oklahoma City,-97.4,35.3,1
+Oklahoma City,-97.4,35.4,51
+Oklahoma City,-97.4,35.5,56
+Oklahoma City,-97.3,35.5,250
+Oklahoma City,-97.3,35.6,67
+Ontario,-121.0,35.5,123
+Ontario,-120.6,35.4,416
+Ontario,-119.5,36.1,4
+Ontario,-118.7,35.9,61
+Ontario,-118.6,34.5,757
+Ontario,-118.0,35.1,36
+Ontario,-117.7,34.0,5718
+Ontario,-117.7,34.1,13885
+Ontario,-117.6,33.9,3
+Ontario,-117.6,34.0,14418
+Ontario,-117.6,34.1,20666
+Ontario,-117.5,34.0,1121
+Ontario,-117.5,34.1,1044
+Ontario,-117.5,34.2,2
+Ontario,-117.4,34.2,5
+Ontario,-116.0,34.8,2
+Overland Park,-101.4,38.9,34
+Overland Park,-100.5,39.1,96
+Overland Park,-100.4,39.1,14
+Overland Park,-94.9,39.0,706
+Overland Park,-94.8,38.9,204
+Overland Park,-94.8,39.0,915
+Overland Park,-94.7,38.8,3065
+Overland Park,-94.7,38.9,27035
+Overland Park,-94.7,39.0,6910
+Overland Park,-94.6,38.8,1509
+Overland Park,-94.6,38.9,3330
+Overland Park,-94.6,39.0,949
+Pittsburgh,-80.1,40.4,528
+Pittsburgh,-80.1,40.5,440
+Pittsburgh,-80.0,40.4,10824
+Pittsburgh,-80.0,40.5,8629
+Pittsburgh,-79.9,40.4,10496
+Pittsburgh,-79.9,40.5,10911
+Portland,-122.8,45.5,668
+Portland,-122.8,45.6,4093
+Portland,-122.7,45.4,1646
+Portland,-122.7,45.5,43975
+Portland,-122.7,45.6,37567
+Portland,-122.6,45.5,89483
+Portland,-122.6,45.6,18210
+Portland,-122.5,45.5,18729
+Portland,-122.5,45.6,2380
+Providence,-71.5,41.8,1562
+Providence,-71.5,41.9,76
+Providence,-71.4,41.8,19266
+Providence,-71.4,41.9,1423
+Rancho Cucamonga,-117.6,34.1,44788
+Rancho Cucamonga,-117.6,34.2,6380
+Rancho Cucamonga,-117.5,34.1,25212
+Rancho Cucamonga,-117.5,34.2,4223
+Rochester,-77.9,42.9,6
+Rochester,-77.7,43.1,3708
+Rochester,-77.7,43.2,2062
+Rochester,-77.7,43.3,387
+Rochester,-77.6,42.5,16
+Rochester,-77.6,43.1,15561
+Rochester,-77.6,43.2,29610
+Rochester,-77.6,43.3,503
+Rochester,-77.5,43.1,1412
+Rochester,-77.5,43.2,1733
+Rochester,-77.2,42.7,4
+Rochester,-77.0,42.6,3
+Rochester,-75.3,42.7,35
+Rochester,-74.3,41.8,22
+Rochester,-74.1,40.3,28
+Rochester,-74.0,40.7,3091
+Rochester,-74.0,40.8,72
+Rochester,-73.9,40.8,1
+Rochester,-73.9,40.9,81
+Rochester,-73.5,42.2,2
+Sacramento,-121.6,38.2,127
+Sacramento,-121.6,38.4,12
+Sacramento,-121.6,38.5,206
+Sacramento,-121.6,38.6,77
+Sacramento,-121.6,38.7,176
+Sacramento,-121.5,38.4,650
+Sacramento,-121.5,38.5,13987
+Sacramento,-121.5,38.6,38347
+Sacramento,-121.5,38.7,9537
+Sacramento,-121.4,38.3,350
+Sacramento,-121.4,38.4,1883
+Sacramento,-121.4,38.5,7223
+Sacramento,-121.4,38.6,10334
+Sacramento,-121.4,38.7,409
+Sacramento,-121.3,38.2,147
+Sacramento,-121.3,38.3,148
+Sacramento,-121.3,38.6,20
+Sacramento,-121.2,38.7,353
+Sacramento,-119.9,36.3,49
+Sacramento,-118.7,35.9,40
+Sacramento,-118.6,35.1,11
+San Diego,-117.3,32.7,1665
+San Diego,-117.3,32.8,9989
+San Diego,-117.3,32.9,1097
+San Diego,-117.3,33.0,293
+San Diego,-117.2,32.7,20441
+San Diego,-117.2,32.8,32032
+San Diego,-117.2,32.9,20641
+San Diego,-117.2,33.0,6603
+San Diego,-117.1,32.5,658
+San Diego,-117.1,32.6,6721
+San Diego,-117.1,32.7,29603
+San Diego,-117.1,32.8,31274
+San Diego,-117.1,32.9,18156
+San Diego,-117.1,33.0,15802
+San Diego,-117.1,33.1,121
+San Diego,-117.0,32.5,610
+San Diego,-117.0,32.6,5759
+San Diego,-117.0,32.7,4991
+San Diego,-117.0,32.8,4014
+San Diego,-117.0,33.0,276
+San Diego,-117.0,33.1,19
+San Diego,-116.9,32.6,1455
+San Francisco,-122.5,37.7,20672
+San Francisco,-122.5,37.8,26481
+San Francisco,-122.4,37.5,1
+San Francisco,-122.4,37.7,42805
+San Francisco,-122.4,37.8,83729
+San Jose,-122.0,37.2,26
+San Jose,-122.0,37.3,22796
+San Jose,-122.0,37.4,1407
+San Jose,-121.9,37.2,23090
+San Jose,-121.9,37.3,82637
+San Jose,-121.9,37.4,30831
+San Jose,-121.9,37.5,1
+San Jose,-121.8,37.2,23486
+San Jose,-121.8,37.3,66314
+San Jose,-121.8,37.4,12065
+San Jose,-121.7,37.2,382
+San Jose,-121.7,37.3,1770
+Santa Rosa,-122.8,38.5,95
+Santa Rosa,-122.7,38.5,1118
+Seattle,-122.4,47.5,10607
+Seattle,-122.4,47.6,23913
+Seattle,-122.4,47.7,32317
+Seattle,-122.3,47.5,12069
+Seattle,-122.3,47.6,48221
+Seattle,-122.3,47.7,37344
+Seattle,-122.2,47.5,432
+Sioux Falls,-96.8,43.5,16007
+Sioux Falls,-96.8,43.6,2586
+Sioux Falls,-96.7,43.5,33278
+Sioux Falls,-96.7,43.6,7451
+Sioux Falls,-96.6,43.5,1295
+St. Louis,-91.4,38.6,1856
+St. Louis,-90.3,38.5,612
+St. Louis,-90.3,38.6,34480
+St. Louis,-90.3,38.7,7790
+St. Louis,-90.2,38.6,29616
+St. Louis,-90.2,38.7,9139
+St. Louis,-90.2,38.8,14
+Stockton,-121.4,37.9,11
+Stockton,-121.4,38.0,5938
+Stockton,-121.4,38.1,2709
+Stockton,-121.3,37.9,10167
+Stockton,-121.3,38.0,49532
+Stockton,-121.3,38.1,1362
+Stockton,-121.2,37.9,1176
+Stockton,-121.2,38.0,386
+Stockton,-120.8,35.3,24
+Stockton,-120.7,35.3,32
+Stockton,-120.6,35.1,44
+Stockton,-120.6,35.4,313
+Stockton,-120.5,34.9,14
+Stockton,-120.5,35.4,2803
+Stockton,-120.4,34.9,5283
+Stockton,-120.4,35.3,247
+Stockton,-120.3,35.3,131
+Stockton,-120.3,35.4,22
+Stockton,-120.2,35.4,6
+Stockton,-120.0,35.3,182
+Stockton,-120.0,35.4,122
+Stockton,-119.9,35.3,398
+Stockton,-119.8,36.3,13
+Stockton,-119.7,36.3,87
+Stockton,-119.6,36.3,853
+Stockton,-119.5,35.4,34
+Stockton,-119.3,35.6,8
+Stockton,-119.3,36.3,2
+Stockton,-118.8,34.2,21
+Stockton,-118.7,35.9,110
+Stockton,-118.6,35.9,425
+Stockton,-118.5,34.2,8
+Stockton,-118.5,34.3,11
+Stockton,-118.5,35.4,10
+Stockton,-118.3,34.1,152
+Stockton,-118.3,35.3,3214
+Stockton,-118.2,35.7,3
+Stockton,-118.1,34.7,12
+Stockton,-118.0,35.1,3516
+Stockton,-117.9,35.1,251
+Stockton,-117.8,35.2,451
+Stockton,-117.6,35.4,42
+Stockton,-117.1,32.7,109
+Tampa,-82.5,27.9,4183
+Tampa,-82.5,28.0,3142
+Tampa,-82.5,28.1,26
+Tampa,-82.4,27.9,13
+Tampa,-82.4,28.0,1408
+Tampa,-82.4,28.1,16281
+Tampa,-82.3,28.0,12
+Tampa,-82.3,28.1,2
+Tampa,-82.3,28.2,1
+Washington DC,-77.1,38.9,27212
+Washington DC,-77.1,39.0,11527
+Washington DC,-77.0,38.8,10164
+Washington DC,-77.0,38.9,90963
+Washington DC,-77.0,39.0,19483
+Washington DC,-76.9,38.9,16497
