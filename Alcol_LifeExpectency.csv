@@ -1,25 +1,68 @@
-Alcol,Life_Expectency,Country
-12,81,Austria
-10,82,Australia
-10,74,Bahamas
-13,70,Belarus
-11,81,Belgium
-11,73,Bulgaria
-12,76,Croatia
-10,80,Cyprus
-11,79,Denmark
-10,81,Finland
-12,82,France
-12,81,Germany
-11,74,Hungary
-13,80,Ireland
-13,73,Lithuania
-12,81,Luxembourg
-10,76,Poland
-12,80,Portugal
-11,68,Russian Federation
-12,74,Saint Lucia
-10,75,Slovakia
-11,80,Slovenia
-10,82,Spain
-10,82,Switzerland
+Country	Alcol	Life Expectency
+Angola	5.740666667	49.01875
+Antigua and Barbuda	7.949333333	75.05625
+Argentina	7.966666667	75.15625
+Austria	12.236	81.48125
+Australia	10.15533333	81.8125
+Bahamas	10.27133333	74.2875
+Barbados	8.206666667	74.35625
+Belarus	13.49733333	69.90625
+Belgium	11.04266667	80.68125
+Belize	6.252666667	69.26875
+Brazil	7.213333333	73.38125
+Bulgaria	10.86533333	72.85
+Canada	8.053333333	81.6875
+Chile	6.978	79.45
+Croatia	12.448	76.11875
+Cyprus	10.26066667	79.675
+Denmark	10.708	79.25625
+Dominican Republic	6.030666667	72.34375
+Equatorial Guinea	7.342	55.3125
+Estonia	9.014666667	74.94375
+Finland	9.55266667	80.7125
+France	12.40466667	82.21875
+Gabon	7.877333333	62.24375
+Georgia	5.623333333	73.50625
+Germany	11.62866667	81.175
+Greece	8.803333333	81.21875
+Grenada	8.843333333	73.29375
+Guyana	7.406	65.6375
+Haiti	5.486	59.86875
+Hungary	11.42733333	73.825
+Iceland	7.466	82.44375
+Ireland	12.654	80.15
+Italy	8.266666667	82.1875
+Japan	7.040666667	82.5375
+Kazakhstan	6.641333333	66.7625
+Latvia	8.864	73.73125
+Lithuania	12.63266667	72.80625
+Luxembourg	11.922	80.78125
+Malta	7.13	80.3625
+Mexico	5.114	75.71875
+Netherlands	8.846666667	81.13125
+New Zealand	9.16625	81.3375
+Nigeria	8.646666667	51.35625
+Norway	6.234375	81.79375
+Panama	6.212	76.4875
+Paraguay	5.527333333	73.1125
+Poland	9.99866667	75.65
+Portugal	12.21133333	79.99375
+Romania	8.968666667	74.05
+Russian Federation	11.128	67.7625
+Rwanda	5.636	59.3125
+Saint Kitts and Nevis	8.54	null
+Saint Lucia	11.51133333	73.6
+Saint Vincent and the Grenadines	6.11	73.475
+Serbia	8.682666667	73.95625
+Seychelles	6.201333333	72.375
+Slovakia	10.47333333	74.75
+Slovenia	10.75466667	79.73125
+South Africa	7.588666667	57.5
+Spain	10.024	82.06875
+Sweden	6.926666667	82.51875
+Switzerland	10.338	82.33125
+Thailand	6.131333333	73.08125
+Trinidad and Tobago	6.044666667	71.06875
+Uganda	8.050666667	55.70625
+Ukraine	7.369333333	69.9375
+Uruguay	6.172666667	76.075
