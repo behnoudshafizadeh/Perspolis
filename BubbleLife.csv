@@ -1,4 +1,4 @@
-Country,Continent,lifeExp,pop,gdpPercap
+country,continent,lifeExp,pop,gdpPercap
 Afghanistan,Asia,58.19375,9972259.813,340.0154255
 Algeria,Africa,73.61875,21649827.44,2847.853392
 Angola,Africa,49.01875,10147099.19,1975.143045
