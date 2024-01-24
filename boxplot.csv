@@ -1,467 +1,2891 @@
 country,abbreviation,value
-Türkiye,TUR,66.4
-Türkiye,TUR,64.4
-Türkiye,TUR,63.9
-Türkiye,TUR,63.9
-Türkiye,TUR,65.7
-Türkiye,TUR,63.8
-Türkiye,TUR,61.3
-Türkiye,TUR,51.2
-Türkiye,TUR,41.6
-Türkiye,TUR,41.3
-Türkiye,TUR,45.1
-Türkiye,TUR,41.3
-Türkiye,TUR,39.8
-Türkiye,TUR,39.8
-Türkiye,TUR,41.5
-Bulgaria,BGR,61.3
-Bulgaria,BGR,60.7
-Bulgaria,BGR,44.8
-Bulgaria,BGR,46.2
-Bulgaria,BGR,49.2
-Bulgaria,BGR,49.1
-Bulgaria,BGR,49.3
-Bulgaria,BGR,48.0
-Bulgaria,BGR,40.1
-Bulgaria,BGR,41.3
-Bulgaria,BGR,40.4
-Bulgaria,BGR,38.9
-Bulgaria,BGR,32.8
-Bulgaria,BGR,32.8
-Bulgaria,BGR,32.1
-Latvia,LVA,46.3
-Latvia,LVA,42.2
-Latvia,LVA,35.1
-Latvia,LVA,34.2
-Latvia,LVA,37.9
-Latvia,LVA,38.2
-Latvia,LVA,40.1
-Latvia,LVA,36.2
-Latvia,LVA,35.1
-Latvia,LVA,32.7
-Latvia,LVA,30.9
-Latvia,LVA,28.5
-Latvia,LVA,28.2
-Latvia,LVA,28.4
-Latvia,LVA,27.3
-Latvia,LVA,26.0
-Greece,GRC,32.9
-Greece,GRC,30.9
-Greece,GRC,29.4
-Greece,GRC,29.3
-Greece,GRC,28.3
-Greece,GRC,28.1
-Greece,GRC,27.6
-Greece,GRC,27.7
-Greece,GRC,31.0
-Greece,GRC,34.6
-Greece,GRC,35.7
-Greece,GRC,36.0
-Greece,GRC,35.7
-Greece,GRC,35.6
-Greece,GRC,34.8
-Greece,GRC,31.8
-Greece,GRC,30.0
-Greece,GRC,28.8
-Lithuania,LTU,41.0
-Lithuania,LTU,35.9
-Lithuania,LTU,28.7
-Lithuania,LTU,28.3
-Lithuania,LTU,29.6
-Lithuania,LTU,34.0
-Lithuania,LTU,33.1
-Lithuania,LTU,32.5
-Lithuania,LTU,30.8
-Lithuania,LTU,27.3
-Lithuania,LTU,29.3
-Lithuania,LTU,30.1
-Lithuania,LTU,29.6
-Lithuania,LTU,28.3
-Lithuania,LTU,26.3
-Lithuania,LTU,24.8
-Hungary,HUN,32.1
-Hungary,HUN,31.4
-Hungary,HUN,29.4
-Hungary,HUN,28.2
-Hungary,HUN,29.6
-Hungary,HUN,29.9
-Hungary,HUN,31.5
-Hungary,HUN,33.5
-Hungary,HUN,34.8
-Hungary,HUN,31.8
-Hungary,HUN,28.2
-Hungary,HUN,26.3
-Hungary,HUN,25.6
-Hungary,HUN,19.6
-Hungary,HUN,18.9
-Hungary,HUN,17.8
-Italy,ITA,26.2
-Italy,ITA,25.6
-Italy,ITA,25.9
-Italy,ITA,26.0
-Italy,ITA,25.5
-Italy,ITA,24.9
-Italy,ITA,25.0
-Italy,ITA,28.1
-Italy,ITA,29.9
-Italy,ITA,28.5
-Italy,ITA,28.3
-Italy,ITA,28.7
-Italy,ITA,30.0
-Italy,ITA,28.9
-Italy,ITA,27.3
-Italy,ITA,25.6
-Italy,ITA,25.3
-Poland,POL,45.3
-Poland,POL,39.5
-Poland,POL,34.4
-Poland,POL,30.5
-Poland,POL,27.8
-Poland,POL,27.8
-Poland,POL,27.2
-Poland,POL,26.7
-Poland,POL,25.8
-Poland,POL,24.7
-Poland,POL,23.4
-Poland,POL,21.9
-Poland,POL,19.5
-Poland,POL,18.9
-Poland,POL,18.2
-Poland,POL,17.3
-Spain,ESP,25.0
-Spain,ESP,24.3
-Spain,ESP,24.0
-Spain,ESP,23.3
-Spain,ESP,23.8
-Spain,ESP,24.7
-Spain,ESP,26.1
-Spain,ESP,26.7
-Spain,ESP,27.2
-Spain,ESP,27.3
-Spain,ESP,29.2
-Spain,ESP,28.6
-Spain,ESP,27.9
-Spain,ESP,26.6
-Spain,ESP,26.1
-Spain,ESP,25.3
-Spain,ESP,26.4
-Cyprus,CYP,25.3
-Cyprus,CYP,25.4
-Cyprus,CYP,25.2
-Cyprus,CYP,23.3
-Cyprus,CYP,23.5
-Cyprus,CYP,24.6
-Cyprus,CYP,24.6
-Cyprus,CYP,27.1
-Cyprus,CYP,27.8
-Cyprus,CYP,27.4
-Cyprus,CYP,28.9
-Cyprus,CYP,27.7
-Cyprus,CYP,25.2
-Cyprus,CYP,23.9
-Cyprus,CYP,22.3
-Cyprus,CYP,21.3
-Ireland,IRL,24.4
-Ireland,IRL,24.8
-Ireland,IRL,25.0
-Ireland,IRL,23.3
-Ireland,IRL,23.1
-Ireland,IRL,23.7
-Ireland,IRL,25.7
-Ireland,IRL,27.3
-Ireland,IRL,30.9
-Ireland,IRL,30.1
-Ireland,IRL,29.9
-Ireland,IRL,28.3
-Ireland,IRL,26.2
-Ireland,IRL,24.4
-Ireland,IRL,22.7
-Ireland,IRL,21.1
-Ireland,IRL,20.6
-Ireland,IRL,20.1
-Portugal,PRT,27.5
-Portugal,PRT,26.1
-Portugal,PRT,25.0
-Portugal,PRT,25.0
-Portugal,PRT,26.0
-Portugal,PRT,24.9
-Portugal,PRT,25.3
-Portugal,PRT,24.4
-Portugal,PRT,25.3
-Portugal,PRT,27.5
-Portugal,PRT,27.5
-Portugal,PRT,26.6
-Portugal,PRT,25.1
-Portugal,PRT,23.3
-Portugal,PRT,21.6
-Portugal,PRT,21.6
-Portugal,PRT,19.8
-Estonia,EST,26.3
-Estonia,EST,25.9
-Estonia,EST,22.0
-Estonia,EST,22.0
-Estonia,EST,21.8
-Estonia,EST,23.4
-Estonia,EST,21.7
-Estonia,EST,23.1
-Estonia,EST,23.4
-Estonia,EST,23.5
-Estonia,EST,26.0
-Estonia,EST,24.2
-Estonia,EST,24.4
-Estonia,EST,23.4
-Estonia,EST,24.4
-Estonia,EST,24.3
-Estonia,EST,23.2
-Belgium,BEL,23.4
-Belgium,BEL,21.6
-Belgium,BEL,22.6
-Belgium,BEL,21.5
-Belgium,BEL,21.6
-Belgium,BEL,20.8
-Belgium,BEL,20.2
-Belgium,BEL,20.8
-Belgium,BEL,21.0
-Belgium,BEL,21.6
-Belgium,BEL,20.8
-Belgium,BEL,21.2
-Belgium,BEL,21.1
-Belgium,BEL,20.9
-Belgium,BEL,20.6
-Belgium,BEL,20.0
-Belgium,BEL,19.5
-Belgium,BEL,18.9
-Malta,MLT,20.5
-Malta,MLT,19.5
-Malta,MLT,19.7
-Malta,MLT,20.1
-Malta,MLT,20.3
-Malta,MLT,21.2
-Malta,MLT,22.1
-Malta,MLT,23.1
-Malta,MLT,24.6
-Malta,MLT,23.9
-Malta,MLT,23.0
-Malta,MLT,20.3
-Malta,MLT,19.3
-Malta,MLT,19.0
-Malta,MLT,20.1
-Malta,MLT,19.0
-Slovakia,SVK,32.0
-Slovakia,SVK,26.7
-Slovakia,SVK,21.4
-Slovakia,SVK,20.6
-Slovakia,SVK,19.6
-Slovakia,SVK,20.6
-Slovakia,SVK,20.6
-Slovakia,SVK,20.5
-Slovakia,SVK,19.8
-Slovakia,SVK,18.4
-Slovakia,SVK,18.4
-Slovakia,SVK,18.1
-Slovakia,SVK,16.3
-Slovakia,SVK,16.3
-Slovakia,SVK,16.4
-Slovakia,SVK,14.8
-Germany,DEU,18.4
-Germany,DEU,20.2
-Germany,DEU,20.6
-Germany,DEU,20.1
-Germany,DEU,20.0
-Germany,DEU,19.7
-Germany,DEU,19.9
-Germany,DEU,19.6
-Germany,DEU,20.3
-Germany,DEU,20.6
-Germany,DEU,20.0
-Germany,DEU,19.7
-Germany,DEU,19.0
-Germany,DEU,18.7
-Germany,DEU,17.4
-Germany,DEU,21.6
-France,FRA,19.8
-France,FRA,18.9
-France,FRA,18.8
-France,FRA,19.0
-France,FRA,18.5
-France,FRA,18.5
-France,FRA,19.2
-France,FRA,19.3
-France,FRA,19.1
-France,FRA,18.1
-France,FRA,18.5
-France,FRA,17.7
-France,FRA,18.2
-France,FRA,17.0
-France,FRA,17.4
-France,FRA,17.9
-France,FRA,18.6
-Austria,AUT,15.7
-Austria,AUT,17.9
-Austria,AUT,17.4
-Austria,AUT,17.8
-Austria,AUT,16.7
-Austria,AUT,20.6
-Austria,AUT,19.1
-Austria,AUT,18.9
-Austria,AUT,19.2
-Austria,AUT,18.5
-Austria,AUT,18.8
-Austria,AUT,19.2
-Austria,AUT,18.3
-Austria,AUT,18.0
-Austria,AUT,18.1
-Austria,AUT,17.5
-Austria,AUT,16.9
-Austria,AUT,17.5
-Luxembourg,LUX,15.8
-Luxembourg,LUX,16.1
-Luxembourg,LUX,17.3
-Luxembourg,LUX,16.5
-Luxembourg,LUX,15.9
-Luxembourg,LUX,15.5
-Luxembourg,LUX,17.8
-Luxembourg,LUX,17.1
-Luxembourg,LUX,16.8
-Luxembourg,LUX,18.4
-Luxembourg,LUX,19.0
-Luxembourg,LUX,19.0
-Luxembourg,LUX,18.5
-Luxembourg,LUX,19.1
-Luxembourg,LUX,19.4
-Luxembourg,LUX,20.7
-Luxembourg,LUX,20.6
-Luxembourg,LUX,20.9
-Slovenia,SVN,18.5
-Slovenia,SVN,17.1
-Slovenia,SVN,17.1
-Slovenia,SVN,18.5
-Slovenia,SVN,17.1
-Slovenia,SVN,18.3
-Slovenia,SVN,19.3
-Slovenia,SVN,19.6
-Slovenia,SVN,20.4
-Slovenia,SVN,20.4
-Slovenia,SVN,19.2
-Slovenia,SVN,18.4
-Slovenia,SVN,17.1
-Slovenia,SVN,16.2
-Slovenia,SVN,14.4
-Slovenia,SVN,15.0
-Sweden,SWE,16.9
-Sweden,SWE,14.4
-Sweden,SWE,16.3
-Sweden,SWE,13.9
-Sweden,SWE,16.7
-Sweden,SWE,17.8
-Sweden,SWE,17.7
-Sweden,SWE,18.5
-Sweden,SWE,17.7
-Sweden,SWE,18.3
-Sweden,SWE,18.2
-Sweden,SWE,18.6
-Sweden,SWE,18.3
-Sweden,SWE,17.7
-Sweden,SWE,18.0
-Sweden,SWE,18.8
-Sweden,SWE,17.9
-Denmark,DNK,16.9
-Denmark,DNK,16.5
-Denmark,DNK,17.2
-Denmark,DNK,16.7
-Denmark,DNK,16.8
-Denmark,DNK,16.3
-Denmark,DNK,17.6
-Denmark,DNK,18.3
-Denmark,DNK,17.6
-Denmark,DNK,17.5
-Denmark,DNK,18.3
-Denmark,DNK,17.9
-Denmark,DNK,17.7
-Denmark,DNK,16.8
-Denmark,DNK,17.2
-Denmark,DNK,17.0
-Denmark,DNK,16.3
-Denmark,DNK,15.9
-Finland,FIN,17.2
-Finland,FIN,17.2
-Finland,FIN,17.1
-Finland,FIN,17.4
-Finland,FIN,17.4
-Finland,FIN,16.9
-Finland,FIN,16.9
-Finland,FIN,17.9
-Finland,FIN,17.2
-Finland,FIN,16.0
-Finland,FIN,17.3
-Finland,FIN,16.8
-Finland,FIN,16.6
-Finland,FIN,15.7
-Finland,FIN,16.5
-Finland,FIN,15.6
-Finland,FIN,16.0
-Netherlands,NLD,16.7
-Netherlands,NLD,16.0
-Netherlands,NLD,15.7
-Netherlands,NLD,14.9
-Netherlands,NLD,15.1
-Netherlands,NLD,15.1
-Netherlands,NLD,15.7
-Netherlands,NLD,15.0
-Netherlands,NLD,15.9
-Netherlands,NLD,16.5
-Netherlands,NLD,16.4
-Netherlands,NLD,16.7
-Netherlands,NLD,17.0
-Netherlands,NLD,16.7
-Netherlands,NLD,16.5
-Netherlands,NLD,16.1
-Norway,NOR,12.9
-Norway,NOR,15.8
-Norway,NOR,16.2
-Norway,NOR,16.8
-Norway,NOR,16.5
-Norway,NOR,15.0
-Norway,NOR,15.2
-Norway,NOR,14.9
-Norway,NOR,14.5
-Norway,NOR,13.7
-Norway,NOR,14.1
-Norway,NOR,13.5
-Norway,NOR,15.0
-Norway,NOR,15.3
-Norway,NOR,16.0
-Norway,NOR,16.2
-Norway,NOR,16.1
-Norway,NOR,15.9
-Czechia,CZE,19.6
-Czechia,CZE,18.0
-Czechia,CZE,15.8
-Czechia,CZE,15.3
-Czechia,CZE,14.0
-Czechia,CZE,14.4
-Czechia,CZE,15.3
-Czechia,CZE,15.4
-Czechia,CZE,14.6
-Czechia,CZE,14.8
-Czechia,CZE,14.0
-Czechia,CZE,13.3
-Czechia,CZE,12.2
-Czechia,CZE,12.2
-Czechia,CZE,12.5
-Czechia,CZE,11.9
-Iceland,ISL,13.7
-Iceland,ISL,13.3
-Iceland,ISL,12.5
-Iceland,ISL,13.0
-Iceland,ISL,11.8
-Iceland,ISL,11.6
-Iceland,ISL,13.7
-Iceland,ISL,13.7
-Iceland,ISL,12.7
-Iceland,ISL,13.0
-Iceland,ISL,11.2
-Iceland,ISL,12.5
-Iceland,ISL,12.2
-Iceland,ISL,12.8
-Iceland,ISL,11.0
+Afghanistan,AFG,65
+Afghanistan,AFG,59.9
+Afghanistan,AFG,59.9
+Afghanistan,AFG,59.5
+Afghanistan,AFG,59.2
+Afghanistan,AFG,58.8
+Afghanistan,AFG,58.6
+Afghanistan,AFG,58.1
+Afghanistan,AFG,57.5
+Afghanistan,AFG,57.3
+Afghanistan,AFG,57.3
+Afghanistan,AFG,57
+Afghanistan,AFG,56.7
+Afghanistan,AFG,56.2
+Afghanistan,AFG,55.3
+Afghanistan,AFG,54.8
+Algeria,DZA,75.6
+Algeria,DZA,75.4
+Algeria,DZA,75.3
+Algeria,DZA,75.1
+Algeria,DZA,74.9
+Algeria,DZA,74.7
+Algeria,DZA,74.4
+Algeria,DZA,74.1
+Algeria,DZA,73.8
+Algeria,DZA,73.4
+Algeria,DZA,72.9
+Algeria,DZA,72.3
+Algeria,DZA,71.7
+Algeria,DZA,71.6
+Algeria,DZA,71.4
+Algeria,DZA,71.3
+Angola,AGO,52.4
+Angola,AGO,51.7
+Angola,AGO,51.1
+Angola,AGO,56
+Angola,AGO,51
+Angola,AGO,49.6
+Angola,AGO,49.1
+Angola,AGO,48.7
+Angola,AGO,48.2
+Angola,AGO,47.7
+Angola,AGO,47.4
+Angola,AGO,47.1
+Angola,AGO,46.8
+Angola,AGO,46.5
+Angola,AGO,45.7
+Angola,AGO,45.3
+Albania,ALB,77.8
+Albania,ALB,77.5
+Albania,ALB,77.2
+Albania,ALB,76.9
+Albania,ALB,76.6
+Albania,ALB,76.2
+Albania,ALB,76.1
+Albania,ALB,75.3
+Albania,ALB,75.9
+Albania,ALB,74.2
+Albania,ALB,73.5
+Albania,ALB,73
+Albania,ALB,72.8
+Albania,ALB,73.3
+Albania,ALB,73.6
+Albania,ALB,72.6
+Bahrain,BHR,76.9
+Bahrain,BHR,76.8
+Bahrain,BHR,76.7
+Bahrain,BHR,76.5
+Bahrain,BHR,76.1
+Bahrain,BHR,76.1
+Bahrain,BHR,76
+Bahrain,BHR,75.8
+Bahrain,BHR,75.6
+Bahrain,BHR,75.5
+Bahrain,BHR,75.3
+Bahrain,BHR,75.2
+Bahrain,BHR,75
+Bahrain,BHR,74.9
+Bahrain,BHR,74.7
+Bahrain,BHR,74.5
+Bangladesh,BGD,71.8
+Bangladesh,BGD,71.4
+Bangladesh,BGD,71
+Antigua and Barbuda,ATG,76.4
+Antigua and Barbuda,ATG,76.2
+Antigua and Barbuda,ATG,76.1
+Antigua and Barbuda,ATG,75.9
+Antigua and Barbuda,ATG,75.7
+Antigua and Barbuda,ATG,75.6
+Antigua and Barbuda,ATG,75.4
+Antigua and Barbuda,ATG,75.2
+Antigua and Barbuda,ATG,75
+Antigua and Barbuda,ATG,74.8
+Antigua and Barbuda,ATG,74.6
+Antigua and Barbuda,ATG,74.4
+Antigua and Barbuda,ATG,74.2
+Antigua and Barbuda,ATG,74
+Antigua and Barbuda,ATG,73.8
+Antigua and Barbuda,ATG,73.6
+Argentina,ARG,76.3
+Argentina,ARG,76.2
+Argentina,ARG,76
+Argentina,ARG,75.9
+Argentina,ARG,75.7
+Argentina,ARG,75.5
+Argentina,ARG,75.6
+Argentina,ARG,75.4
+Argentina,ARG,74.8
+Argentina,ARG,75.2
+Argentina,ARG,74.9
+Argentina,ARG,74.7
+Argentina,ARG,74.1
+Argentina,ARG,74.1
+Argentina,ARG,74
+Argentina,ARG,74.1
+Armenia,ARM,74.8
+Armenia,ARM,74.6
+Armenia,ARM,74.4
+Armenia,ARM,74.4
+Armenia,ARM,73.9
+Armenia,ARM,73.5
+Armenia,ARM,73.3
+Armenia,ARM,73.2
+Armenia,ARM,73.5
+Armenia,ARM,72.9
+Armenia,ARM,73
+Armenia,ARM,73
+Armenia,ARM,72.7
+Armenia,ARM,72.6
+Armenia,ARM,72.6
+Armenia,ARM,72
+Austria,AUT,81.5
+Austria,AUT,81.4
+Austria,AUT,81.1
+Austria,AUT,88
+Austria,AUT,88
+Austria,AUT,84
+Austria,AUT,82
+Austria,AUT,84
+Austria,AUT,81
+Austria,AUT,79.8
+Austria,AUT,79.4
+Austria,AUT,79.3
+Austria,AUT,78.8
+Austria,AUT,78.7
+Austria,AUT,78.6
+Austria,AUT,78.1
+Azerbaijan,AZE,72.7
+Azerbaijan,AZE,72.5
+Azerbaijan,AZE,72.2
+Azerbaijan,AZE,71.9
+Azerbaijan,AZE,71.6
+Azerbaijan,AZE,71.1
+Azerbaijan,AZE,78
+Azerbaijan,AZE,73
+Azerbaijan,AZE,73
+Azerbaijan,AZE,69.2
+Azerbaijan,AZE,68.4
+Azerbaijan,AZE,68.4
+Azerbaijan,AZE,67.8
+Azerbaijan,AZE,67.8
+Azerbaijan,AZE,67.5
+Azerbaijan,AZE,66.6
+Australia,AUS,82.8
+Australia,AUS,82.7
+Australia,AUS,82.5
+Australia,AUS,82.3
+Australia,AUS,82
+Australia,AUS,81.9
+Australia,AUS,81.7
+Australia,AUS,81.3
+Australia,AUS,81.3
+Australia,AUS,81.2
+Australia,AUS,81
+Australia,AUS,86
+Australia,AUS,83
+Australia,AUS,79.9
+Australia,AUS,79.9
+Australia,AUS,79.5
+Bahamas,BHS,76.1
+Bahamas,BHS,75.4
+Bahamas,BHS,74.8
+Bahamas,BHS,74.9
+Bahamas,BHS,75
+Bahamas,BHS,75
+Bahamas,BHS,74.6
+Bahamas,BHS,74.5
+Bahamas,BHS,74.4
+Bahamas,BHS,74.2
+Bahamas,BHS,74.1
+Bahamas,BHS,73.8
+Bahamas,BHS,73.2
+Bahamas,BHS,73.1
+Bahamas,BHS,72.9
+Bahamas,BHS,72.6
+Bangladesh,BGD,77
+Bangladesh,BGD,73
+Bangladesh,BGD,69.9
+Bangladesh,BGD,69.5
+Bangladesh,BGD,69.1
+Bangladesh,BGD,68.6
+Bangladesh,BGD,68.2
+Bangladesh,BGD,67.8
+Bangladesh,BGD,67.3
+Bangladesh,BGD,66.8
+Bangladesh,BGD,66.3
+Bangladesh,BGD,65.8
+Bangladesh,BGD,65.3
+Barbados,BRB,75.5
+Barbados,BRB,75.4
+Barbados,BRB,75.2
+Barbados,BRB,75.1
+Barbados,BRB,74.9
+Barbados,BRB,74.7
+Barbados,BRB,74.6
+Barbados,BRB,74.4
+Barbados,BRB,74.2
+Barbados,BRB,74.1
+Barbados,BRB,73.9
+Barbados,BRB,73.8
+Barbados,BRB,73.7
+Barbados,BRB,73.5
+Barbados,BRB,73.4
+Barbados,BRB,73.3
+Belarus,BLR,72.3
+Belarus,BLR,72
+Belarus,BLR,71.7
+Belarus,BLR,71.9
+Belarus,BLR,72
+Belarus,BLR,73
+Belarus,BLR,70
+Belarus,BLR,70
+Belarus,BLR,69.8
+Belarus,BLR,68.9
+Belarus,BLR,68.1
+Belarus,BLR,68.2
+Belarus,BLR,67.7
+Belarus,BLR,67.2
+Belarus,BLR,67.7
+Belarus,BLR,68
+Belgium,BEL,81.1
+Belgium,BEL,89
+Belgium,BEL,87
+Belgium,BEL,83
+Belgium,BEL,83
+Belgium,BEL,80
+Belgium,BEL,79.8
+Belgium,BEL,79.5
+Belgium,BEL,79.5
+Belgium,BEL,79.4
+Belgium,BEL,78.9
+Belgium,BEL,78.8
+Belgium,BEL,78.3
+Belgium,BEL,78
+Belgium,BEL,78
+Belgium,BEL,77.6
+Belize,BLZ,71
+Belize,BLZ,70
+Belize,BLZ,69.8
+Belize,BLZ,69.4
+Belize,BLZ,69.4
+Belize,BLZ,69.5
+Belize,BLZ,69.5
+Belize,BLZ,69.6
+Belize,BLZ,69.6
+Belize,BLZ,69.4
+Belize,BLZ,69
+Belize,BLZ,68.7
+Belize,BLZ,68.4
+Belize,BLZ,68.5
+Belize,BLZ,68.2
+Belize,BLZ,68.3
+Benin,BEN,60
+Benin,BEN,59.7
+Benin,BEN,59.5
+Benin,BEN,59.3
+Benin,BEN,59.1
+Benin,BEN,58.7
+Benin,BEN,58.4
+Benin,BEN,57.6
+Benin,BEN,57.1
+Benin,BEN,56.8
+Benin,BEN,56.5
+Benin,BEN,56.1
+Benin,BEN,55.8
+Benin,BEN,55.6
+Benin,BEN,55.5
+Benin,BEN,55.4
+Bhutan,BTN,69.8
+Bhutan,BTN,69.4
+Bhutan,BTN,69.1
+Bhutan,BTN,68.7
+Bhutan,BTN,68.3
+Bhutan,BTN,67.9
+Bhutan,BTN,67.4
+Bhutan,BTN,67
+Bhutan,BTN,66.5
+Bhutan,BTN,65.8
+Bhutan,BTN,65
+Bhutan,BTN,64.2
+Bhutan,BTN,63.3
+Bhutan,BTN,62.5
+Bhutan,BTN,61.7
+Bhutan,BTN,62
+Bolivia (Plurinational State of),BOL,77
+Bolivia (Plurinational State of),BOL,74
+Bolivia (Plurinational State of),BOL,71
+Bolivia (Plurinational State of),BOL,69.8
+Bolivia (Plurinational State of),BOL,69.3
+Bolivia (Plurinational State of),BOL,68.7
+Bolivia (Plurinational State of),BOL,68
+Bolivia (Plurinational State of),BOL,67.4
+Bolivia (Plurinational State of),BOL,66.8
+Bolivia (Plurinational State of),BOL,66.2
+Bolivia (Plurinational State of),BOL,65.7
+Bolivia (Plurinational State of),BOL,65.1
+Bolivia (Plurinational State of),BOL,64.5
+Bolivia (Plurinational State of),BOL,63.9
+Bolivia (Plurinational State of),BOL,63.3
+Bolivia (Plurinational State of),BOL,62.6
+Bosnia and Herzegovina,BIH,77.4
+Bosnia and Herzegovina,BIH,77.2
+Bosnia and Herzegovina,BIH,77
+Bosnia and Herzegovina,BIH,76.8
+Bosnia and Herzegovina,BIH,76.9
+Bosnia and Herzegovina,BIH,76.4
+Bosnia and Herzegovina,BIH,76.1
+Bosnia and Herzegovina,BIH,76
+Bosnia and Herzegovina,BIH,75.4
+Bosnia and Herzegovina,BIH,75.7
+Bosnia and Herzegovina,BIH,75
+Bosnia and Herzegovina,BIH,75.5
+Bosnia and Herzegovina,BIH,75.2
+Bosnia and Herzegovina,BIH,75.4
+Bosnia and Herzegovina,BIH,74.9
+Bosnia and Herzegovina,BIH,74.6
+Botswana,BWA,65.7
+Botswana,BWA,65.1
+Botswana,BWA,64.2
+Botswana,BWA,63.4
+Botswana,BWA,62.2
+Botswana,BWA,61.1
+Botswana,BWA,59.2
+Botswana,BWA,57.5
+Botswana,BWA,56.9
+Botswana,BWA,54.8
+Botswana,BWA,51.7
+Botswana,BWA,48.1
+Botswana,BWA,46.4
+Botswana,BWA,46
+Botswana,BWA,46.7
+Botswana,BWA,47.8
+Brazil,BRA,75
+Brazil,BRA,74.8
+Brazil,BRA,74.7
+Brazil,BRA,74.5
+Brazil,BRA,74.1
+Brazil,BRA,73.8
+Brazil,BRA,73.6
+Brazil,BRA,73.4
+Brazil,BRA,73.3
+Brazil,BRA,73
+Brazil,BRA,72.7
+Brazil,BRA,72
+Brazil,BRA,71.8
+Brazil,BRA,71.4
+Brazil,BRA,71
+Brazil,BRA,75
+Brunei Darussalam,BRN,77.7
+Brunei Darussalam,BRN,77.6
+Brunei Darussalam,BRN,77.1
+Brunei Darussalam,BRN,78.3
+Brunei Darussalam,BRN,77.4
+Brunei Darussalam,BRN,76.9
+Brunei Darussalam,BRN,76.8
+Brunei Darussalam,BRN,77.2
+Brunei Darussalam,BRN,76
+Brunei Darussalam,BRN,76.3
+Brunei Darussalam,BRN,76.2
+Brunei Darussalam,BRN,76.4
+Brunei Darussalam,BRN,76
+Brunei Darussalam,BRN,74.8
+Brunei Darussalam,BRN,74.7
+Brunei Darussalam,BRN,74.4
+Bulgaria,BGR,74.5
+Bulgaria,BGR,74.3
+Bulgaria,BGR,74.1
+Bulgaria,BGR,73.9
+Bulgaria,BGR,73.7
+Bulgaria,BGR,73.4
+Bulgaria,BGR,73.2
+Bulgaria,BGR,72.9
+Bulgaria,BGR,72.6
+Bulgaria,BGR,72.2
+Bulgaria,BGR,72.1
+Bulgaria,BGR,72.2
+Bulgaria,BGR,72
+Bulgaria,BGR,71.8
+Bulgaria,BGR,71.6
+Bulgaria,BGR,71.1
+Burkina Faso,BFA,59.9
+Burkina Faso,BFA,59.3
+Burkina Faso,BFA,59
+Burkina Faso,BFA,58.6
+Burkina Faso,BFA,58.1
+Burkina Faso,BFA,57.5
+Burkina Faso,BFA,56.9
+Burkina Faso,BFA,56.1
+Burkina Faso,BFA,55.3
+Burkina Faso,BFA,54.3
+Burkina Faso,BFA,53.3
+Burkina Faso,BFA,52.4
+Burkina Faso,BFA,51.6
+Burkina Faso,BFA,51
+Burkina Faso,BFA,56
+Burkina Faso,BFA,51
+Burundi,BDI,59.6
+Burundi,BDI,59.1
+Burundi,BDI,58.6
+Burundi,BDI,58
+Burundi,BDI,57.4
+Burundi,BDI,56.8
+Burundi,BDI,56.2
+Burundi,BDI,55.3
+Burundi,BDI,54.8
+Burundi,BDI,54.1
+Burundi,BDI,53.4
+Burundi,BDI,52.6
+Burundi,BDI,51.9
+Burundi,BDI,51.5
+Burundi,BDI,51.3
+Burundi,BDI,58
+Côte d'Ivoire,CIV,53.3
+Côte d'Ivoire,CIV,52.8
+Côte d'Ivoire,CIV,52.3
+Côte d'Ivoire,CIV,52
+Côte d'Ivoire,CIV,51.7
+Côte d'Ivoire,CIV,51.5
+Côte d'Ivoire,CIV,51
+Côte d'Ivoire,CIV,54
+Côte d'Ivoire,CIV,49.9
+Côte d'Ivoire,CIV,49.4
+Côte d'Ivoire,CIV,48.7
+Côte d'Ivoire,CIV,48.2
+Côte d'Ivoire,CIV,48
+Côte d'Ivoire,CIV,47.7
+Côte d'Ivoire,CIV,47.8
+Côte d'Ivoire,CIV,47.9
+Cabo Verde,CPV,73.3
+Cabo Verde,CPV,73
+Cabo Verde,CPV,72.8
+Cabo Verde,CPV,72.7
+Cabo Verde,CPV,72.6
+Cabo Verde,CPV,72.5
+Cabo Verde,CPV,72.4
+Cabo Verde,CPV,72.4
+Cabo Verde,CPV,72.3
+Cabo Verde,CPV,72.1
+Cabo Verde,CPV,71.8
+Cabo Verde,CPV,71.4
+Cabo Verde,CPV,71.1
+Cabo Verde,CPV,77
+Cabo Verde,CPV,73
+Cabo Verde,CPV,69.9
+Cambodia,KHM,68.7
+Cambodia,KHM,68.3
+Cambodia,KHM,67.8
+Cambodia,KHM,67.4
+Cambodia,KHM,67
+Cambodia,KHM,66.6
+Cambodia,KHM,66.1
+Cambodia,KHM,65.6
+Cambodia,KHM,65
+Cambodia,KHM,64.1
+Cambodia,KHM,62.9
+Cambodia,KHM,61.5
+Cambodia,KHM,63
+Cambodia,KHM,59.3
+Cambodia,KHM,58.5
+Cambodia,KHM,57.7
+Cameroon,CMR,57.3
+Cameroon,CMR,56.7
+Cameroon,CMR,56.4
+Cameroon,CMR,55.9
+Cameroon,CMR,55.6
+Cameroon,CMR,55.3
+Cameroon,CMR,54.8
+Cameroon,CMR,54.2
+Cameroon,CMR,53.6
+Cameroon,CMR,53.3
+Cameroon,CMR,52.8
+Cameroon,CMR,52.1
+Cameroon,CMR,51.8
+Cameroon,CMR,51.6
+Cameroon,CMR,51.5
+Cameroon,CMR,51.4
+Canada,CAN,82.2
+Canada,CAN,82
+Canada,CAN,81.8
+Canada,CAN,81.6
+Canada,CAN,81.5
+Canada,CAN,81.2
+Canada,CAN,81
+Canada,CAN,87
+Canada,CAN,85
+Canada,CAN,85
+Canada,CAN,81
+Canada,CAN,80
+Canada,CAN,79.7
+Canada,CAN,79.5
+Canada,CAN,79.4
+Canada,CAN,79.1
+Central African Republic,CAF,52.5
+Central African Republic,CAF,58
+Central African Republic,CAF,49.9
+Central African Republic,CAF,53
+Central African Republic,CAF,49.8
+Central African Republic,CAF,49.2
+Central African Republic,CAF,48.6
+Central African Republic,CAF,47.6
+Central African Republic,CAF,46.8
+Central African Republic,CAF,46.3
+Central African Republic,CAF,45.9
+Central African Republic,CAF,45.7
+Central African Republic,CAF,45.7
+Central African Republic,CAF,45.6
+Central African Republic,CAF,45.6
+Central African Republic,CAF,46
+Chad,TCD,53.1
+Chad,TCD,52.6
+Chad,TCD,52.2
+Chad,TCD,51.8
+Chad,TCD,51.6
+Chad,TCD,51.2
+Chad,TCD,57
+Chad,TCD,49.6
+Chad,TCD,49.4
+Chad,TCD,48.5
+Chad,TCD,48.6
+Chad,TCD,48.5
+Chad,TCD,48.4
+Chad,TCD,48.1
+Chad,TCD,48
+Chad,TCD,47.6
+Chile,CHL,85
+Chile,CHL,83
+Chile,CHL,81
+Chile,CHL,79.9
+Chile,CHL,79.8
+Chile,CHL,79.1
+Chile,CHL,79.3
+Chile,CHL,79.6
+Chile,CHL,78.9
+Chile,CHL,78.9
+Chile,CHL,78.4
+Chile,CHL,78
+Chile,CHL,77.9
+Chile,CHL,77.8
+Chile,CHL,77.3
+Chile,CHL,77.3
+China,CHN,76.1
+China,CHN,75.8
+China,CHN,75.6
+China,CHN,75.4
+China,CHN,75.2
+China,CHN,75
+China,CHN,74.9
+China,CHN,74.5
+China,CHN,74.4
+China,CHN,74.2
+China,CHN,73.9
+China,CHN,73.5
+China,CHN,73.1
+China,CHN,72.7
+China,CHN,72.2
+China,CHN,71.7
+Colombia,COL,74.8
+Colombia,COL,74.6
+Colombia,COL,74.4
+Colombia,COL,74.3
+Colombia,COL,74.2
+Colombia,COL,73.6
+Colombia,COL,73.6
+Colombia,COL,73.5
+Colombia,COL,73.5
+Colombia,COL,73.1
+Colombia,COL,73.1
+Colombia,COL,72.8
+Colombia,COL,72.4
+Colombia,COL,71.8
+Colombia,COL,71.5
+Colombia,COL,71.4
+Comoros,COM,63.5
+Comoros,COM,63.2
+Comoros,COM,62.9
+Comoros,COM,62.5
+Comoros,COM,62.2
+Comoros,COM,61.8
+Comoros,COM,61.3
+Comoros,COM,61
+Comoros,COM,66
+Comoros,COM,63
+Comoros,COM,60
+Comoros,COM,59.8
+Comoros,COM,59.6
+Comoros,COM,59.5
+Comoros,COM,59.5
+Comoros,COM,59.5
+Congo,COG,64.7
+Congo,COG,64.2
+Congo,COG,63.9
+Congo,COG,63.7
+Congo,COG,62.9
+Congo,COG,62
+Congo,COG,68
+Congo,COG,59.4
+Congo,COG,58.2
+Congo,COG,56.9
+Congo,COG,55.3
+Congo,COG,54.1
+Congo,COG,53.2
+Congo,COG,52.6
+Congo,COG,52.7
+Congo,COG,52.9
+Cook Islands,COK,
+Costa Rica,CRI,79.6
+Costa Rica,CRI,79.5
+Costa Rica,CRI,79.4
+Costa Rica,CRI,79.2
+Costa Rica,CRI,79
+Costa Rica,CRI,78.1
+Costa Rica,CRI,79.2
+Costa Rica,CRI,78.9
+Costa Rica,CRI,78.9
+Costa Rica,CRI,78
+Costa Rica,CRI,78.6
+Costa Rica,CRI,77.7
+Costa Rica,CRI,78
+Costa Rica,CRI,78.3
+Costa Rica,CRI,77.5
+Costa Rica,CRI,77.6
+Croatia,HRV,78
+Croatia,HRV,77.8
+Croatia,HRV,77.7
+Croatia,HRV,77.1
+Croatia,HRV,77
+Croatia,HRV,76.6
+Croatia,HRV,76.3
+Croatia,HRV,76
+Croatia,HRV,75.8
+Croatia,HRV,75.9
+Croatia,HRV,75.2
+Croatia,HRV,75.4
+Croatia,HRV,74.7
+Croatia,HRV,74.8
+Croatia,HRV,74.9
+Croatia,HRV,74.7
+Cuba,CUB,79.1
+Cuba,CUB,79
+Cuba,CUB,78.7
+Cuba,CUB,78.7
+Cuba,CUB,78.8
+Cuba,CUB,78
+Cuba,CUB,78.1
+Cuba,CUB,77.9
+Cuba,CUB,78.1
+Cuba,CUB,78
+Cuba,CUB,77.2
+Cuba,CUB,77.3
+Cuba,CUB,77.4
+Cuba,CUB,77.7
+Cuba,CUB,76.7
+Cuba,CUB,76.9
+Cyprus,CYP,85
+Cyprus,CYP,83
+Cyprus,CYP,81
+Cyprus,CYP,80
+Cyprus,CYP,79.7
+Cyprus,CYP,79.5
+Cyprus,CYP,79.3
+Cyprus,CYP,79.1
+Cyprus,CYP,78.9
+Cyprus,CYP,78.8
+Cyprus,CYP,78.7
+Cyprus,CYP,78.6
+Cyprus,CYP,78.5
+Cyprus,CYP,78.4
+Cyprus,CYP,78.2
+Cyprus,CYP,78.1
+Czechia,CZE,78.8
+Czechia,CZE,78.6
+Czechia,CZE,78.2
+Czechia,CZE,78
+Czechia,CZE,77.8
+Czechia,CZE,77.5
+Czechia,CZE,77.1
+Czechia,CZE,77
+Czechia,CZE,76.8
+Czechia,CZE,76.5
+Czechia,CZE,75.9
+Czechia,CZE,75.8
+Czechia,CZE,75.2
+Czechia,CZE,75.3
+Czechia,CZE,75.1
+Czechia,CZE,74.7
+Democratic People's Republic of Korea,PRK,76
+Democratic People's Republic of Korea,PRK,73
+Democratic People's Republic of Korea,PRK,71
+Democratic People's Republic of Korea,PRK,69.8
+Democratic People's Republic of Korea,PRK,69.4
+Democratic People's Republic of Korea,PRK,69
+Democratic People's Republic of Korea,PRK,68.7
+Democratic People's Republic of Korea,PRK,68.6
+Democratic People's Republic of Korea,PRK,68.5
+Democratic People's Republic of Korea,PRK,68.5
+Democratic People's Republic of Korea,PRK,68.5
+Democratic People's Republic of Korea,PRK,68.4
+Democratic People's Republic of Korea,PRK,68.1
+Democratic People's Republic of Korea,PRK,67.6
+Democratic People's Republic of Korea,PRK,66.6
+Democratic People's Republic of Korea,PRK,65.4
+Democratic Republic of the Congo,PRK,59.8
+Democratic Republic of the Congo,PRK,59.3
+Democratic Republic of the Congo,PRK,58.8
+Democratic Republic of the Congo,PRK,58.3
+Democratic Republic of the Congo,PRK,57.9
+Democratic Republic of the Congo,PRK,57.4
+Democratic Republic of the Congo,PRK,56.7
+Democratic Republic of the Congo,PRK,56.3
+Democratic Republic of the Congo,PRK,55.7
+Democratic Republic of the Congo,PRK,55
+Democratic Republic of the Congo,PRK,54.3
+Democratic Republic of the Congo,PRK,53.5
+Democratic Republic of the Congo,PRK,52.8
+Democratic Republic of the Congo,PRK,52.1
+Democratic Republic of the Congo,PRK,51.8
+Democratic Republic of the Congo,PRK,51.3
+Denmark,DNK,86
+Denmark,DNK,84
+Denmark,DNK,81
+Denmark,DNK,80
+Denmark,DNK,79.7
+Denmark,DNK,79.2
+Denmark,DNK,78.9
+Denmark,DNK,78.8
+Denmark,DNK,78.4
+Denmark,DNK,78.1
+Denmark,DNK,78.1
+Denmark,DNK,77.7
+Denmark,DNK,77.3
+Denmark,DNK,77
+Denmark,DNK,77
+Denmark,DNK,76.9
+Djibouti,DJI,63.5
+Djibouti,DJI,63
+Djibouti,DJI,62.7
+Djibouti,DJI,62.2
+Djibouti,DJI,61.8
+Djibouti,DJI,61.3
+Djibouti,DJI,69
+Djibouti,DJI,62
+Djibouti,DJI,59.8
+Djibouti,DJI,59.1
+Djibouti,DJI,58.6
+Djibouti,DJI,58.1
+Djibouti,DJI,58
+Djibouti,DJI,57.9
+Djibouti,DJI,57.7
+Djibouti,DJI,57.4
+Dominica,DMA,
+Dominican Republic,DOM,73.9
+Dominican Republic,DOM,73.6
+Dominican Republic,DOM,73.4
+Dominican Republic,DOM,72.1
+Dominican Republic,DOM,73.1
+Dominican Republic,DOM,72.7
+Dominican Republic,DOM,73.6
+Dominican Republic,DOM,73.3
+Dominican Republic,DOM,72.9
+Dominican Republic,DOM,72.3
+Dominican Republic,DOM,69.7
+Dominican Republic,DOM,69.3
+Dominican Republic,DOM,73
+Dominican Republic,DOM,71.4
+Dominican Republic,DOM,71.2
+Dominican Republic,DOM,72
+Ecuador,ECU,76.2
+Ecuador,ECU,76
+Ecuador,ECU,76
+Ecuador,ECU,75.5
+Ecuador,ECU,75.3
+Ecuador,ECU,75
+Ecuador,ECU,75.1
+Ecuador,ECU,74.6
+Ecuador,ECU,74.7
+Ecuador,ECU,74.4
+Ecuador,ECU,74.2
+Ecuador,ECU,74.4
+Ecuador,ECU,74.4
+Ecuador,ECU,73.6
+Ecuador,ECU,73.4
+Ecuador,ECU,72.8
+Egypt,EGY,79
+Egypt,EGY,78
+Egypt,EGY,79
+Egypt,EGY,72
+Egypt,EGY,74
+Egypt,EGY,70
+Egypt,EGY,69.9
+Egypt,EGY,69.8
+Egypt,EGY,69.7
+Egypt,EGY,69.5
+Egypt,EGY,69.4
+Egypt,EGY,69
+Egypt,EGY,68.6
+Egypt,EGY,68.7
+Egypt,EGY,68.6
+Egypt,EGY,68.8
+El Salvador,SLV,73.5
+El Salvador,SLV,73.3
+El Salvador,SLV,73
+El Salvador,SLV,73
+El Salvador,SLV,72
+El Salvador,SLV,72
+El Salvador,SLV,71.4
+El Salvador,SLV,71.7
+El Salvador,SLV,71.2
+El Salvador,SLV,75
+El Salvador,SLV,71
+El Salvador,SLV,70
+El Salvador,SLV,69.9
+El Salvador,SLV,73
+El Salvador,SLV,68.9
+El Salvador,SLV,69
+Equatorial Guinea,GNQ,58.2
+Equatorial Guinea,GNQ,57.9
+Equatorial Guinea,GNQ,57.4
+Equatorial Guinea,GNQ,56.7
+Equatorial Guinea,GNQ,56.2
+Equatorial Guinea,GNQ,56.1
+Equatorial Guinea,GNQ,55.7
+Equatorial Guinea,GNQ,55.4
+Equatorial Guinea,GNQ,55
+Equatorial Guinea,GNQ,54.8
+Equatorial Guinea,GNQ,54.4
+Equatorial Guinea,GNQ,54.1
+Equatorial Guinea,GNQ,53.8
+Equatorial Guinea,GNQ,53.5
+Equatorial Guinea,GNQ,53.1
+Equatorial Guinea,GNQ,52.7
+Eritrea,ERI,64.7
+Eritrea,ERI,64.4
+Eritrea,ERI,64
+Eritrea,ERI,63.6
+Eritrea,ERI,62.9
+Eritrea,ERI,62.1
+Eritrea,ERI,61.4
+Eritrea,ERI,67
+Eritrea,ERI,62
+Eritrea,ERI,59.7
+Eritrea,ERI,59.4
+Eritrea,ERI,59.1
+Eritrea,ERI,58.8
+Eritrea,ERI,58.5
+Eritrea,ERI,58.1
+Eritrea,ERI,45.3
+Estonia,EST,77.6
+Estonia,EST,77.3
+Estonia,EST,76.9
+Estonia,EST,76.3
+Estonia,EST,76.1
+Estonia,EST,75.6
+Estonia,EST,74.9
+Estonia,EST,74.2
+Estonia,EST,73
+Estonia,EST,73
+Estonia,EST,72.8
+Estonia,EST,72.3
+Estonia,EST,71.9
+Estonia,EST,71.2
+Estonia,EST,78
+Estonia,EST,78
+Ethiopia,ETH,64.8
+Ethiopia,ETH,64.2
+Ethiopia,ETH,63.7
+Ethiopia,ETH,63.3
+Ethiopia,ETH,62.6
+Ethiopia,ETH,61.8
+Ethiopia,ETH,68
+Ethiopia,ETH,59.8
+Ethiopia,ETH,58.5
+Ethiopia,ETH,57.2
+Ethiopia,ETH,56
+Ethiopia,ETH,55
+Ethiopia,ETH,54
+Ethiopia,ETH,53.2
+Ethiopia,ETH,52.5
+Ethiopia,ETH,51.2
+Fiji,FJI,69.9
+Fiji,FJI,69.7
+Fiji,FJI,69.6
+Fiji,FJI,69.4
+Fiji,FJI,69.2
+Fiji,FJI,69.1
+Fiji,FJI,68.9
+Fiji,FJI,68.7
+Fiji,FJI,68.6
+Fiji,FJI,68.5
+Fiji,FJI,68.3
+Fiji,FJI,68.1
+Fiji,FJI,68
+Fiji,FJI,67.9
+Fiji,FJI,67.8
+Fiji,FJI,67.7
+Finland,FIN,81.1
+Finland,FIN,89
+Finland,FIN,87
+Finland,FIN,84
+Finland,FIN,83
+Finland,FIN,79.9
+Finland,FIN,79.7
+Finland,FIN,79.6
+Finland,FIN,79.3
+Finland,FIN,79.2
+Finland,FIN,78.9
+Finland,FIN,78.7
+Finland,FIN,78.4
+Finland,FIN,78.1
+Finland,FIN,78
+Finland,FIN,77.5
+France,FRA,82.4
+France,FRA,82.2
+France,FRA,82
+France,FRA,81.5
+France,FRA,81.7
+France,FRA,81.3
+France,FRA,81.1
+France,FRA,89
+France,FRA,89
+France,FRA,86
+France,FRA,81
+France,FRA,82
+France,FRA,79.3
+France,FRA,79.2
+France,FRA,79
+France,FRA,78.8
+Gabon,GAB,66
+Gabon,GAB,65.5
+Gabon,GAB,64.6
+Gabon,GAB,63.5
+Gabon,GAB,62.8
+Gabon,GAB,62.3
+Gabon,GAB,61.7
+Gabon,GAB,61.6
+Gabon,GAB,61.6
+Gabon,GAB,61.4
+Gabon,GAB,65
+Gabon,GAB,59.7
+Gabon,GAB,59.7
+Gabon,GAB,59.7
+Gabon,GAB,59.8
+Gabon,GAB,61
+Gambia,GMB,61.1
+Gambia,GMB,68
+Gambia,GMB,66
+Gambia,GMB,62
+Gambia,GMB,59.8
+Gambia,GMB,59.3
+Gambia,GMB,59
+Gambia,GMB,58.7
+Gambia,GMB,58.5
+Gambia,GMB,58.2
+Gambia,GMB,57.7
+Gambia,GMB,57.3
+Gambia,GMB,57
+Gambia,GMB,56.6
+Gambia,GMB,56.3
+Gambia,GMB,55.9
+Georgia,GEO,74.4
+Georgia,GEO,74.5
+Georgia,GEO,74.5
+Georgia,GEO,74.2
+Georgia,GEO,73.9
+Georgia,GEO,73.8
+Georgia,GEO,73.2
+Georgia,GEO,73.9
+Georgia,GEO,74.4
+Georgia,GEO,73.9
+Georgia,GEO,73.9
+Georgia,GEO,72.3
+Georgia,GEO,72.7
+Georgia,GEO,71.7
+Georgia,GEO,73
+Georgia,GEO,71.8
+Germany,DEU,81
+Germany,DEU,89
+Germany,DEU,86
+Germany,DEU,86
+Germany,DEU,85
+Germany,DEU,81
+Germany,DEU,80
+Germany,DEU,79.9
+Germany,DEU,79.8
+Germany,DEU,79.6
+Germany,DEU,79.2
+Germany,DEU,79.1
+Germany,DEU,78.5
+Germany,DEU,78.4
+Germany,DEU,78.3
+Germany,DEU,78
+Ghana,GHA,62.4
+Ghana,GHA,62.1
+Ghana,GHA,61.9
+Ghana,GHA,61.6
+Ghana,GHA,61.2
+Ghana,GHA,69
+Ghana,GHA,66
+Ghana,GHA,63
+Ghana,GHA,59.9
+Ghana,GHA,59.4
+Ghana,GHA,58.9
+Ghana,GHA,58.3
+Ghana,GHA,57.9
+Ghana,GHA,57.6
+Ghana,GHA,57.4
+Ghana,GHA,57.2
+Greece,GRC,81
+Greece,GRC,88
+Greece,GRC,86
+Greece,GRC,84
+Greece,GRC,85
+Greece,GRC,83
+Greece,GRC,80
+Greece,GRC,79.9
+Greece,GRC,79.4
+Greece,GRC,79.7
+Greece,GRC,79.3
+Greece,GRC,79.2
+Greece,GRC,79.1
+Greece,GRC,79
+Greece,GRC,78.7
+Greece,GRC,78.2
+Grenada,GRD,73.6
+Grenada,GRD,73.5
+Grenada,GRD,73.3
+Grenada,GRD,73.1
+Grenada,GRD,72.9
+Grenada,GRD,72.6
+Grenada,GRD,72.4
+Grenada,GRD,72.1
+Grenada,GRD,71.9
+Grenada,GRD,71.7
+Grenada,GRD,71.5
+Grenada,GRD,73
+Grenada,GRD,71.1
+Grenada,GRD,79
+Grenada,GRD,77
+Grenada,GRD,74
+Guatemala,GTM,71.9
+Guatemala,GTM,71.7
+Guatemala,GTM,71.4
+Guatemala,GTM,71.3
+Guatemala,GTM,71.1
+Guatemala,GTM,77
+Guatemala,GTM,76
+Guatemala,GTM,79
+Guatemala,GTM,75
+Guatemala,GTM,69.7
+Guatemala,GTM,69.2
+Guatemala,GTM,69.6
+Guatemala,GTM,69.4
+Guatemala,GTM,69.3
+Guatemala,GTM,68.4
+Guatemala,GTM,67.7
+Guinea,GIN,59
+Guinea,GIN,58.1
+Guinea,GIN,58.8
+Guinea,GIN,58.4
+Guinea,GIN,58.1
+Guinea,GIN,57.8
+Guinea,GIN,57.3
+Guinea,GIN,56.8
+Guinea,GIN,56.4
+Guinea,GIN,55.6
+Guinea,GIN,54.7
+Guinea,GIN,54
+Guinea,GIN,53.3
+Guinea,GIN,52.9
+Guinea,GIN,52.5
+Guinea,GIN,52.5
+Guinea-Bissau,GNB,58.9
+Guinea-Bissau,GNB,58.4
+Guinea-Bissau,GNB,58.1
+Guinea-Bissau,GNB,57.6
+Guinea-Bissau,GNB,57.1
+Guinea-Bissau,GNB,56.7
+Guinea-Bissau,GNB,56.3
+Guinea-Bissau,GNB,55.6
+Guinea-Bissau,GNB,55
+Guinea-Bissau,GNB,54.4
+Guinea-Bissau,GNB,53.9
+Guinea-Bissau,GNB,53.5
+Guinea-Bissau,GNB,53
+Guinea-Bissau,GNB,52.8
+Guinea-Bissau,GNB,52.5
+Guinea-Bissau,GNB,52.1
+Guyana,GUY,66.2
+Guyana,GUY,66
+Guyana,GUY,65.9
+Guyana,GUY,65.8
+Guyana,GUY,65.6
+Guyana,GUY,65.9
+Guyana,GUY,66.1
+Guyana,GUY,66.3
+Guyana,GUY,65.7
+Guyana,GUY,65.2
+Guyana,GUY,65
+Guyana,GUY,65.1
+Guyana,GUY,65.3
+Guyana,GUY,65.3
+Guyana,GUY,65.4
+Guyana,GUY,65.4
+Haiti,HTI,63.5
+Haiti,HTI,63.1
+Haiti,HTI,62.7
+Haiti,HTI,62.3
+Haiti,HTI,62.3
+Haiti,HTI,36.3
+Haiti,HTI,62.5
+Haiti,HTI,62.1
+Haiti,HTI,61.8
+Haiti,HTI,61.1
+Haiti,HTI,65
+Haiti,HTI,58.7
+Haiti,HTI,59.7
+Haiti,HTI,59.3
+Haiti,HTI,58.9
+Haiti,HTI,58.6
+Honduras,HND,74.6
+Honduras,HND,74.5
+Honduras,HND,74.3
+Honduras,HND,74.1
+Honduras,HND,73.9
+Honduras,HND,73.6
+Honduras,HND,73.4
+Honduras,HND,73.2
+Honduras,HND,73
+Honduras,HND,72.8
+Honduras,HND,72.5
+Honduras,HND,72.2
+Honduras,HND,71.9
+Honduras,HND,71.6
+Honduras,HND,71.3
+Honduras,HND,71
+Hungary,HUN,75.8
+Hungary,HUN,75.6
+Hungary,HUN,75.5
+Hungary,HUN,75
+Hungary,HUN,74.8
+Hungary,HUN,74.5
+Hungary,HUN,74.2
+Hungary,HUN,74.1
+Hungary,HUN,73.5
+Hungary,HUN,73.4
+Hungary,HUN,72.9
+Hungary,HUN,72.9
+Hungary,HUN,72.5
+Hungary,HUN,72.5
+Hungary,HUN,72.3
+Hungary,HUN,71.7
+Iceland,ISL,82.7
+Iceland,ISL,82.5
+Iceland,ISL,82.4
+Iceland,ISL,82.5
+Iceland,ISL,82.1
+Iceland,ISL,81.8
+Iceland,ISL,81.6
+Iceland,ISL,81.4
+Iceland,ISL,81.3
+Iceland,ISL,81.1
+Iceland,ISL,81
+Iceland,ISL,88
+Iceland,ISL,87
+Iceland,ISL,84
+Iceland,ISL,80
+Iceland,ISL,79.7
+India,IND,68.3
+India,IND,68
+India,IND,67.6
+India,IND,67.3
+India,IND,66.8
+India,IND,66.4
+India,IND,66
+India,IND,65.5
+India,IND,65.2
+India,IND,64.8
+India,IND,64.4
+India,IND,64
+India,IND,63.7
+India,IND,63.3
+India,IND,62.9
+India,IND,62.5
+Indonesia,IDN,69.1
+Indonesia,IDN,68.9
+Indonesia,IDN,68.7
+Indonesia,IDN,68.5
+Indonesia,IDN,68.3
+Indonesia,IDN,68.1
+Indonesia,IDN,67.9
+Indonesia,IDN,67.7
+Indonesia,IDN,67.5
+Indonesia,IDN,67.3
+Indonesia,IDN,67.2
+Indonesia,IDN,65.3
+Indonesia,IDN,66.9
+Indonesia,IDN,66.7
+Indonesia,IDN,66.5
+Indonesia,IDN,66.3
+Iran (Islamic Republic of),IRN,75.5
+Iran (Islamic Republic of),IRN,75.4
+Iran (Islamic Republic of),IRN,75.3
+Iran (Islamic Republic of),IRN,75.1
+Iran (Islamic Republic of),IRN,74.7
+Iran (Islamic Republic of),IRN,74.1
+Iran (Islamic Republic of),IRN,73.3
+Iran (Islamic Republic of),IRN,72.7
+Iran (Islamic Republic of),IRN,72.4
+Iran (Islamic Republic of),IRN,72.2
+Iran (Islamic Republic of),IRN,72
+Iran (Islamic Republic of),IRN,71.8
+Iran (Islamic Republic of),IRN,75
+Iran (Islamic Republic of),IRN,71.2
+Iran (Islamic Republic of),IRN,78
+Iran (Islamic Republic of),IRN,73
+Iraq,IRQ,68.9
+Iraq,IRQ,67.9
+Iraq,IRQ,69.5
+Iraq,IRQ,76
+Iraq,IRQ,77
+Iraq,IRQ,76
+Iraq,IRQ,74
+Iraq,IRQ,69.3
+Iraq,IRQ,65.9
+Iraq,IRQ,64.7
+Iraq,IRQ,66.8
+Iraq,IRQ,67.2
+Iraq,IRQ,66.5
+Iraq,IRQ,74
+Iraq,IRQ,72
+Iraq,IRQ,70
+Ireland,IRL,81.4
+Ireland,IRL,81.2
+Ireland,IRL,81
+Ireland,IRL,85
+Ireland,IRL,84
+Ireland,IRL,86
+Ireland,IRL,79.7
+Ireland,IRL,79.8
+Ireland,IRL,79.5
+Ireland,IRL,79
+Ireland,IRL,78.7
+Ireland,IRL,78.3
+Ireland,IRL,78
+Ireland,IRL,77.4
+Ireland,IRL,77
+Ireland,IRL,76.4
+Israel,ISR,82.5
+Israel,ISR,82.2
+Israel,ISR,82.1
+Israel,ISR,81.8
+Israel,ISR,81.8
+Israel,ISR,81.7
+Israel,ISR,81.5
+Israel,ISR,81
+Israel,ISR,84
+Israel,ISR,84
+Israel,ISR,80
+Israel,ISR,81
+Israel,ISR,79.7
+Israel,ISR,79.3
+Israel,ISR,79.3
+Israel,ISR,78.9
+Italy,ITA,82.7
+Italy,ITA,82.5
+Italy,ITA,82.3
+Italy,ITA,82
+Italy,ITA,82
+Italy,ITA,81.8
+Italy,ITA,81.6
+Italy,ITA,81.5
+Italy,ITA,81.3
+Italy,ITA,81.2
+Italy,ITA,88
+Italy,ITA,89
+Italy,ITA,79.9
+Italy,ITA,80
+Italy,ITA,79.8
+Italy,ITA,79.4
+Jamaica,JAM,76.2
+Jamaica,JAM,75.8
+Jamaica,JAM,75.6
+Jamaica,JAM,75.3
+Jamaica,JAM,75.2
+Jamaica,JAM,75
+Jamaica,JAM,74.7
+Jamaica,JAM,74.5
+Jamaica,JAM,74.2
+Jamaica,JAM,74
+Jamaica,JAM,73.5
+Jamaica,JAM,73.3
+Jamaica,JAM,73.1
+Jamaica,JAM,73
+Jamaica,JAM,72.7
+Jamaica,JAM,72.6
+Japan,JPN,83.7
+Japan,JPN,83.5
+Japan,JPN,83.5
+Japan,JPN,83.3
+Japan,JPN,82.5
+Japan,JPN,83
+Japan,JPN,83
+Japan,JPN,82.7
+Japan,JPN,82.6
+Japan,JPN,82.4
+Japan,JPN,82
+Japan,JPN,82.1
+Japan,JPN,81.9
+Japan,JPN,81.8
+Japan,JPN,81.5
+Japan,JPN,81.1
+Jordan,JOR,74.1
+Jordan,JOR,74
+Jordan,JOR,73.9
+Jordan,JOR,73.7
+Jordan,JOR,73.6
+Jordan,JOR,73.4
+Jordan,JOR,73.3
+Jordan,JOR,73.1
+Jordan,JOR,73
+Jordan,JOR,72.8
+Jordan,JOR,72.4
+Jordan,JOR,72.5
+Jordan,JOR,72.3
+Jordan,JOR,72.1
+Jordan,JOR,71.9
+Jordan,JOR,71.7
+Kazakhstan,KAZ,72
+Kazakhstan,KAZ,69.9
+Kazakhstan,KAZ,69.5
+Kazakhstan,KAZ,69.1
+Kazakhstan,KAZ,68.5
+Kazakhstan,KAZ,67.8
+Kazakhstan,KAZ,67.8
+Kazakhstan,KAZ,66.6
+Kazakhstan,KAZ,65.3
+Kazakhstan,KAZ,65
+Kazakhstan,KAZ,64.6
+Kazakhstan,KAZ,64.7
+Kazakhstan,KAZ,64.4
+Kazakhstan,KAZ,64.7
+Kazakhstan,KAZ,64.4
+Kazakhstan,KAZ,63.9
+Kenya,KEN,63.4
+Kenya,KEN,62.9
+Kenya,KEN,62.6
+Kenya,KEN,62.1
+Kenya,KEN,61.2
+Kenya,KEN,63
+Kenya,KEN,59.1
+Kenya,KEN,57.9
+Kenya,KEN,56.8
+Kenya,KEN,55.3
+Kenya,KEN,54.1
+Kenya,KEN,53
+Kenya,KEN,52.4
+Kenya,KEN,52.1
+Kenya,KEN,51.9
+Kenya,KEN,51.9
+Kiribati,KIR,66.3
+Kiribati,KIR,66.1
+Kiribati,KIR,65.8
+Kiribati,KIR,65.7
+Kiribati,KIR,65.5
+Kiribati,KIR,65.3
+Kiribati,KIR,65.2
+Kiribati,KIR,65.1
+Kiribati,KIR,65
+Kiribati,KIR,65
+Kiribati,KIR,64.9
+Kiribati,KIR,64.8
+Kiribati,KIR,64.7
+Kiribati,KIR,64.6
+Kiribati,KIR,64.3
+Kiribati,KIR,64.1
+Kuwait,KWT,74.7
+Kuwait,KWT,74.6
+Kuwait,KWT,74.5
+Kuwait,KWT,74.3
+Kuwait,KWT,74.2
+Kuwait,KWT,74
+Kuwait,KWT,73.9
+Kuwait,KWT,73.8
+Kuwait,KWT,73.7
+Kuwait,KWT,73.6
+Kuwait,KWT,73.6
+Kuwait,KWT,73.5
+Kuwait,KWT,73.4
+Kuwait,KWT,73.3
+Kuwait,KWT,73.2
+Kuwait,KWT,73.2
+Kyrgyzstan,KGZ,71.1
+Kyrgyzstan,KGZ,78
+Kyrgyzstan,KGZ,77
+Kyrgyzstan,KGZ,69.9
+Kyrgyzstan,KGZ,69.4
+Kyrgyzstan,KGZ,68.8
+Kyrgyzstan,KGZ,68.5
+Kyrgyzstan,KGZ,67.6
+Kyrgyzstan,KGZ,67.2
+Kyrgyzstan,KGZ,66.7
+Kyrgyzstan,KGZ,66.9
+Kyrgyzstan,KGZ,67.1
+Kyrgyzstan,KGZ,66.6
+Kyrgyzstan,KGZ,66.7
+Kyrgyzstan,KGZ,67.2
+Kyrgyzstan,KGZ,66.6
+Lao People's Democratic Republic,LAO,65.7
+Lao People's Democratic Republic,LAO,65.3
+Lao People's Democratic Republic,LAO,64.9
+Lao People's Democratic Republic,LAO,64.4
+Lao People's Democratic Republic,LAO,64
+Lao People's Democratic Republic,LAO,63.6
+Lao People's Democratic Republic,LAO,63.1
+Lao People's Democratic Republic,LAO,62.6
+Lao People's Democratic Republic,LAO,62.1
+Lao People's Democratic Republic,LAO,61.5
+Lao People's Democratic Republic,LAO,61
+Lao People's Democratic Republic,LAO,64
+Lao People's Democratic Republic,LAO,59.8
+Lao People's Democratic Republic,LAO,59.3
+Lao People's Democratic Republic,LAO,58.7
+Lao People's Democratic Republic,LAO,58.1
+Latvia,LVA,74.6
+Latvia,LVA,74.4
+Latvia,LVA,74.1
+Latvia,LVA,73.8
+Latvia,LVA,73.6
+Latvia,LVA,72.8
+Latvia,LVA,72.6
+Latvia,LVA,71.9
+Latvia,LVA,78
+Latvia,LVA,75
+Latvia,LVA,76
+Latvia,LVA,71
+Latvia,LVA,78
+Latvia,LVA,73
+Latvia,LVA,69.9
+Latvia,LVA,71
+Lebanon,LBN,74.9
+Lebanon,LBN,74.8
+Lebanon,LBN,74.9
+Lebanon,LBN,75
+Lebanon,LBN,75
+Lebanon,LBN,74.9
+Lebanon,LBN,74.7
+Lebanon,LBN,74.5
+Lebanon,LBN,74.4
+Lebanon,LBN,74.1
+Lebanon,LBN,73.9
+Lebanon,LBN,73.7
+Lebanon,LBN,73.5
+Lebanon,LBN,73.2
+Lebanon,LBN,73
+Lebanon,LBN,72.7
+Lesotho,LSO,53.7
+Lesotho,LSO,52.1
+Lesotho,LSO,52.1
+Lesotho,LSO,52.2
+Lesotho,LSO,52.3
+Lesotho,LSO,51.1
+Lesotho,LSO,49.4
+Lesotho,LSO,47.8
+Lesotho,LSO,46.2
+Lesotho,LSO,45.3
+Lesotho,LSO,44.5
+Lesotho,LSO,44.8
+Lesotho,LSO,45.5
+Lesotho,LSO,46.4
+Lesotho,LSO,47.8
+Lesotho,LSO,49.3
+Liberia,LBR,61.4
+Liberia,LBR,58.1
+Liberia,LBR,61.1
+Liberia,LBR,67
+Liberia,LBR,62
+Liberia,LBR,59.7
+Liberia,LBR,59.2
+Liberia,LBR,58.6
+Liberia,LBR,57.9
+Liberia,LBR,56.7
+Liberia,LBR,55.3
+Liberia,LBR,54
+Liberia,LBR,50
+Liberia,LBR,56
+Liberia,LBR,51.5
+Liberia,LBR,51.9
+Libya,LBY,72.7
+Libya,LBY,72.4
+Libya,LBY,72.9
+Libya,LBY,72.9
+Libya,LBY,71.3
+Libya,LBY,72.8
+Libya,LBY,72.7
+Libya,LBY,72.6
+Libya,LBY,72.5
+Libya,LBY,72.2
+Libya,LBY,71.9
+Libya,LBY,71.5
+Libya,LBY,71.3
+Libya,LBY,71.1
+Libya,LBY,71
+Libya,LBY,78
+Lithuania,LTU,73.6
+Lithuania,LTU,73.4
+Lithuania,LTU,73
+Lithuania,LTU,73
+Lithuania,LTU,72.8
+Lithuania,LTU,72.4
+Lithuania,LTU,72.2
+Lithuania,LTU,71.1
+Lithuania,LTU,72
+Lithuania,LTU,76
+Lithuania,LTU,78
+Lithuania,LTU,71.6
+Lithuania,LTU,71.6
+Lithuania,LTU,71.4
+Lithuania,LTU,71.2
+Lithuania,LTU,71.6
+Luxembourg,LUX,82
+Luxembourg,LUX,81.7
+Luxembourg,LUX,81.4
+Luxembourg,LUX,81.1
+Luxembourg,LUX,88
+Luxembourg,LUX,86
+Luxembourg,LUX,83
+Luxembourg,LUX,80
+Luxembourg,LUX,79.7
+Luxembourg,LUX,79.4
+Luxembourg,LUX,78.8
+Luxembourg,LUX,78.7
+Luxembourg,LUX,78.6
+Luxembourg,LUX,78.3
+Luxembourg,LUX,78
+Luxembourg,LUX,77.8
+Madagascar,MDG,65.5
+Madagascar,MDG,65.1
+Madagascar,MDG,64.7
+Madagascar,MDG,64.3
+Madagascar,MDG,63.8
+Madagascar,MDG,63.3
+Madagascar,MDG,62.8
+Madagascar,MDG,62.3
+Madagascar,MDG,61.9
+Madagascar,MDG,61.4
+Madagascar,MDG,69
+Madagascar,MDG,64
+Madagascar,MDG,59.9
+Madagascar,MDG,59.3
+Madagascar,MDG,58.7
+Madagascar,MDG,57.9
+Malawi,MWI,58.3
+Malawi,MWI,57.6
+Malawi,MWI,56.7
+Malawi,MWI,55.3
+Malawi,MWI,54.1
+Malawi,MWI,52.9
+Malawi,MWI,51.5
+Malawi,MWI,50
+Malawi,MWI,48.5
+Malawi,MWI,47.1
+Malawi,MWI,46
+Malawi,MWI,45.1
+Malawi,MWI,44.6
+Malawi,MWI,44
+Malawi,MWI,43.5
+Malawi,MWI,43.1
+Malaysia,MYS,75
+Malaysia,MYS,74.8
+Malaysia,MYS,74.6
+Malaysia,MYS,74.5
+Malaysia,MYS,74.3
+Malaysia,MYS,74.1
+Malaysia,MYS,74
+Malaysia,MYS,73.8
+Malaysia,MYS,73.7
+Malaysia,MYS,73.6
+Malaysia,MYS,73.4
+Malaysia,MYS,73.2
+Malaysia,MYS,73.1
+Malaysia,MYS,72.9
+Malaysia,MYS,72.7
+Malaysia,MYS,72.4
+Maldives,MDV,78.5
+Maldives,MDV,78.2
+Maldives,MDV,77.9
+Maldives,MDV,77.6
+Maldives,MDV,77.3
+Maldives,MDV,76.7
+Maldives,MDV,76.3
+Maldives,MDV,75.9
+Maldives,MDV,75.4
+Maldives,MDV,75
+Maldives,MDV,74.3
+Maldives,MDV,73.4
+Maldives,MDV,72.7
+Maldives,MDV,71.8
+Maldives,MDV,78
+Maldives,MDV,69.6
+Mali,MLI,58.2
+Mali,MLI,57.8
+Mali,MLI,57.3
+Mali,MLI,57.2
+Mali,MLI,56.8
+Mali,MLI,56.5
+Mali,MLI,56
+Mali,MLI,55.5
+Mali,MLI,55
+Mali,MLI,54.3
+Mali,MLI,53.6
+Mali,MLI,52.8
+Mali,MLI,52
+Mali,MLI,51.2
+Mali,MLI,55
+Mali,MLI,49.8
+Malta,MLT,81.7
+Malta,MLT,81.4
+Malta,MLT,81.1
+Malta,MLT,81
+Malta,MLT,87
+Malta,MLT,83
+Malta,MLT,82
+Malta,MLT,80
+Malta,MLT,79.6
+Malta,MLT,79.3
+Malta,MLT,79
+Malta,MLT,78.7
+Malta,MLT,78.5
+Malta,MLT,78.2
+Malta,MLT,77.8
+Malta,MLT,77.5
+Marshall Islands,MHL,
+Mauritania,MRT,63.1
+Mauritania,MRT,63
+Mauritania,MRT,62.7
+Mauritania,MRT,62.5
+Mauritania,MRT,62.2
+Mauritania,MRT,62
+Mauritania,MRT,61.7
+Mauritania,MRT,61.4
+Mauritania,MRT,61.2
+Mauritania,MRT,69
+Mauritania,MRT,66
+Mauritania,MRT,64
+Mauritania,MRT,63
+Mauritania,MRT,62
+Mauritania,MRT,61
+Mauritania,MRT,60
+Mauritius,MUS,74.6
+Mauritius,MUS,74.2
+Mauritius,MUS,74.1
+Mauritius,MUS,73.9
+Mauritius,MUS,73.6
+Mauritius,MUS,73.3
+Mauritius,MUS,72.8
+Mauritius,MUS,72.7
+Mauritius,MUS,72.9
+Mauritius,MUS,71.8
+Mauritius,MUS,72.1
+Mauritius,MUS,71.9
+Mauritius,MUS,71.5
+Mauritius,MUS,71.5
+Mauritius,MUS,71.5
+Mauritius,MUS,71
+Mexico,MEX,76.7
+Mexico,MEX,76.6
+Mexico,MEX,76.6
+Mexico,MEX,76.3
+Mexico,MEX,76.1
+Mexico,MEX,75.6
+Mexico,MEX,75.7
+Mexico,MEX,75.6
+Mexico,MEX,76
+Mexico,MEX,75.8
+Mexico,MEX,75.3
+Mexico,MEX,75.4
+Mexico,MEX,75
+Mexico,MEX,75
+Mexico,MEX,75
+Mexico,MEX,74.8
+Micronesia (Federated States of),FSM,69.4
+Micronesia (Federated States of),FSM,69.4
+Micronesia (Federated States of),FSM,69.2
+Micronesia (Federated States of),FSM,69
+Micronesia (Federated States of),FSM,68.9
+Micronesia (Federated States of),FSM,68.7
+Micronesia (Federated States of),FSM,68.5
+Micronesia (Federated States of),FSM,68.4
+Micronesia (Federated States of),FSM,68.2
+Micronesia (Federated States of),FSM,68
+Micronesia (Federated States of),FSM,67.9
+Micronesia (Federated States of),FSM,67.7
+Micronesia (Federated States of),FSM,67.5
+Micronesia (Federated States of),FSM,66.2
+Micronesia (Federated States of),FSM,67.2
+Micronesia (Federated States of),FSM,67
+Monaco,MCO,
+Mongolia,MNG,68.8
+Mongolia,MNG,68.4
+Mongolia,MNG,68.1
+Mongolia,MNG,67.8
+Mongolia,MNG,67.3
+Mongolia,MNG,66.3
+Mongolia,MNG,66.9
+Mongolia,MNG,67.4
+Mongolia,MNG,65.9
+Mongolia,MNG,65
+Mongolia,MNG,64.5
+Mongolia,MNG,64
+Mongolia,MNG,64
+Mongolia,MNG,63.8
+Mongolia,MNG,63.2
+Mongolia,MNG,62.8
+Montenegro,MNE,76.1
+Montenegro,MNE,75.9
+Montenegro,MNE,75.8
+Montenegro,MNE,75.6
+Montenegro,MNE,75.4
+Montenegro,MNE,75.3
+Montenegro,MNE,75
+Montenegro,MNE,74.6
+Montenegro,MNE,74.2
+Montenegro,MNE,73.8
+Montenegro,MNE,73.6
+Montenegro,MNE,73.5
+Montenegro,MNE,73.5
+Montenegro,MNE,73.4
+Montenegro,MNE,73.3
+Montenegro,MNE,73
+Morocco,MAR,74.3
+Morocco,MAR,74.1
+Morocco,MAR,73.9
+Morocco,MAR,73.6
+Morocco,MAR,73.3
+Morocco,MAR,72.8
+Morocco,MAR,72.3
+Morocco,MAR,71.8
+Morocco,MAR,71.4
+Morocco,MAR,71
+Morocco,MAR,77
+Morocco,MAR,72
+Morocco,MAR,69.9
+Morocco,MAR,69.5
+Morocco,MAR,69
+Morocco,MAR,68.6
+Mozambique,MOZ,57.6
+Mozambique,MOZ,56.7
+Mozambique,MOZ,55.3
+Mozambique,MOZ,54.8
+Mozambique,MOZ,54.3
+Mozambique,MOZ,54
+Mozambique,MOZ,53.8
+Mozambique,MOZ,53.2
+Mozambique,MOZ,52.1
+Mozambique,MOZ,51.2
+Mozambique,MOZ,58
+Mozambique,MOZ,54
+Mozambique,MOZ,51
+Mozambique,MOZ,49.8
+Mozambique,MOZ,49.5
+Mozambique,MOZ,49
+Myanmar,MMR,66.6
+Myanmar,MMR,66.4
+Myanmar,MMR,66.2
+Myanmar,MMR,65.9
+Myanmar,MMR,65.6
+Myanmar,MMR,65.4
+Myanmar,MMR,65.2
+Myanmar,MMR,59.2
+Myanmar,MMR,64.5
+Myanmar,MMR,64.2
+Myanmar,MMR,63.9
+Myanmar,MMR,63.5
+Myanmar,MMR,63.2
+Myanmar,MMR,62.8
+Myanmar,MMR,62.5
+Myanmar,MMR,62.1
+Namibia,NAM,65.8
+Namibia,NAM,65.9
+Namibia,NAM,66.1
+Namibia,NAM,65.8
+Namibia,NAM,64.3
+Namibia,NAM,63
+Namibia,NAM,62.4
+Namibia,NAM,61.7
+Namibia,NAM,60
+Namibia,NAM,57
+Namibia,NAM,55.1
+Namibia,NAM,54.7
+Namibia,NAM,55
+Namibia,NAM,55.7
+Namibia,NAM,56.5
+Namibia,NAM,57.4
+Nauru,NRU,
+Nepal,NPL,69.2
+Nepal,NPL,69.6
+Nepal,NPL,69.3
+Nepal,NPL,68.9
+Nepal,NPL,68.4
+Nepal,NPL,68
+Nepal,NPL,67.5
+Nepal,NPL,67
+Nepal,NPL,66.6
+Nepal,NPL,66
+Nepal,NPL,65.4
+Nepal,NPL,64.7
+Nepal,NPL,64.3
+Nepal,NPL,63.1
+Nepal,NPL,63.2
+Nepal,NPL,62.5
+Netherlands,NLD,81.9
+Netherlands,NLD,81.7
+Netherlands,NLD,81.4
+Netherlands,NLD,81.1
+Netherlands,NLD,81.1
+Netherlands,NLD,88
+Netherlands,NLD,86
+Netherlands,NLD,83
+Netherlands,NLD,82
+Netherlands,NLD,79.8
+Netherlands,NLD,79.4
+Netherlands,NLD,79.2
+Netherlands,NLD,78.7
+Netherlands,NLD,78.4
+Netherlands,NLD,78.3
+Netherlands,NLD,78.1
+New Zealand,NZL,81.6
+New Zealand,NZL,81.5
+New Zealand,NZL,81.3
+New Zealand,NZL,81.1
+New Zealand,NZL,86
+New Zealand,NZL,89
+New Zealand,NZL,85
+New Zealand,NZL,81
+New Zealand,NZL,81
+New Zealand,NZL,79.9
+New Zealand,NZL,79.9
+New Zealand,NZL,79.2
+New Zealand,NZL,79.1
+New Zealand,NZL,78.7
+New Zealand,NZL,78.5
+New Zealand,NZL,78.6
+Nicaragua,NIC,74.8
+Nicaragua,NIC,74.5
+Nicaragua,NIC,73.9
+Nicaragua,NIC,73.9
+Nicaragua,NIC,74.5
+Nicaragua,NIC,73.2
+Nicaragua,NIC,73.2
+Nicaragua,NIC,72.5
+Nicaragua,NIC,72.5
+Nicaragua,NIC,73
+Nicaragua,NIC,71.2
+Nicaragua,NIC,71
+Nicaragua,NIC,76
+Nicaragua,NIC,75
+Nicaragua,NIC,73
+Nicaragua,NIC,73
+Niger,NER,61.8
+Niger,NER,61.4
+Niger,NER,69
+Niger,NER,63
+Niger,NER,59.4
+Niger,NER,58.2
+Niger,NER,57.1
+Niger,NER,56
+Niger,NER,55.2
+Niger,NER,54.5
+Niger,NER,53.7
+Niger,NER,52.9
+Niger,NER,52.1
+Niger,NER,51.4
+Niger,NER,56
+Niger,NER,50
+Nigeria,NGA,54.5
+Nigeria,NGA,53.6
+Nigeria,NGA,53.2
+Nigeria,NGA,52.7
+Nigeria,NGA,52.3
+Nigeria,NGA,52
+Nigeria,NGA,51.6
+Nigeria,NGA,59
+Nigeria,NGA,55
+Nigeria,NGA,49.8
+Nigeria,NGA,49.2
+Nigeria,NGA,48.5
+Nigeria,NGA,48.1
+Nigeria,NGA,47.7
+Nigeria,NGA,47.4
+Nigeria,NGA,47.1
+Niue,NIU,
+Norway,NOR,81.8
+Norway,NOR,81.6
+Norway,NOR,81.5
+Norway,NOR,81.3
+Norway,NOR,81.1
+Norway,NOR,81
+Norway,NOR,89
+Norway,NOR,86
+Norway,NOR,85
+Norway,NOR,84
+Norway,NOR,81
+Norway,NOR,79.8
+Norway,NOR,79.4
+Norway,NOR,78.9
+Norway,NOR,78.8
+Norway,NOR,78.5
+Oman,OMN,76.6
+Oman,OMN,76.4
+Oman,OMN,76.2
+Oman,OMN,76
+Oman,OMN,75.8
+Oman,OMN,75.6
+Oman,OMN,75.4
+Oman,OMN,75.2
+Oman,OMN,74.9
+Oman,OMN,74.7
+Oman,OMN,74.3
+Oman,OMN,74
+Oman,OMN,73.6
+Oman,OMN,73.3
+Oman,OMN,72.9
+Oman,OMN,72.6
+Pakistan,PAK,66.4
+Pakistan,PAK,66.2
+Pakistan,PAK,66
+Pakistan,PAK,65.7
+Pakistan,PAK,65.5
+Pakistan,PAK,65.1
+Pakistan,PAK,64.8
+Pakistan,PAK,64.6
+Pakistan,PAK,64.4
+Pakistan,PAK,64.2
+Pakistan,PAK,62.9
+Pakistan,PAK,63.7
+Pakistan,PAK,63.5
+Pakistan,PAK,63.2
+Pakistan,PAK,63
+Pakistan,PAK,62.8
+Palau,PLW,
+Panama,PAN,77.8
+Panama,PAN,77.6
+Panama,PAN,77.5
+Panama,PAN,77.2
+Panama,PAN,77.3
+Panama,PAN,76.5
+Panama,PAN,76.8
+Panama,PAN,76.5
+Panama,PAN,76.4
+Panama,PAN,76.2
+Panama,PAN,75.8
+Panama,PAN,75.8
+Panama,PAN,75.5
+Panama,PAN,75.7
+Panama,PAN,75.5
+Panama,PAN,75.7
+Papua New Guinea,PNG,62.9
+Papua New Guinea,PNG,62.7
+Papua New Guinea,PNG,62.4
+Papua New Guinea,PNG,62.2
+Papua New Guinea,PNG,62
+Papua New Guinea,PNG,61.8
+Papua New Guinea,PNG,61.6
+Papua New Guinea,PNG,61.4
+Papua New Guinea,PNG,61.1
+Papua New Guinea,PNG,68
+Papua New Guinea,PNG,64
+Papua New Guinea,PNG,59.9
+Papua New Guinea,PNG,59.6
+Papua New Guinea,PNG,59.3
+Papua New Guinea,PNG,59.1
+Papua New Guinea,PNG,58.9
+Paraguay,PRY,74
+Paraguay,PRY,73.9
+Paraguay,PRY,73.8
+Paraguay,PRY,73.6
+Paraguay,PRY,73.4
+Paraguay,PRY,73.2
+Paraguay,PRY,73
+Paraguay,PRY,72.7
+Paraguay,PRY,72.5
+Paraguay,PRY,72.3
+Paraguay,PRY,72.1
+Paraguay,PRY,71.9
+Paraguay,PRY,71.7
+Paraguay,PRY,71.5
+Paraguay,PRY,71.2
+Paraguay,PRY,79
+Peru,PER,75.5
+Peru,PER,75.3
+Peru,PER,75.3
+Peru,PER,74.9
+Peru,PER,74.5
+Peru,PER,73.7
+Peru,PER,73.8
+Peru,PER,73.9
+Peru,PER,74
+Peru,PER,74.2
+Peru,PER,72.8
+Peru,PER,72.2
+Peru,PER,72.1
+Peru,PER,72.6
+Peru,PER,72.4
+Peru,PER,71.4
+Philippines,PHL,68.5
+Philippines,PHL,68.4
+Philippines,PHL,68.1
+Philippines,PHL,68.1
+Philippines,PHL,68
+Philippines,PHL,67.9
+Philippines,PHL,68
+Philippines,PHL,67.5
+Philippines,PHL,67.5
+Philippines,PHL,67.3
+Philippines,PHL,67
+Philippines,PHL,67.3
+Philippines,PHL,67.2
+Philippines,PHL,66.8
+Philippines,PHL,66.8
+Philippines,PHL,66.8
+Poland,POL,77.5
+Poland,POL,77.3
+Poland,POL,77.1
+Poland,POL,76.8
+Poland,POL,76.7
+Poland,POL,76.3
+Poland,POL,75.7
+Poland,POL,75.5
+Poland,POL,75.3
+Poland,POL,75.2
+Poland,POL,75
+Poland,POL,74.9
+Poland,POL,74.7
+Poland,POL,74.5
+Poland,POL,74.2
+Poland,POL,73.7
+Portugal,PRT,81.1
+Portugal,PRT,89
+Portugal,PRT,86
+Portugal,PRT,83
+Portugal,PRT,82
+Portugal,PRT,79.6
+Portugal,PRT,79.3
+Portugal,PRT,79
+Portugal,PRT,78.7
+Portugal,PRT,78.5
+Portugal,PRT,77.7
+Portugal,PRT,78
+Portugal,PRT,77.3
+Portugal,PRT,77.2
+Portugal,PRT,76.9
+Portugal,PRT,76.6
+Qatar,QAT,78.2
+Qatar,QAT,78.1
+Qatar,QAT,77.9
+Qatar,QAT,77.8
+Qatar,QAT,77.5
+Qatar,QAT,77.3
+Qatar,QAT,77
+Qatar,QAT,76.8
+Qatar,QAT,76.7
+Qatar,QAT,76.6
+Qatar,QAT,76.6
+Qatar,QAT,76.6
+Qatar,QAT,76.5
+Qatar,QAT,76.4
+Qatar,QAT,76.3
+Qatar,QAT,76.2
+Republic of Korea,MDA,82.3
+Republic of Korea,MDA,82
+Republic of Korea,MDA,81.7
+Republic of Korea,MDA,81.2
+Republic of Korea,MDA,81.1
+Republic of Korea,MDA,87
+Republic of Korea,MDA,86
+Republic of Korea,MDA,83
+Republic of Korea,MDA,79.8
+Republic of Korea,MDA,79.4
+Republic of Korea,MDA,78.7
+Republic of Korea,MDA,78.2
+Republic of Korea,MDA,77.6
+Republic of Korea,MDA,77.1
+Republic of Korea,MDA,76.7
+Republic of Korea,MDA,76
+Republic of Moldova,MDA,72.1
+Republic of Moldova,MDA,71.8
+Republic of Moldova,MDA,71.7
+Republic of Moldova,MDA,79
+Republic of Moldova,MDA,77
+Republic of Moldova,MDA,68.8
+Republic of Moldova,MDA,69
+Republic of Moldova,MDA,68.9
+Republic of Moldova,MDA,68.3
+Republic of Moldova,MDA,68
+Republic of Moldova,MDA,67.3
+Republic of Moldova,MDA,68
+Republic of Moldova,MDA,67.6
+Republic of Moldova,MDA,67.5
+Republic of Moldova,MDA,67.6
+Republic of Moldova,MDA,67.1
+Romania,ROU,75
+Romania,ROU,74.8
+Romania,ROU,74.6
+Romania,ROU,74.4
+Romania,ROU,74.3
+Romania,ROU,73.4
+Romania,ROU,73.1
+Romania,ROU,73.1
+Romania,ROU,72.9
+Romania,ROU,72.5
+Romania,ROU,71.9
+Romania,ROU,71.7
+Romania,ROU,71.1
+Romania,ROU,77
+Romania,ROU,78
+Romania,ROU,77
+Russian Federation,RUS,75
+Russian Federation,RUS,73
+Russian Federation,RUS,70
+Russian Federation,RUS,69.6
+Russian Federation,RUS,69.4
+Russian Federation,RUS,68.4
+Russian Federation,RUS,68.2
+Russian Federation,RUS,67.5
+Russian Federation,RUS,67.3
+Russian Federation,RUS,66.4
+Russian Federation,RUS,65
+Russian Federation,RUS,64.9
+Russian Federation,RUS,64.6
+Russian Federation,RUS,64.8
+Russian Federation,RUS,65.1
+Russian Federation,RUS,65
+Rwanda,RWA,66.1
+Rwanda,RWA,65.7
+Rwanda,RWA,65.2
+Rwanda,RWA,64.6
+Rwanda,RWA,63.8
+Rwanda,RWA,62.8
+Rwanda,RWA,61
+Rwanda,RWA,68
+Rwanda,RWA,59.6
+Rwanda,RWA,57.6
+Rwanda,RWA,55.3
+Rwanda,RWA,53.4
+Rwanda,RWA,52
+Rwanda,RWA,57
+Rwanda,RWA,48.6
+Rwanda,RWA,48.3
+Saint Kitts and Nevis,KNA,
+Saint Lucia,LCA,75.2
+Saint Lucia,LCA,75
+Saint Lucia,LCA,74.8
+Saint Lucia,LCA,74.7
+Saint Lucia,LCA,74.6
+Saint Lucia,LCA,74.2
+Saint Lucia,LCA,74.3
+Saint Lucia,LCA,74.1
+Saint Lucia,LCA,73.9
+Saint Lucia,LCA,73.5
+Saint Lucia,LCA,73.1
+Saint Lucia,LCA,72.6
+Saint Lucia,LCA,72.2
+Saint Lucia,LCA,72
+Saint Lucia,LCA,71.8
+Saint Lucia,LCA,71.6
+Saint Vincent and the Grenadines,VCT,73.2
+Saint Vincent and the Grenadines,VCT,73.1
+Saint Vincent and the Grenadines,VCT,72.7
+Saint Vincent and the Grenadines,VCT,72.8
+Saint Vincent and the Grenadines,VCT,72.7
+Saint Vincent and the Grenadines,VCT,72.5
+Saint Vincent and the Grenadines,VCT,72.3
+Saint Vincent and the Grenadines,VCT,72.1
+Saint Vincent and the Grenadines,VCT,71.9
+Saint Vincent and the Grenadines,VCT,71.7
+Saint Vincent and the Grenadines,VCT,71.4
+Saint Vincent and the Grenadines,VCT,71.2
+Saint Vincent and the Grenadines,VCT,71
+Saint Vincent and the Grenadines,VCT,79
+Saint Vincent and the Grenadines,VCT,79
+Saint Vincent and the Grenadines,VCT,79
+Samoa,WSM,74
+Samoa,WSM,73.8
+Samoa,WSM,73.6
+Samoa,WSM,73.2
+Samoa,WSM,73
+Samoa,WSM,72.6
+Samoa,WSM,76
+Samoa,WSM,72.5
+Samoa,WSM,72.2
+Samoa,WSM,72
+Samoa,WSM,71.6
+Samoa,WSM,71.4
+Samoa,WSM,79
+Samoa,WSM,76
+Samoa,WSM,75
+Samoa,WSM,72
+San Marino,SMR,
+Sao Tome and Principe,STP,67.5
+Sao Tome and Principe,STP,67.3
+Sao Tome and Principe,STP,67.1
+Sao Tome and Principe,STP,66.9
+Sao Tome and Principe,STP,66.6
+Sao Tome and Principe,STP,66.2
+Sao Tome and Principe,STP,65.8
+Sao Tome and Principe,STP,65.4
+Sao Tome and Principe,STP,65.1
+Sao Tome and Principe,STP,64.7
+Sao Tome and Principe,STP,64.3
+Sao Tome and Principe,STP,63.8
+Sao Tome and Principe,STP,63.4
+Sao Tome and Principe,STP,63.1
+Sao Tome and Principe,STP,62.8
+Sao Tome and Principe,STP,62.6
+Saudi Arabia,SAU,74.5
+Saudi Arabia,SAU,74.4
+Saudi Arabia,SAU,74.3
+Saudi Arabia,SAU,74.1
+Saudi Arabia,SAU,73.9
+Saudi Arabia,SAU,73.7
+Saudi Arabia,SAU,73.4
+Saudi Arabia,SAU,73.3
+Saudi Arabia,SAU,73.2
+Saudi Arabia,SAU,73.2
+Saudi Arabia,SAU,73.1
+Saudi Arabia,SAU,73.1
+Saudi Arabia,SAU,73
+Saudi Arabia,SAU,72.9
+Saudi Arabia,SAU,72.8
+Saudi Arabia,SAU,72.6
+Senegal,SEN,66.7
+Senegal,SEN,66.4
+Senegal,SEN,66
+Senegal,SEN,65.6
+Senegal,SEN,64.9
+Senegal,SEN,64.3
+Senegal,SEN,63.5
+Senegal,SEN,62.8
+Senegal,SEN,62.1
+Senegal,SEN,61.3
+Senegal,SEN,65
+Senegal,SEN,59.7
+Senegal,SEN,59
+Senegal,SEN,58.4
+Senegal,SEN,57.9
+Senegal,SEN,57.5
+Serbia,SRB,75.6
+Serbia,SRB,75.4
+Serbia,SRB,75.3
+Serbia,SRB,74.9
+Serbia,SRB,74.6
+Serbia,SRB,74.4
+Serbia,SRB,74.1
+Serbia,SRB,74
+Serbia,SRB,73.8
+Serbia,SRB,73.6
+Serbia,SRB,73
+Serbia,SRB,73
+Serbia,SRB,73
+Serbia,SRB,72.9
+Serbia,SRB,73.1
+Serbia,SRB,72.6
+Seychelles,SYC,73.2
+Seychelles,SYC,73
+Seychelles,SYC,72.9
+Seychelles,SYC,72.7
+Seychelles,SYC,72.6
+Seychelles,SYC,72.4
+Seychelles,SYC,72.3
+Seychelles,SYC,72.2
+Seychelles,SYC,72.2
+Seychelles,SYC,72.2
+Seychelles,SYC,72.2
+Seychelles,SYC,72.1
+Seychelles,SYC,72.1
+Seychelles,SYC,72.1
+Seychelles,SYC,72
+Seychelles,SYC,71.8
+Sierra Leone,SLE,51
+Sierra Leone,SLE,48.1
+Sierra Leone,SLE,54
+Sierra Leone,SLE,49.7
+Sierra Leone,SLE,48.9
+Sierra Leone,SLE,48.1
+Sierra Leone,SLE,47.1
+Sierra Leone,SLE,46.2
+Sierra Leone,SLE,45.3
+Sierra Leone,SLE,44.3
+Sierra Leone,SLE,43.3
+Sierra Leone,SLE,42.3
+Sierra Leone,SLE,41.5
+Sierra Leone,SLE,48
+Sierra Leone,SLE,41
+Sierra Leone,SLE,39
+Singapore,SGP,83.1
+Singapore,SGP,82.9
+Singapore,SGP,82.7
+Singapore,SGP,82.5
+Singapore,SGP,82.2
+Singapore,SGP,82
+Singapore,SGP,81.7
+Singapore,SGP,81.4
+Singapore,SGP,81.1
+Singapore,SGP,87
+Singapore,SGP,82
+Singapore,SGP,79.7
+Singapore,SGP,79.3
+Singapore,SGP,79
+Singapore,SGP,78.7
+Singapore,SGP,78.3
+Slovakia,SVK,76.7
+Slovakia,SVK,76.4
+Slovakia,SVK,76.1
+Slovakia,SVK,75.8
+Slovakia,SVK,75.6
+Slovakia,SVK,75.1
+Slovakia,SVK,75
+Slovakia,SVK,74.7
+Slovakia,SVK,74.4
+Slovakia,SVK,74.3
+Slovakia,SVK,74
+Slovakia,SVK,74.1
+Slovakia,SVK,73.8
+Slovakia,SVK,73.7
+Slovakia,SVK,73.3
+Slovakia,SVK,73
+Slovenia,SVN,88
+Slovenia,SVN,87
+Slovenia,SVN,85
+Slovenia,SVN,82
+Slovenia,SVN,79.8
+Slovenia,SVN,79.5
+Slovenia,SVN,79.1
+Slovenia,SVN,78.9
+Slovenia,SVN,78.3
+Slovenia,SVN,78.1
+Slovenia,SVN,77.5
+Slovenia,SVN,77.2
+Slovenia,SVN,76.5
+Slovenia,SVN,76.6
+Slovenia,SVN,76.2
+Slovenia,SVN,76
+Solomon Islands,SLB,69.2
+Solomon Islands,SLB,68.8
+Solomon Islands,SLB,68.8
+Solomon Islands,SLB,68.7
+Solomon Islands,SLB,68.5
+Solomon Islands,SLB,68.3
+Solomon Islands,SLB,68.1
+Solomon Islands,SLB,68
+Solomon Islands,SLB,67.6
+Solomon Islands,SLB,67.6
+Solomon Islands,SLB,67.4
+Solomon Islands,SLB,67.1
+Solomon Islands,SLB,66.8
+Solomon Islands,SLB,66.5
+Solomon Islands,SLB,66.2
+Solomon Islands,SLB,65.8
+Somalia,SOM,55
+Somalia,SOM,54.3
+Somalia,SOM,54.2
+Somalia,SOM,53.1
+Somalia,SOM,53.1
+Somalia,SOM,52.4
+Somalia,SOM,52.2
+Somalia,SOM,51.9
+Somalia,SOM,51.5
+Somalia,SOM,51.5
+Somalia,SOM,51.6
+Somalia,SOM,51.2
+Somalia,SOM,51.1
+Somalia,SOM,58
+Somalia,SOM,57
+Somalia,SOM,55
+South Africa,ZAF,62.9
+South Africa,ZAF,62
+South Africa,ZAF,69
+South Africa,ZAF,59.2
+South Africa,ZAF,58.9
+South Africa,ZAF,58
+South Africa,ZAF,56.5
+South Africa,ZAF,55.3
+South Africa,ZAF,54.5
+South Africa,ZAF,54
+South Africa,ZAF,53.8
+South Africa,ZAF,53.7
+South Africa,ZAF,54
+South Africa,ZAF,54.9
+South Africa,ZAF,56
+South Africa,ZAF,57.3
+South Sudan,SSD,57.3
+South Sudan,SSD,56.6
+South Sudan,SSD,56.4
+South Sudan,SSD,56
+South Sudan,SSD,55.4
+South Sudan,SSD,55
+South Sudan,SSD,54.3
+South Sudan,SSD,53.6
+South Sudan,SSD,53.1
+South Sudan,SSD,52.5
+South Sudan,SSD,51.9
+South Sudan,SSD,51.4
+South Sudan,SSD,58
+South Sudan,SSD,52
+South Sudan,SSD,49.6
+South Sudan,SSD,48.9
+Spain,ESP,82.8
+Spain,ESP,82.6
+Spain,ESP,82.4
+Spain,ESP,82
+Spain,ESP,82.1
+Spain,ESP,81.9
+Spain,ESP,81.6
+Spain,ESP,81.3
+Spain,ESP,89
+Spain,ESP,88
+Spain,ESP,81
+Spain,ESP,81
+Spain,ESP,79.4
+Spain,ESP,79.5
+Spain,ESP,79.4
+Spain,ESP,79.1
+Sri Lanka,LKA,74.9
+Sri Lanka,LKA,74.7
+Sri Lanka,LKA,74.6
+Sri Lanka,LKA,74.5
+Sri Lanka,LKA,74.5
+Sri Lanka,LKA,74.5
+Sri Lanka,LKA,71.8
+Sri Lanka,LKA,72.3
+Sri Lanka,LKA,73.7
+Sri Lanka,LKA,73.8
+Sri Lanka,LKA,74.2
+Sri Lanka,LKA,69.1
+Sri Lanka,LKA,73.9
+Sri Lanka,LKA,73.7
+Sri Lanka,LKA,72.7
+Sri Lanka,LKA,71.5
+Sudan,SDN,64.1
+Sudan,SDN,63.8
+Sudan,SDN,63.5
+Sudan,SDN,63.2
+Sudan,SDN,62.7
+Sudan,SDN,62.5
+Sudan,SDN,62
+Sudan,SDN,61.8
+Sudan,SDN,61.4
+Sudan,SDN,61
+Sudan,SDN,67
+Sudan,SDN,59.7
+Sudan,SDN,59.6
+Sudan,SDN,59.4
+Sudan,SDN,58.9
+Sudan,SDN,58.6
+Suriname,SUR,71.6
+Suriname,SUR,71.4
+Suriname,SUR,71.2
+Suriname,SUR,71.3
+Suriname,SUR,76
+Suriname,SUR,73
+Suriname,SUR,70
+Suriname,SUR,69.8
+Suriname,SUR,69.5
+Suriname,SUR,69.3
+Suriname,SUR,68.9
+Suriname,SUR,68.3
+Suriname,SUR,68
+Suriname,SUR,67.9
+Suriname,SUR,67.7
+Suriname,SUR,67.4
+Sweden,SWE,82.4
+Sweden,SWE,82.3
+Sweden,SWE,81.9
+Sweden,SWE,81.7
+Sweden,SWE,81.7
+Sweden,SWE,81.5
+Sweden,SWE,81.4
+Sweden,SWE,81.1
+Sweden,SWE,89
+Sweden,SWE,88
+Sweden,SWE,85
+Sweden,SWE,83
+Sweden,SWE,82
+Sweden,SWE,79.9
+Sweden,SWE,79.8
+Sweden,SWE,79.6
+Switzerland,CHE,83.4
+Switzerland,CHE,83.2
+Switzerland,CHE,83
+Switzerland,CHE,82.7
+Switzerland,CHE,82.6
+Switzerland,CHE,82.3
+Switzerland,CHE,82.1
+Switzerland,CHE,82
+Switzerland,CHE,81.7
+Switzerland,CHE,81.5
+Switzerland,CHE,81.1
+Switzerland,CHE,81
+Switzerland,CHE,85
+Switzerland,CHE,84
+Switzerland,CHE,82
+Switzerland,CHE,79.7
+Syrian Arab Republic,SYR,64.5
+Syrian Arab Republic,SYR,64.4
+Syrian Arab Republic,SYR,63.6
+Syrian Arab Republic,SYR,62.8
+Syrian Arab Republic,SYR,71.7
+Syrian Arab Republic,SYR,73.7
+Syrian Arab Republic,SYR,73.8
+Syrian Arab Republic,SYR,73.8
+Syrian Arab Republic,SYR,73.8
+Syrian Arab Republic,SYR,73.7
+Syrian Arab Republic,SYR,73.5
+Syrian Arab Republic,SYR,73.2
+Syrian Arab Republic,SYR,73
+Syrian Arab Republic,SYR,72.8
+Syrian Arab Republic,SYR,72.7
+Syrian Arab Republic,SYR,72.6
+Tajikistan,TJK,69.7
+Tajikistan,TJK,69.6
+Tajikistan,TJK,69.3
+Tajikistan,TJK,68.8
+Tajikistan,TJK,68.1
+Tajikistan,TJK,67.3
+Tajikistan,TJK,66.7
+Tajikistan,TJK,66.4
+Tajikistan,TJK,66.1
+Tajikistan,TJK,65.9
+Tajikistan,TJK,65.5
+Tajikistan,TJK,65.9
+Tajikistan,TJK,65.2
+Tajikistan,TJK,64.3
+Tajikistan,TJK,64
+Tajikistan,TJK,63.7
+Thailand,THA,74.9
+Thailand,THA,74.6
+Thailand,THA,74.5
+Thailand,THA,74.3
+Thailand,THA,74.1
+Thailand,THA,73.9
+Thailand,THA,73.7
+Thailand,THA,73.5
+Thailand,THA,73.3
+Thailand,THA,73
+Thailand,THA,72.5
+Thailand,THA,71.6
+Thailand,THA,71.7
+Thailand,THA,71.4
+Thailand,THA,71.2
+Thailand,THA,71.1
+Timor-Leste,TLS,68.3
+Timor-Leste,TLS,68
+Timor-Leste,TLS,67.7
+Timor-Leste,TLS,67.4
+Timor-Leste,TLS,67.2
+Timor-Leste,TLS,66.9
+Timor-Leste,TLS,66.6
+Timor-Leste,TLS,66.2
+Timor-Leste,TLS,65.8
+Timor-Leste,TLS,64.9
+Timor-Leste,TLS,63.7
+Timor-Leste,TLS,62.3
+Timor-Leste,TLS,61
+Timor-Leste,TLS,62
+Timor-Leste,TLS,59.4
+Timor-Leste,TLS,58.7
+Togo,TGO,59.9
+Togo,TGO,59.7
+Togo,TGO,59.4
+Togo,TGO,58.9
+Togo,TGO,58.3
+Togo,TGO,57.4
+Togo,TGO,56.7
+Togo,TGO,56.2
+Togo,TGO,55.9
+Togo,TGO,55.7
+Togo,TGO,55
+Togo,TGO,54.9
+Togo,TGO,54.7
+Togo,TGO,54.7
+Togo,TGO,54.6
+Togo,TGO,54.6
+Tonga,TON,73.5
+Tonga,TON,73.3
+Tonga,TON,73.2
+Tonga,TON,73
+Tonga,TON,72.9
+Tonga,TON,72.8
+Tonga,TON,72.5
+Tonga,TON,72.6
+Tonga,TON,72.5
+Tonga,TON,72.4
+Tonga,TON,72.3
+Tonga,TON,72.2
+Tonga,TON,72
+Tonga,TON,71.9
+Tonga,TON,71.8
+Tonga,TON,71.6
+Trinidad and Tobago,TTO,71.2
+Trinidad and Tobago,TTO,71.1
+Trinidad and Tobago,TTO,71
+Trinidad and Tobago,TTO,78
+Trinidad and Tobago,TTO,76
+Trinidad and Tobago,TTO,74
+Trinidad and Tobago,TTO,71
+Trinidad and Tobago,TTO,69.9
+Trinidad and Tobago,TTO,69.7
+Trinidad and Tobago,TTO,69.6
+Trinidad and Tobago,TTO,69.5
+Trinidad and Tobago,TTO,69.4
+Trinidad and Tobago,TTO,69.3
+Trinidad and Tobago,TTO,69.2
+Trinidad and Tobago,TTO,69.1
+Trinidad and Tobago,TTO,69.1
+Tunisia,TUN,75.3
+Tunisia,TUN,75.1
+Tunisia,TUN,74.9
+Tunisia,TUN,74.9
+Tunisia,TUN,74.8
+Tunisia,TUN,74.8
+Tunisia,TUN,74.7
+Tunisia,TUN,74.7
+Tunisia,TUN,74.6
+Tunisia,TUN,74.4
+Tunisia,TUN,74.2
+Tunisia,TUN,74
+Tunisia,TUN,73.7
+Tunisia,TUN,73.5
+Tunisia,TUN,73.2
+Tunisia,TUN,72.9
+Turkey,TUR,75.8
+Turkey,TUR,75.5
+Turkey,TUR,75.2
+Turkey,TUR,74.8
+Turkey,TUR,74.5
+Turkey,TUR,74.2
+Turkey,TUR,73.9
+Turkey,TUR,73.5
+Turkey,TUR,73.2
+Turkey,TUR,72.8
+Turkey,TUR,72.4
+Turkey,TUR,72
+Turkey,TUR,71.6
+Turkey,TUR,71.2
+Turkey,TUR,78
+Turkey,TUR,74
+Turkmenistan,TKM,66.3
+Turkmenistan,TKM,66
+Turkmenistan,TKM,65.4
+Turkmenistan,TKM,65.6
+Turkmenistan,TKM,65.6
+Turkmenistan,TKM,65.8
+Turkmenistan,TKM,65.6
+Turkmenistan,TKM,64.5
+Turkmenistan,TKM,64.1
+Turkmenistan,TKM,63.7
+Turkmenistan,TKM,63.3
+Turkmenistan,TKM,63.5
+Turkmenistan,TKM,63.4
+Turkmenistan,TKM,63.3
+Turkmenistan,TKM,64
+Turkmenistan,TKM,63.8
+Tuvalu,TUV,
+Uganda,UGA,62.3
+Uganda,UGA,61.5
+Uganda,UGA,67
+Uganda,UGA,60
+Uganda,UGA,59.3
+Uganda,UGA,58.4
+Uganda,UGA,57.5
+Uganda,UGA,56.3
+Uganda,UGA,55.5
+Uganda,UGA,54.9
+Uganda,UGA,53.2
+Uganda,UGA,51.3
+Uganda,UGA,51
+Uganda,UGA,48.8
+Uganda,UGA,47.7
+Uganda,UGA,46.6
+Ukraine,UKR,71.3
+Ukraine,UKR,78
+Ukraine,UKR,71
+Ukraine,UKR,77
+Ukraine,UKR,75
+Ukraine,UKR,69.8
+Ukraine,UKR,69.2
+Ukraine,UKR,67.7
+Ukraine,UKR,67.5
+Ukraine,UKR,67.7
+Ukraine,UKR,67
+Ukraine,UKR,67.4
+Ukraine,UKR,67.6
+Ukraine,UKR,67.6
+Ukraine,UKR,67.7
+Ukraine,UKR,67.5
+United Arab Emirates,ARE,77.1
+United Arab Emirates,ARE,76.9
+United Arab Emirates,ARE,76.7
+United Arab Emirates,ARE,76.5
+United Arab Emirates,ARE,76.3
+United Arab Emirates,ARE,76.2
+United Arab Emirates,ARE,76
+United Arab Emirates,ARE,75.8
+United Arab Emirates,ARE,75.6
+United Arab Emirates,ARE,75.4
+United Arab Emirates,ARE,75.3
+United Arab Emirates,ARE,75.1
+United Arab Emirates,ARE,74.9
+United Arab Emirates,ARE,74.7
+United Arab Emirates,ARE,74.5
+United Arab Emirates,ARE,74.2
+United Kingdom of Great Britain and Northern Ireland,GBR,81.2
+United Kingdom of Great Britain and Northern Ireland,GBR,81
+United Kingdom of Great Britain and Northern Ireland,GBR,87
+United Kingdom of Great Britain and Northern Ireland,GBR,86
+United Kingdom of Great Britain and Northern Ireland,GBR,86
+United Kingdom of Great Britain and Northern Ireland,GBR,82
+United Kingdom of Great Britain and Northern Ireland,GBR,81
+United Kingdom of Great Britain and Northern Ireland,GBR,79.6
+United Kingdom of Great Britain and Northern Ireland,GBR,79.5
+United Kingdom of Great Britain and Northern Ireland,GBR,79.3
+United Kingdom of Great Britain and Northern Ireland,GBR,79
+United Kingdom of Great Britain and Northern Ireland,GBR,78.8
+United Kingdom of Great Britain and Northern Ireland,GBR,78.3
+United Kingdom of Great Britain and Northern Ireland,GBR,78.2
+United Kingdom of Great Britain and Northern Ireland,GBR,78
+United Kingdom of Great Britain and Northern Ireland,GBR,77.8
+United States of America,USA,79.3
+United States of America,USA,79.1
+United States of America,USA,78.9
+United States of America,USA,78.8
+United States of America,USA,78.7
+United States of America,USA,78.7
+United States of America,USA,78.5
+United States of America,USA,78.2
+United States of America,USA,78.1
+United States of America,USA,77.8
+United States of America,USA,77.5
+United States of America,USA,77.5
+United States of America,USA,77.2
+United States of America,USA,77
+United States of America,USA,76.9
+United States of America,USA,76.8
+Uruguay,URY,77
+Uruguay,URY,76.8
+Uruguay,URY,76.8
+Uruguay,URY,76.5
+Uruguay,URY,77
+Uruguay,URY,76.3
+Uruguay,URY,76.6
+Uruguay,URY,76.4
+Uruguay,URY,75.4
+Uruguay,URY,76.2
+Uruguay,URY,75.7
+Uruguay,URY,75.4
+Uruguay,URY,75.4
+Uruguay,URY,75.4
+Uruguay,URY,75.2
+Uruguay,URY,75.1
+Uzbekistan,UZB,69.4
+Uzbekistan,UZB,69.2
+Uzbekistan,UZB,69.1
+Uzbekistan,UZB,68.8
+Uzbekistan,UZB,68.5
+Uzbekistan,UZB,68.3
+Uzbekistan,UZB,68
+Uzbekistan,UZB,67.9
+Uzbekistan,UZB,67.8
+Uzbekistan,UZB,67.6
+Uzbekistan,UZB,67.3
+Uzbekistan,UZB,67.8
+Uzbekistan,UZB,67.2
+Uzbekistan,UZB,67.1
+Uzbekistan,UZB,67.4
+Uzbekistan,UZB,67.1
+Vanuatu,VUT,72
+Vanuatu,VUT,71.7
+Vanuatu,VUT,71.6
+Vanuatu,VUT,71.4
+Vanuatu,VUT,71.2
+Vanuatu,VUT,71
+Vanuatu,VUT,78
+Vanuatu,VUT,75
+Vanuatu,VUT,73
+Vanuatu,VUT,71
+Vanuatu,VUT,69.9
+Vanuatu,VUT,69.6
+Vanuatu,VUT,69.4
+Vanuatu,VUT,69.3
+Vanuatu,VUT,69.1
+Vanuatu,VUT,69
+Venezuela (Bolivarian Republic of),VEN,74.1
+Venezuela (Bolivarian Republic of),VEN,73.9
+Venezuela (Bolivarian Republic of),VEN,73.8
+Venezuela (Bolivarian Republic of),VEN,73.7
+Venezuela (Bolivarian Republic of),VEN,73.8
+Venezuela (Bolivarian Republic of),VEN,73.7
+Venezuela (Bolivarian Republic of),VEN,73.6
+Venezuela (Bolivarian Republic of),VEN,73.2
+Venezuela (Bolivarian Republic of),VEN,73.4
+Venezuela (Bolivarian Republic of),VEN,73.6
+Venezuela (Bolivarian Republic of),VEN,73.6
+Venezuela (Bolivarian Republic of),VEN,73.3
+Venezuela (Bolivarian Republic of),VEN,72.4
+Venezuela (Bolivarian Republic of),VEN,73.1
+Venezuela (Bolivarian Republic of),VEN,72.5
+Venezuela (Bolivarian Republic of),VEN,72.5
+Viet Nam,VNM,76
+Viet Nam,VNM,75.9
+Viet Nam,VNM,75.7
+Viet Nam,VNM,75.6
+Viet Nam,VNM,75.4
+Viet Nam,VNM,75.2
+Viet Nam,VNM,75
+Viet Nam,VNM,74.9
+Viet Nam,VNM,74.7
+Viet Nam,VNM,74.6
+Viet Nam,VNM,74.4
+Viet Nam,VNM,74.2
+Viet Nam,VNM,74
+Viet Nam,VNM,73.8
+Viet Nam,VNM,73.6
+Viet Nam,VNM,73.4
+Yemen,YEM,65.7
+Yemen,YEM,65.4
+Yemen,YEM,65.4
+Yemen,YEM,64.7
+Yemen,YEM,64.6
+Yemen,YEM,64.4
+Yemen,YEM,64.1
+Yemen,YEM,63.8
+Yemen,YEM,63.4
+Yemen,YEM,63
+Yemen,YEM,62.6
+Yemen,YEM,62.2
+Yemen,YEM,61.9
+Yemen,YEM,61.5
+Yemen,YEM,61.1
+Yemen,YEM,68
+Zambia,ZMB,61.8
+Zambia,ZMB,61.1
+Zambia,ZMB,63
+Zambia,ZMB,59.2
+Zambia,ZMB,58.2
+Zambia,ZMB,58
+Zambia,ZMB,57.4
+Zambia,ZMB,55.7
+Zambia,ZMB,52.6
+Zambia,ZMB,58
+Zambia,ZMB,49.3
+Zambia,ZMB,47.9
+Zambia,ZMB,46.4
+Zambia,ZMB,45.5
+Zambia,ZMB,44.6
+Zambia,ZMB,43.8
+Zimbabwe,ZWE,67
+Zimbabwe,ZWE,59.2
+Zimbabwe,ZWE,58
+Zimbabwe,ZWE,56.6
+Zimbabwe,ZWE,54.9
+Zimbabwe,ZWE,52.4
+Zimbabwe,ZWE,50
+Zimbabwe,ZWE,48.2
+Zimbabwe,ZWE,46.6
+Zimbabwe,ZWE,45.4
+Zimbabwe,ZWE,44.6
+Zimbabwe,ZWE,44.3
+Zimbabwe,ZWE,44.5
+Zimbabwe,ZWE,44.8
+Zimbabwe,ZWE,45.3
+Zimbabwe,ZWE,46
