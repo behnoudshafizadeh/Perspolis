@@ -3,25 +3,25 @@ Afghanistan,Asia,65,33736494,19.1
 Albania,Europe,77.8,28873,58
 Algeria,Africa,75.6,39871528,59.5
 Angola,Africa,52.4,2785935,23.3
-Antigua and Barbuda,North America,76.4,,47.7
-Argentina,South America,76.3,43417765,62.8
+Antigua and Barbuda,North-America,76.4,,47.7
+Argentina,South-America,76.3,43417765,62.8
 Armenia,Europe,74.8,291695,54.9
 Australia,Oceania,82.8,23789338,66.6
 Austria,Europe,81.5,8633169,57.6
 Azerbaijan,Europe,72.7,9649341,52.5
-Bahamas,North America,76.1,,64.5
+Bahamas,North-America,76.1,,64.5
 Bahrain,Asia,76.9,,63.6
 Bangladesh,Asia,71.8,1612886,18.3
-Barbados,North America,75.5,,54.5
+Barbados,North-America,75.5,,54.5
 Belarus,Europe,72.3,9489616,62.3
 Belgium,Europe,81.1,11274196,63.7
-Belize,North America,71,359288,5.9
+Belize,North-America,71,359288,5.9
 Benin,Africa,60,1575952,25.7
 Bhutan,Asia,69.8,787386,24.5
-Bolivia (Plurinational State of),South America,77,,52.6
+Bolivia (Plurinational State of),South-America,77,,52.6
 Bosnia and Herzegovina,Europe,77.4,3535961,55.8
 Botswana,Africa,65.7,229197,37.9
-Brazil,South America,75,2596218,56.1
+Brazil,South-America,75,2596218,56.1
 Brunei Darussalam,Asia,77.7,,41.2
 Bulgaria,Europe,74.5,7177991,65.7
 Burkina Faso,Africa,59.9,1811624,19.4
@@ -29,18 +29,18 @@ Burundi,Africa,59.6,119927,18.7
 Cabo Verde,Africa,73.3,532913,31.3
 Cambodia,Asia,68.7,15517635,19.6
 Cameroon,Africa,57.3,22834522,29
-Canada,North America,82.2,3584861,67
+Canada,North-America,82.2,3584861,67
 Central African Republic,Africa,52.5,45461,22.7
 Chad,Africa,53.1,149413,19.1
-Chile,South America,85,17762681,63.8
+Chile,South-America,85,17762681,63.8
 China,Asia,76.1,137122,32.9
-Colombia,South America,74.8,48228697,57.9
+Colombia,South-America,74.8,48228697,57.9
 Comoros,Africa,63.5,777424,24.2
 Congo,Africa,64.7,,27.4
 Cook Islands,Oceania,,,82.8
-Costa Rica,North America,79.6,487852,6.5
+Costa Rica,North-America,79.6,487852,6.5
 Croatia,Europe,78,42364,63.7
-Cuba,North America,79.1,,61.4
+Cuba,North-America,79.1,,61.4
 Cyprus,Europe,85,116985,6.3
 Czechia,Europe,78.8,,66.1
 Côte d'Ivoire,Africa,53.3,,28
@@ -48,11 +48,11 @@ Democratic People's Republic of Korea,Asia,76,,32.9
 Democratic Republic of the Congo,Africa,59.8,,21.6
 Denmark,Europe,86,5683483,58.8
 Djibouti,Africa,63.5,927414,35
-Dominica,North America,,,58.4
-Dominican Republic,North America,73.9,1528394,58.9
-Ecuador,South America,76.2,16144368,54.2
+Dominica,North-America,,,58.4
+Dominican Republic,North-America,73.9,1528394,58.9
+Ecuador,South-America,76.2,16144368,54.2
 Egypt,Africa,79,,61.1
-El Salvador,North America,73.5,6312478,56.1
+El Salvador,North-America,73.5,6312478,56.1
 Equatorial Guinea,Africa,58.2,1175389,24.5
 Eritrea,Africa,64.7,447469,18.6
 Estonia,Europe,77.6,131547,59.9
@@ -66,13 +66,13 @@ Georgia,Europe,74.4,37171,56.2
 Germany,Europe,81,81686611,62.3
 Ghana,Africa,62.4,27582821,28.6
 Greece,Europe,81,182883,66.5
-Grenada,North America,73.6,,48.4
-Guatemala,North America,71.9,16252429,5.6
+Grenada,North-America,73.6,,48.4
+Guatemala,North-America,71.9,16252429,5.6
 Guinea,Africa,59,1291533,23.3
 Guinea-Bissau,Africa,58.9,177526,26.3
-Guyana,South America,66.2,768514,46.7
-Haiti,North America,63.5,171161,49.9
-Honduras,North America,74.6,896829,51
+Guyana,South-America,66.2,768514,46.7
+Haiti,North-America,63.5,171161,49.9
+Honduras,North-America,74.6,896829,51
 Hungary,Europe,75.8,984328,64.8
 Iceland,Europe,82.7,33815,61
 India,Asia,68.3,1395398,18.7
@@ -82,7 +82,7 @@ Iraq,Asia,68.9,36115649,59.1
 Ireland,Europe,81.4,4676835,62.8
 Israel,Asia,82.5,8381,64.9
 Italy,Europe,82.7,673582,63.6
-Jamaica,North America,76.2,2871934,54.2
+Jamaica,North-America,76.2,2871934,54.2
 Japan,Asia,83.7,127141,29
 Jordan,Asia,74.1,915932,65.6
 Kazakhstan,Asia,72,17544126,53.1
@@ -107,7 +107,7 @@ Malta,Europe,81.7,431874,69.6
 Marshall Islands,Oceania,,,81.6
 Mauritania,Africa,63.1,4182341,3.8
 Mauritius,Africa,74.6,126265,33.3
-Mexico,North America,76.7,12589949,63.5
+Mexico,North-America,76.7,12589949,63.5
 Micronesia (Federated States of),Oceania,69.4,,69.4
 Monaco,Europe,,,
 Mongolia,Asia,68.8,2976877,52.7
@@ -120,7 +120,7 @@ Nauru,Oceania,,,87.3
 Nepal,Asia,69.2,28656282,19.1
 Netherlands,Europe,81.9,16939923,62.1
 New Zealand,Oceania,81.6,,67.5
-Nicaragua,North America,74.8,68235,54
+Nicaragua,North-America,74.8,68235,54
 Niger,Africa,61.8,19896965,19.3
 Nigeria,Africa,54.5,181181744,25.4
 Niue,Oceania,,,77.3
@@ -128,10 +128,10 @@ Norway,Europe,81.8,518867,61.2
 Oman,Asia,76.6,,54.6
 Pakistan,Asia,66.4,18938513,25.4
 Palau,Oceania,,292,83.3
-Panama,North America,77.8,3969249,57.8
+Panama,North-America,77.8,3969249,57.8
 Papua New Guinea,Oceania,62.9,7919825,48.6
-Paraguay,South America,74,6639119,5.2
-Peru,South America,75.5,31376671,55.6
+Paraguay,South-America,74,6639119,5.2
+Peru,South-America,75.5,31376671,55.6
 Philippines,Asia,68.5,11716359,25.4
 Poland,Europe,77.5,37986412,61.7
 Portugal,Europe,81.1,135876,61.6
@@ -141,9 +141,9 @@ Republic of Moldova,Europe,72.1,,53.4
 Romania,Europe,75,19815481,6.7
 Russian Federation,Asia,75,1449687,6.5
 Rwanda,Africa,66.1,11629553,21.4
-Saint Kitts and Nevis,North America,,,5.2
-Saint Lucia,North America,75.2,,47.5
-Saint Vincent and the Grenadines,North America,73.2,,54.1
+Saint Kitts and Nevis,North-America,,,5.2
+Saint Lucia,North-America,75.2,,47.5
+Saint Vincent and the Grenadines,North-America,73.2,,54.1
 Samoa,Oceania,74,193759,74.7
 San Marino,Europe,,,
 Sao Tome and Principe,Africa,67.5,195553,3.9
@@ -162,7 +162,7 @@ South Sudan,Africa,57.3,11882136,
 Spain,Europe,82.8,46447697,66.6
 Sri Lanka,Asia,74.9,2966,23.4
 Sudan,Africa,64.1,3864783,
-Suriname,South America,71.6,55328,58.3
+Suriname,South-America,71.6,55328,58.3
 Sweden,Europe,82.4,9799186,59.5
 Switzerland,Europe,83.4,8282396,57.4
 Syrian Arab Republic,Asia,64.5,18734987,57.1
@@ -171,7 +171,7 @@ Thailand,Asia,74.9,686576,33.6
 Timor-Leste,Asia,68.3,124977,17.4
 Togo,Africa,59.9,741682,24.3
 Tonga,Oceania,73.5,16364,75.2
-Trinidad and Tobago,North America,71.2,13692,47.1
+Trinidad and Tobago,North-America,71.2,13692,47.1
 Tunisia,Africa,75.3,11273661,61.2
 Turkey,Asia,75.8,78271472,66.1
 Turkmenistan,Asia,66.3,5565284,48.6
@@ -180,11 +180,11 @@ Uganda,Africa,62.3,414487,18.5
 Ukraine,Europe,71.3,4515429,61.3
 United Arab Emirates,Asia,77.1,,64.2
 United Kingdom of Great Britain and Northern Ireland,Europe,81.2,,66.6
-United States of America,North America,79.3,,69.6
-Uruguay,South America,77,3431552,64
+United States of America,North-America,79.3,,69.6
+Uruguay,South-America,77,3431552,64
 Uzbekistan,Asia,69.4,312989,44.7
 Vanuatu,Oceania,72,26463,53.3
-Venezuela (Bolivarian Republic of),South America,74.1,,62.1
+Venezuela (Bolivarian Republic of),South-America,74.1,,62.1
 Viet Nam,Asia,76,,17.5
 Yemen,Asia,65.7,,41.3
 Zambia,Africa,61.8,161587,23.4
