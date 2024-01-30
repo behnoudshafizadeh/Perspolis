@@ -1,0 +1,401 @@
+group,variable,value
+Year,Year,1
+Year,Life expectancy,0.168958462
+Year,Adult Mortality,-0.078862359
+Year,infant deaths,-0.037352456
+Year,Alcohol,-0.049875731
+Year,percentage expenditure,0.03128282
+Year,Hepatitis B,0.104437773
+Year,Measles,-0.081846118
+Year,BMI,0.111465118
+Year,under-five deaths,-0.042717203
+Year,Polio,0.094755084
+Year,Total expenditure,0.088762163
+Year,Diphtheria,0.136861124
+Year,HIV/AIDS,-0.140389716
+Year,GDP,0.10168506
+Year,Population,0.017008973
+Year,thinness 1-19 years,-0.045351883
+Year,thinness 5-9 years,-0.048386936
+Year,Income composition of resources,0.238791663
+Year,Schooling,0.208584774
+Life expectancy,Year,0.168958462
+Life expectancy,Life expectancy,1
+Life expectancy,Adult Mortality,-0.699191257
+Life expectancy,infant deaths,-0.197542144
+Life expectancy,Alcohol,0.414434533
+Life expectancy,percentage expenditure,0.384424936
+Life expectancy,Hepatitis B,0.259897409
+Life expectancy,Measles,-0.160782091
+Life expectancy,BMI,0.56499411
+Life expectancy,under-five deaths,-0.223381348
+Life expectancy,Polio,0.476651368
+Life expectancy,Total expenditure,0.22151407
+Life expectancy,Diphtheria,0.488214913
+Life expectancy,HIV/AIDS,-0.56659029
+Life expectancy,GDP,0.462639294
+Life expectancy,Population,-0.024356654
+Life expectancy,thinness 1-19 years,-0.475661785
+Life expectancy,thinness 5-9 years,-0.469951496
+Life expectancy,Income composition of resources,0.737239737
+Life expectancy,Schooling,0.755397131
+Adult Mortality,Year,-0.078862359
+Adult Mortality,Life expectancy,-0.699191257
+Adult Mortality,Adult Mortality,1
+Adult Mortality,infant deaths,0.077918409
+Adult Mortality,Alcohol,-0.202960398
+Adult Mortality,percentage expenditure,-0.246924271
+Adult Mortality,Hepatitis B,-0.163073615
+Adult Mortality,Measles,0.032187415
+Adult Mortality,BMI,-0.384037027
+Adult Mortality,under-five deaths,0.093185878
+Adult Mortality,Polio,-0.282092719
+Adult Mortality,Total expenditure,-0.117414143
+Adult Mortality,Diphtheria,-0.276480797
+Adult Mortality,HIV/AIDS,0.570437356
+Adult Mortality,GDP,-0.297647246
+Adult Mortality,Population,-0.011973545
+Adult Mortality,thinness 1-19 years,0.30164277
+Adult Mortality,thinness 5-9 years,0.307411794
+Adult Mortality,Income composition of resources,-0.468580772
+Adult Mortality,Schooling,-0.45816562
+infant deaths,Year,-0.037352456
+infant deaths,Life expectancy,-0.197542144
+infant deaths,Adult Mortality,0.077918409
+infant deaths,infant deaths,1
+infant deaths,Alcohol,-0.11633807
+infant deaths,percentage expenditure,-0.085493019
+infant deaths,Hepatitis B,-0.226154993
+infant deaths,Measles,0.501118971
+infant deaths,BMI,-0.225830677
+infant deaths,under-five deaths,0.996642282
+infant deaths,Polio,-0.170420927
+infant deaths,Total expenditure,-0.126119448
+infant deaths,Diphtheria,-0.174992316
+infant deaths,HIV/AIDS,0.034134864
+infant deaths,GDP,-0.109042135
+infant deaths,Population,0.55665382
+infant deaths,thinness 1-19 years,0.46534827
+infant deaths,thinness 5-9 years,0.471110081
+infant deaths,Income composition of resources,-0.148660862
+infant deaths,Schooling,-0.194437936
+Alcohol,Year,-0.049875731
+Alcohol,Life expectancy,0.414434533
+Alcohol,Adult Mortality,-0.202960398
+Alcohol,infant deaths,-0.11633807
+Alcohol,Alcohol,1
+Alcohol,percentage expenditure,0.3407872
+Alcohol,Hepatitis B,0.090576901
+Alcohol,Measles,-0.052810784
+Alcohol,BMI,0.335448781
+Alcohol,under-five deaths,-0.113007646
+Alcohol,Polio,0.22613534
+Alcohol,Total expenditure,0.302282514
+Alcohol,Diphtheria,0.226824851
+Alcohol,HIV/AIDS,-0.065216017
+Alcohol,GDP,0.355388501
+Alcohol,Population,-0.03536188
+Alcohol,thinness 1-19 years,-0.433140031
+Alcohol,thinness 5-9 years,-0.421688994
+Alcohol,Income composition of resources,0.454273464
+Alcohol,Schooling,0.550367331
+percentage expenditure,Year,0.03128282
+percentage expenditure,Life expectancy,0.384424936
+percentage expenditure,Adult Mortality,-0.246924271
+percentage expenditure,infant deaths,-0.085493019
+percentage expenditure,Alcohol,0.3407872
+percentage expenditure,percentage expenditure,1
+percentage expenditure,Hepatitis B,0.015270154
+percentage expenditure,Measles,-0.057204112
+percentage expenditure,BMI,0.229286968
+percentage expenditure,under-five deaths,-0.087615535
+percentage expenditure,Polio,0.149431262
+percentage expenditure,Total expenditure,0.176194437
+percentage expenditure,Diphtheria,0.145167613
+percentage expenditure,HIV/AIDS,-0.102480655
+percentage expenditure,GDP,0.899342443
+percentage expenditure,Population,-0.026040915
+percentage expenditure,thinness 1-19 years,-0.251545603
+percentage expenditure,thinness 5-9 years,-0.253087283
+percentage expenditure,Income composition of resources,0.383780314
+percentage expenditure,Schooling,0.38977325
+Hepatitis B,Year,0.104437773
+Hepatitis B,Life expectancy,0.259897409
+Hepatitis B,Adult Mortality,-0.163073615
+Hepatitis B,infant deaths,-0.226154993
+Hepatitis B,Alcohol,0.090576901
+Hepatitis B,percentage expenditure,0.015270154
+Hepatitis B,Hepatitis B,1
+Hepatitis B,Measles,-0.122552231
+Hepatitis B,BMI,0.151961651
+Hepatitis B,under-five deaths,-0.235747373
+Hepatitis B,Polio,0.495220196
+Hepatitis B,Total expenditure,0.059115246
+Hepatitis B,Diphtheria,0.608685054
+Hepatitis B,HIV/AIDS,-0.124712742
+Hepatitis B,GDP,0.083839193
+Hepatitis B,Population,-0.124466001
+Hepatitis B,thinness 1-19 years,-0.120546517
+Hepatitis B,thinness 5-9 years,-0.125182815
+Hepatitis B,Income composition of resources,0.199102893
+Hepatitis B,Schooling,0.232496208
+Measles,Year,-0.081846118
+Measles,Life expectancy,-0.160782091
+Measles,Adult Mortality,0.032187415
+Measles,infant deaths,0.501118971
+Measles,Alcohol,-0.052810784
+Measles,percentage expenditure,-0.057204112
+Measles,Hepatitis B,-0.122552231
+Measles,Measles,1
+Measles,BMI,-0.176843774
+Measles,under-five deaths,0.507854056
+Measles,Polio,-0.135211643
+Measles,Total expenditure,-0.104560477
+Measles,Diphtheria,-0.142607726
+Measles,HIV/AIDS,0.042374712
+Measles,GDP,-0.07701173
+Measles,Population,0.265740738
+Measles,thinness 1-19 years,0.224918881
+Measles,thinness 5-9 years,0.221197166
+Measles,Income composition of resources,-0.13267581
+Measles,Schooling,-0.137839326
+BMI,Year,0.111465118
+BMI,Life expectancy,0.56499411
+BMI,Adult Mortality,-0.384037027
+BMI,infant deaths,-0.225830677
+BMI,Alcohol,0.335448781
+BMI,percentage expenditure,0.229286968
+BMI,Hepatitis B,0.151961651
+BMI,Measles,-0.176843774
+BMI,BMI,1
+BMI,under-five deaths,-0.235892172
+BMI,Polio,0.286631836
+BMI,Total expenditure,0.241574026
+BMI,Diphtheria,0.284300387
+BMI,HIV/AIDS,-0.256015242
+BMI,GDP,0.300808277
+BMI,Population,-0.073306348
+BMI,thinness 1-19 years,-0.53057591
+BMI,thinness 5-9 years,-0.53764151
+BMI,Income composition of resources,0.518954697
+BMI,Schooling,0.547764317
+under-five deaths,Year,-0.042717203
+under-five deaths,Life expectancy,-0.223381348
+under-five deaths,Adult Mortality,0.093185878
+under-five deaths,infant deaths,0.996642282
+under-five deaths,Alcohol,-0.113007646
+under-five deaths,percentage expenditure,-0.087615535
+under-five deaths,Hepatitis B,-0.235747373
+under-five deaths,Measles,0.507854056
+under-five deaths,BMI,-0.235892172
+under-five deaths,under-five deaths,1
+under-five deaths,Polio,-0.188575306
+under-five deaths,Total expenditure,-0.127382696
+under-five deaths,Diphtheria,-0.195561624
+under-five deaths,HIV/AIDS,0.048666079
+under-five deaths,GDP,-0.112710631
+under-five deaths,Population,0.544268298
+under-five deaths,thinness 1-19 years,0.467282538
+under-five deaths,thinness 5-9 years,0.471889652
+under-five deaths,Income composition of resources,-0.167068558
+under-five deaths,Schooling,-0.210123663
+Polio,Year,0.094755084
+Polio,Life expectancy,0.476651368
+Polio,Adult Mortality,-0.282092719
+Polio,infant deaths,-0.170420927
+Polio,Alcohol,0.22613534
+Polio,percentage expenditure,0.149431262
+Polio,Hepatitis B,0.495220196
+Polio,Measles,-0.135211643
+Polio,BMI,0.286631836
+Polio,under-five deaths,-0.188575306
+Polio,Polio,1
+Polio,Total expenditure,0.135124917
+Polio,Diphtheria,0.680025965
+Polio,HIV/AIDS,-0.197343501
+Polio,GDP,0.21279513
+Polio,Population,-0.038096795
+Polio,thinness 1-19 years,-0.222012794
+Polio,thinness 5-9 years,-0.222822733
+Polio,Income composition of resources,0.389706947
+Polio,Schooling,0.419245249
+Total expenditure,Year,0.088762163
+Total expenditure,Life expectancy,0.22151407
+Total expenditure,Adult Mortality,-0.117414143
+Total expenditure,infant deaths,-0.126119448
+Total expenditure,Alcohol,0.302282514
+Total expenditure,percentage expenditure,0.176194437
+Total expenditure,Hepatitis B,0.059115246
+Total expenditure,Measles,-0.104560477
+Total expenditure,BMI,0.241574026
+Total expenditure,under-five deaths,-0.127382696
+Total expenditure,Polio,0.135124917
+Total expenditure,Total expenditure,1
+Total expenditure,Diphtheria,0.151471853
+Total expenditure,HIV/AIDS,-0.007024513
+Total expenditure,GDP,0.140045531
+Total expenditure,Population,-0.07912809
+Total expenditure,thinness 1-19 years,-0.275485376
+Total expenditure,thinness 5-9 years,-0.282339223
+Total expenditure,Income composition of resources,0.178496823
+Total expenditure,Schooling,0.248398981
+Diphtheria,Year,0.136861124
+Diphtheria,Life expectancy,0.488214913
+Diphtheria,Adult Mortality,-0.276480797
+Diphtheria,infant deaths,-0.174992316
+Diphtheria,Alcohol,0.226824851
+Diphtheria,percentage expenditure,0.145167613
+Diphtheria,Hepatitis B,0.608685054
+Diphtheria,Measles,-0.142607726
+Diphtheria,BMI,0.284300387
+Diphtheria,under-five deaths,-0.195561624
+Diphtheria,Polio,0.680025965
+Diphtheria,Total expenditure,0.151471853
+Diphtheria,Diphtheria,1
+Diphtheria,HIV/AIDS,-0.197459669
+Diphtheria,GDP,0.201383939
+Diphtheria,Population,-0.028380781
+Diphtheria,thinness 1-19 years,-0.229697563
+Diphtheria,thinness 5-9 years,-0.222942886
+Diphtheria,Income composition of resources,0.410266211
+Diphtheria,Schooling,0.427060287
+HIV/AIDS,Year,-0.140389716
+HIV/AIDS,Life expectancy,-0.56659029
+HIV/AIDS,Adult Mortality,0.570437356
+HIV/AIDS,infant deaths,0.034134864
+HIV/AIDS,Alcohol,-0.065216017
+HIV/AIDS,percentage expenditure,-0.102480655
+HIV/AIDS,Hepatitis B,-0.124712742
+HIV/AIDS,Measles,0.042374712
+HIV/AIDS,BMI,-0.256015242
+HIV/AIDS,under-five deaths,0.048666079
+HIV/AIDS,Polio,-0.197343501
+HIV/AIDS,Total expenditure,-0.007024513
+HIV/AIDS,Diphtheria,-0.197459669
+HIV/AIDS,HIV/AIDS,1
+HIV/AIDS,GDP,-0.142818866
+HIV/AIDS,Population,-0.023476624
+HIV/AIDS,thinness 1-19 years,0.212601611
+HIV/AIDS,thinness 5-9 years,0.215692318
+HIV/AIDS,Income composition of resources,-0.27358442
+HIV/AIDS,Schooling,-0.232942756
+GDP,Year,0.10168506
+GDP,Life expectancy,0.462639294
+GDP,Adult Mortality,-0.297647246
+GDP,infant deaths,-0.109042135
+GDP,Alcohol,0.355388501
+GDP,percentage expenditure,0.899342443
+GDP,Hepatitis B,0.083839193
+GDP,Measles,-0.07701173
+GDP,BMI,0.300808277
+GDP,under-five deaths,-0.112710631
+GDP,Polio,0.21279513
+GDP,Total expenditure,0.140045531
+GDP,Diphtheria,0.201383939
+GDP,HIV/AIDS,-0.142818866
+GDP,GDP,1
+GDP,Population,-0.028761087
+GDP,thinness 1-19 years,-0.285083405
+GDP,thinness 5-9 years,-0.289901606
+GDP,Income composition of resources,0.459674165
+GDP,Schooling,0.447654587
+Population,Year,0.017008973
+Population,Life expectancy,-0.024356654
+Population,Adult Mortality,-0.011973545
+Population,infant deaths,0.55665382
+Population,Alcohol,-0.03536188
+Population,percentage expenditure,-0.026040915
+Population,Hepatitis B,-0.124466001
+Population,Measles,0.265740738
+Population,BMI,-0.073306348
+Population,under-five deaths,0.544268298
+Population,Polio,-0.038096795
+Population,Total expenditure,-0.07912809
+Population,Diphtheria,-0.028380781
+Population,HIV/AIDS,-0.023476624
+Population,GDP,-0.028761087
+Population,Population,1
+Population,thinness 1-19 years,0.254707498
+Population,thinness 5-9 years,0.252192844
+Population,Income composition of resources,-0.009439078
+Population,Schooling,-0.032332732
+thinness 1-19 years,Year,-0.045351883
+thinness 1-19 years,Life expectancy,-0.475661785
+thinness 1-19 years,Adult Mortality,0.30164277
+thinness 1-19 years,infant deaths,0.46534827
+thinness 1-19 years,Alcohol,-0.433140031
+thinness 1-19 years,percentage expenditure,-0.251545603
+thinness 1-19 years,Hepatitis B,-0.120546517
+thinness 1-19 years,Measles,0.224918881
+thinness 1-19 years,BMI,-0.53057591
+thinness 1-19 years,under-five deaths,0.467282538
+thinness 1-19 years,Polio,-0.222012794
+thinness 1-19 years,Total expenditure,-0.275485376
+thinness 1-19 years,Diphtheria,-0.229697563
+thinness 1-19 years,HIV/AIDS,0.212601611
+thinness 1-19 years,GDP,-0.285083405
+thinness 1-19 years,Population,0.254707498
+thinness 1-19 years,thinness 1-19 years,1
+thinness 1-19 years,thinness 5-9 years,0.938795508
+thinness 1-19 years,Income composition of resources,-0.429076706
+thinness 1-19 years,Schooling,-0.470959597
+thinness 5-9 years,Year,-0.048386936
+thinness 5-9 years,Life expectancy,-0.469951496
+thinness 5-9 years,Adult Mortality,0.307411794
+thinness 5-9 years,infant deaths,0.471110081
+thinness 5-9 years,Alcohol,-0.421688994
+thinness 5-9 years,percentage expenditure,-0.253087283
+thinness 5-9 years,Hepatitis B,-0.125182815
+thinness 5-9 years,Measles,0.221197166
+thinness 5-9 years,BMI,-0.53764151
+thinness 5-9 years,under-five deaths,0.471889652
+thinness 5-9 years,Polio,-0.222822733
+thinness 5-9 years,Total expenditure,-0.282339223
+thinness 5-9 years,Diphtheria,-0.222942886
+thinness 5-9 years,HIV/AIDS,0.215692318
+thinness 5-9 years,GDP,-0.289901606
+thinness 5-9 years,Population,0.252192844
+thinness 5-9 years,thinness 1-19 years,0.938795508
+thinness 5-9 years,thinness 5-9 years,1
+thinness 5-9 years,Income composition of resources,-0.417475206
+thinness 5-9 years,Schooling,-0.459861248
+Income composition of resources,Year,0.238791663
+Income composition of resources,Life expectancy,0.737239737
+Income composition of resources,Adult Mortality,-0.468580772
+Income composition of resources,infant deaths,-0.148660862
+Income composition of resources,Alcohol,0.454273464
+Income composition of resources,percentage expenditure,0.383780314
+Income composition of resources,Hepatitis B,0.199102893
+Income composition of resources,Measles,-0.13267581
+Income composition of resources,BMI,0.518954697
+Income composition of resources,under-five deaths,-0.167068558
+Income composition of resources,Polio,0.389706947
+Income composition of resources,Total expenditure,0.178496823
+Income composition of resources,Diphtheria,0.410266211
+Income composition of resources,HIV/AIDS,-0.27358442
+Income composition of resources,GDP,0.459674165
+Income composition of resources,Population,-0.009439078
+Income composition of resources,thinness 1-19 years,-0.429076706
+Income composition of resources,thinness 5-9 years,-0.417475206
+Income composition of resources,Income composition of resources,1
+Income composition of resources,Schooling,0.807411432
+Schooling,Year,0.208584774
+Schooling,Life expectancy,0.755397131
+Schooling,Adult Mortality,-0.45816562
+Schooling,infant deaths,-0.194437936
+Schooling,Alcohol,0.550367331
+Schooling,percentage expenditure,0.38977325
+Schooling,Hepatitis B,0.232496208
+Schooling,Measles,-0.137839326
+Schooling,BMI,0.547764317
+Schooling,under-five deaths,-0.210123663
+Schooling,Polio,0.419245249
+Schooling,Total expenditure,0.248398981
+Schooling,Diphtheria,0.427060287
+Schooling,HIV/AIDS,-0.232942756
+Schooling,GDP,0.447654587
+Schooling,Population,-0.032332732
+Schooling,thinness 1-19 years,-0.470959597
+Schooling,thinness 5-9 years,-0.459861248
+Schooling,Income composition of resources,0.807411432
+Schooling,Schooling,1
